@@ -1,0 +1,1 @@
+﻿Amikor ellenséges egységeket támad, ez a lény képes elszívni a manájukat, és azt saját feltámasztására használni. Az elszívott mana az egységben lévő lények számával egyenlő, legfeljebb a célpont tényleges mana mennyiségével. A feltámasztott lények száma megegyezik a lecsapolt mana mennyiségével.

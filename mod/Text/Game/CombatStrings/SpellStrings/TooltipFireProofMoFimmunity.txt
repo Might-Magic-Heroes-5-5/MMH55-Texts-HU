@@ -1,0 +1,1 @@
+﻿<color_default>+<value=proof>% Tűz Biztos jellemző<br>Immunitás a Tűz Mestere képességre

@@ -1,0 +1,3 @@
+﻿+5 Varázserő<br>
+-1 Morál<br><br><color=orange>
+Múmiák<color_default><br>Égesd el ezt a leletet egy templomban, és egy halom múmiát fog megidézni. A halom mérete egyenlő 3*az eltelt hetek számával.

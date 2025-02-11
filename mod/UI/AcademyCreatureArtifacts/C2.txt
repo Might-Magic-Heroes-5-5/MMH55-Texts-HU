@@ -1,0 +1,1 @@
+﻿<center><body_bright>Szerencse<br><color_default>Növeli a Szerencsét ennyivel: 1+T/20.

@@ -1,0 +1,1 @@
+﻿Támadás közben ez a lény teljes sebzést okoz nemcsak a célpontnak, hanem a közvetlenül mögötte elhelyezkedő bármely más ellenséges egységnek is, és tűzfalat hagy a támadás irányában lévő két mezőn. A tűzfal 2 fordulón keresztül a csoprtméret*10-nek megfelelő mennyiségű tűzsebzést okoz minden egységnek (barátnak vagy ellenségnek).

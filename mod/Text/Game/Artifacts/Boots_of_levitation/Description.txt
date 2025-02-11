@@ -1,0 +1,2 @@
+﻿Megadja a vízen járás képességét, és teljesen figyelmen kívül hagyja a terepbüntetéseket. A mozgási költség mezőnként 25-tel csökken (kivéve, ha utakon közlekedsz).<br><br><color=red>
+Levitálás<color_default><br>A Logisztika és az Útkereső képességeknek nincs hatása.

@@ -1,0 +1,1 @@
+﻿A hős nem költ mozgási pontokat Nyersanyag erőforrások felszedésére, épületek vagy csónakok, hajók elérésére és más hasonló cselekvésekre. Az Elragadás a tengeren is működik; a hajóba való berakodás nem használ mozgási pontokat, de a leszállás egy normál mozgásba kerül.

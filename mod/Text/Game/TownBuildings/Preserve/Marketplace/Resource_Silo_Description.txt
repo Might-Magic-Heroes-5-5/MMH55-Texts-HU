@@ -1,0 +1,2 @@
+﻿<color_default>A Piactér egy fejlesztése.<br>
+<color_bright>A Nyersanyag Siló további +1 Drágakövet biztosít minden nap.

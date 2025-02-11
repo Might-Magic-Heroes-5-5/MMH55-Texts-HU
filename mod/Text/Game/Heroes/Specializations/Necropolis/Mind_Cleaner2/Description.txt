@@ -1,0 +1,1 @@
+﻿Varázslat-csavaró: A Hős +1 Szerencsével kezd véglegesen. Ha egy ellenséges hős bármilyen varázslatot varázsol, azt blokkolni tudja a varázskönyvében, ami lehetetlenné teszi, hogy az adott varázslatot ebben a harcban újra elmondja. A blokkolás valószínűsége a hős szintjével nő.

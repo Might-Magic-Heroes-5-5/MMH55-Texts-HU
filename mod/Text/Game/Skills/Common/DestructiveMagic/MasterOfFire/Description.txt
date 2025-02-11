@@ -1,0 +1,1 @@
+﻿A hős megtanulja a Tűzlabda varázslatot, és páncélkárosító hatást kap a Tűzlabda, Tűzfal és az Armageddon varázslatokhoz.<br><color_default>Az ilyen varázslatok által érintett lények további -50%-os Védelem érték büntetésben részesülnek. A Védelem büntetés 1 harci körön át tart, és nem halmozódik fel.

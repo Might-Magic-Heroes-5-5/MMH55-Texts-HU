@@ -1,0 +1,1 @@
+﻿Ez a lény teljesen immunis minden varázslatra, kivéve azokat, amelyek sebzést okoznak. Minden varázslat, amely mágikus sebzést okoz, a sebzés 25%-át gyógyítja HP-ban (feltámadással).

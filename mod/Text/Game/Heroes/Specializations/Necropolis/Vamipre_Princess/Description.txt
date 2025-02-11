@@ -1,0 +1,1 @@
+﻿Vámpír Hercegnő: A hős seregében lévő összes Vámpír, Vámpírúr és Vámpírherceg +1-et kap a Támadásához és a Védelméhez a hős minden második szintjén, az első szinttől kezdve.

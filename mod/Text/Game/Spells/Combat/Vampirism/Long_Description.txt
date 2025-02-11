@@ -1,0 +1,1 @@
+﻿A kiválasztott célpont megkapja az összes Élőhalott jellemzőt és attribútumot és az élet kiürítésének képességét. A célpontra ható Elmekontroll varázslatok el lesznek távolítva, és a célpont lény véglegesen feltámasztható az Újraélesztés varázslat segítségével.

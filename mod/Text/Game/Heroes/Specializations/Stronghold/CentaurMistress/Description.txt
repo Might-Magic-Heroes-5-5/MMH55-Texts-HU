@@ -1,0 +1,1 @@
+﻿Kentaur Parancsnok: A hős seregében lévő Kentaurok, Kentaur Nomádok és Kentaur Martalócok a hős minden második szintjén +1-et kapnak a támadásukra és a védelmükre, az első szinttől kezdve. Továbbá +0,25%-ot kapnak a kezdő kezdeményezésükhöz a hős minden szintjén.

@@ -1,0 +1,1 @@
+﻿Minden Pokol-béli hősnek +2500 tapasztalatot biztosít (több várossal együtt is halmozódik), és lehetővé teszi lények feláldozását ebben az épületben, cserébe extra Tapasztalati pontokért.<br><br><color=0099FF>Kormányzóság<color_default><br>A kormányzója ennek városnak +2 Támadás értéket kap.

@@ -1,0 +1,1 @@
+﻿Osztály: Renegát<br>Specializáció: Vakbuzgó<br><br><body_bright>A hős állandó +1 Támadásbónuszt kap, és minden egyes megölt ellenséges csapat (a megidézett csapatokat is figyelembe véve) a hős minden 9. szintjén +1-gyel növeli a seregében lévő összes lény támadását.<br><color_default>Kezdő Szakértelem: Harművészetek

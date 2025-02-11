@@ -1,0 +1,1 @@
+﻿Egy öreg Boszorkány szívesen lát és érdeklődik a küldetésed iránt, azt hiszi, hogy már elég sok mindent tudsz, de cserébe <value=gold> Aranyért hajlandó megtanítani neked ezt: <value=mastery> <value=skill>. Elfogadod?

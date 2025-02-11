@@ -1,0 +1,1 @@
+﻿Minden ellenség, aki megtámadja ezt a várost, -1 büntetést kap a Védelem értékére.

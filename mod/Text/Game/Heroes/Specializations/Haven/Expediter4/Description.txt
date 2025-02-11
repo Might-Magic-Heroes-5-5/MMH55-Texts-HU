@@ -1,0 +1,1 @@
+﻿Skizmatikus: A hős Varázsereje minden 7. szinten +1-gyel nő, és a Gyorsítás varázslat hatása 0,15%-kal nő minden hősi szinten.

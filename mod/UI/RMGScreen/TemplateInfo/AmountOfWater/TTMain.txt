@@ -1,0 +1,1 @@
+﻿Szigetes térkép létrehozása esetén a Sablon (Template) jelzéshez képest egy nagyobb térképméretet használnak, ellenkező esetben a szigetek túl kicsik lehetnek.

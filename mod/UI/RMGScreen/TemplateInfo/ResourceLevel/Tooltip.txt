@@ -1,0 +1,1 @@
+﻿Ez szabályozza a szabad Nyersanyag kupacok mennyiségét a játékosok kezdőterületein.

@@ -1,0 +1,1 @@
+﻿Elrejti a Varázstárgyakat a térképen, és a semleges hősök használhatják őket, ha a beállítás nehézsége a Normál érték felett van. A Varázstárgyakat tábortüzek váltják fel. A tábortüzek fokozzák a mozgást és a mana mértékét is. A mana regeneráció a felére csökken. A vegyes semleges lénycsoportok generálása mindig le lesz tiltva, ha ezt a funkciót választod.

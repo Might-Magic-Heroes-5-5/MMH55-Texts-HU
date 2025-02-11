@@ -1,0 +1,1 @@
+﻿A hős képessé válik a nyilai varázslatokkal való felerősítésére. Az Erősített Nyilak elszívják a hős Manáját.<br><color_default>Átitatott Nyilak hatás a csata végéig tart, vagy amíg az összes Mana el nem fogy. Egyszerre csak egy varázslatot lehet átitatni. A hős nem költ ATB Kezdeményezési Sác értéket az átitató varázslat kiválasztására, és azonnal újra cselekedhet.

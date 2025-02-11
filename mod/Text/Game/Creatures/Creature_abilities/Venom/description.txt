@@ -1,0 +1,1 @@
+﻿Az ellenséget megtámadva ez a lény megmérgezi azt. A méreg hatása még 3 fordulóig tart, és minden fordulóban sebzést okoz a célpontnak. A sebzés fordulónként megegyezik a lényméret*8 értékkel. A méreghatást a Kézrátétellel és az Elsősegély Sátorral el lehet távolítani, de nem a Megtiszítással varázslattal vagy a Purgálás képességgel.

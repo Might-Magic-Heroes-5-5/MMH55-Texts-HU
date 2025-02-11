@@ -1,0 +1,7 @@
+﻿+4 Varázserő<br>
++4 Tudás<br>
+-1 Morál<br><br><color=purple>
+A Halál Ölelése<color_default><br>
++6 Varázserő (3/6)<br>
++12 Varázserő (6/6)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

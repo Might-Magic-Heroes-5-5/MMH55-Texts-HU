@@ -1,0 +1,1 @@
+﻿+4-gyel növeli a hős Támadás értékét, és a hős által vezetett összes lény dupla sebzést okoz a megidézett ellenséges lényeknek.

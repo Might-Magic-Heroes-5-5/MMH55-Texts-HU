@@ -1,0 +1,22 @@
+﻿-------------------------------------------------------------------------------
+KORMÁNYZÓI SZERZŐDÉS
+-------------------------------------------------------------------------------
+
+Előnyök:
+
+- A hős naponta sok Tapasztalati Pontot szerez városi és hősszinttől függően.
+-A városi lényépületej minden héten %-os extra toborzás erősítést kapnak, ez a % megegyezik a hős szintjével, ha a hős szintje túl alacsony, nem kapnak plusz lényeket.
+-A hős különféle exkluzív bónuszokat kap a város épületeiből.
+-Ha a városban van egy 5-ös szintű Mágia Cége, a hős használhatja a Városkapu képességét és visszateleportálhat ebbe a városba, a hős nem hagyhatja el a posztját és teleportálhat más városokba.
+-Ha a hősnek van bármilyen Légió Koronakészerei varázstárgya, a csapatok helyett a városi lakásokba kerülnek, és az összeget úgy számolják ki, mintha a hősnek 5 további tudása lenne.
+
+Kötelezettségek:
+
+-A hősnek 50 mezőnyi sugáron belül kell maradnia a város körül. Ezen a sugáron kívül a hős egyre több mozgási pontot veszít, minél tovább megy, és a város által adott bónuszok is megszűnnek. Az 5. szintnél alacsonyabb kormányzók is elveszítenek néhány mozgási pontot, ha közel vannak a városhoz.
+-A hős legfeljebb 10 Sárkányvér Kristályt használhat fel, a felesleges kristályok a lemondás után funkcionálissá válnak.
+-A hős csak akkor mondhatja fel a szerződést, ha a város kapujában áll. A hős köteles legalább egy hónapig kormányozni ezt a várost, ha a hős úgy dönt, hogy korábban lemond, akkor a hivatalban nem töltött napok összege*100 pénzbírságot kell fizetnie a város lakóinak.
+
+-------------------------------------------------------------------------------
+
+RENDBEN = Szerződés aláírása
+KILÉPÉS = Elutasítás

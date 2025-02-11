@@ -1,0 +1,1 @@
+﻿<color=yellow>Megfejtetted az obeliszket, és felfedte előtted egy elfelejtett kripta helyét. Szeretnél kincsek után kutatni?<br><br>(Fenyegetés szintje: Kihívást jelentő)<br><br>OK = Elfogadás<br >MÉGSEM = Elutasítás<br><br>Ha elutasítják, ezt a kihívást később is elfogadhatod.

@@ -1,0 +1,1 @@
+﻿A lény harc közben egyszer feltámaszthat egy elpusztított szövetséges egységet, feltéve, hogy az egység elpusztításának helyét nem foglalja el egy másik lény (aktivált képesség). A feltámasztás ereje megegyezik a lény mennyiségével*80.

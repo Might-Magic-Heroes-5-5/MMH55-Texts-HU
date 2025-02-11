@@ -1,0 +1,1 @@
+﻿Osztály: Lovag<br>Specializáció: Griff Edző<br><br><body_bright>A hős seregében lévő összes Griff, Birodalmi Griff és Harci Griff +1-et kap a Támadásához és a Védelméhez a hős minden második szintjén, az első szinttől kezdve. A fel nem fejlesztett Griffek megkapják a Harci merülés képességet.<br><color_default>Kezdő Képesség: Védelem Haladó szint

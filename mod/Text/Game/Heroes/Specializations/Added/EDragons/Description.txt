@@ -1,0 +1,1 @@
+﻿Sylanna Kiválasztottja: A hős állandóan +1 Morál értékkel kezd, és minden hét elején további Zöld sárkányok, Smaragdsárkányok és Kristálysárkányok lesznek elérhetők a toborzásra az összes általa birtokolt Erdőmélye városban. Az összeg 0,04*hős szintnek felel meg. A 13. szint előtt nem állnak rendelkezésre extra lények.

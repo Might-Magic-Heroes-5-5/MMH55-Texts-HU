@@ -1,0 +1,1 @@
+﻿Az Ezüst Városok Varázsa: A hős Varázsereje minden 7. szinten +1-gyel nő, és a Gyorsítás varázslat hatása minden hősi szinten 0,15%-kal megnő.

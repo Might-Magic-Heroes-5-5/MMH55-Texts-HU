@@ -1,0 +1,1 @@
+﻿Osztály: Rúnamágus<br>Specializáció: A Kőcsarnokok Királya<br><br><body_bright>A hős seregében lévő összes lénynek állandóan aktív a "Mágia Kontroll rúnájának" hatása (a lény fordulójának kezdetén mindig frissül).

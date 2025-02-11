@@ -1,0 +1,1 @@
+﻿Eltávolítja a keretet a játékablakból ablak módban.

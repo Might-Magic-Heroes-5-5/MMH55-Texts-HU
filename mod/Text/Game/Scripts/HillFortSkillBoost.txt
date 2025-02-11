@@ -1,0 +1,4 @@
+﻿A lények fejlesztésére szolgáló gyakorlóterek végleg bezártak, de a Kvartélymester továbbra is hajlandó bizonyos haladó harci kiképzést nyújtani.
+
+Rendben = +2 Támadás
+Kilépés = +2 Védelem

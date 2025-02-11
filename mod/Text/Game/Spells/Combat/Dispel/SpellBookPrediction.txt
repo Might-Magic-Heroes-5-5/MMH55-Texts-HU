@@ -1,0 +1,1 @@
+﻿Az eloszlatási esély a hasonló szintű varázslő hőssel szemben <value=enchant>%.

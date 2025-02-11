@@ -1,0 +1,1 @@
+﻿A hős +2 Védelem értéket kap, és a hős seregében lévő összes lény Védelem értéke megnövekszik, ha egymás mellett állnak a csatatéren.<br><color_default>A bónusz erőssége a lények erejétől s szintjétől (1-2-3-4-5-6-7) függ (a gyenge lények nagyobb védelmet kapnak mint az erősebb félék), a Védelem érték bónusz maximuma a +10 -es értéket értheti el legfeljebb.

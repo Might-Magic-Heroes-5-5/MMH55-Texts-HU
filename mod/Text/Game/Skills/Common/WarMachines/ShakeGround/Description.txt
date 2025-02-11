@@ -1,0 +1,2 @@
+﻿A hős megszerzi a Földrengés varázslatot és azt a képességet, hogy rázó hatást fejtsen ki, károsítva és elkábítva az Erődítmény falai mögötti összes lényt is. Az okozott kár 120+12*Varázserő. A kábító hatás 0,1 ATB Kezdeményezési Sáv érték csökkenést okoz. A baráti lényeket is eltalálja.<br><br><color=orange>Sylanna tanítványa<color_default><br>
+A hős a Föld Sárkányistenének követőjévé válik, és 10 Sárkányvér kristályt szerez.

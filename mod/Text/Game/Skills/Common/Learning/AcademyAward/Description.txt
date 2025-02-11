@@ -1,0 +1,1 @@
+﻿A hős minden 2. hős szint után +2 Varázserő értéket és egy egyszeri bónuszt kap, ami 1000 arany + 1 drágakő.

@@ -1,0 +1,1 @@
+﻿Ha a hős seregében van egy ilyen képességgel rendelkező lény, akkor a hősnek 5%-kal kevesebb manára lesz szüksége a varázslatokhoz. A költségcsökkentés felfelé kerekítve mindig legalább 1 manával csökken.

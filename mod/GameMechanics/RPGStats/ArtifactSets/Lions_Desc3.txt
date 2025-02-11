@@ -1,0 +1,1 @@
+﻿Minden alkalommal, amikor a hős seregének bármely lénye pozitív Morál-hatást kap, a hős +5% százalékkal előrelép az ATB Kezdeményezési Sáv mentén. (Ha a Morál hatás negatív, a hős hátrafelé mozog). A Lovag hős kaszt támadásai (beleértve a Visszatámadó Csapás képességet is) -2-vel csökkentik az ellenség Morálját. A Paladin kasztú hősök Védelem értéke +4-gyel megnő.

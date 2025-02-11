@@ -1,0 +1,1 @@
+﻿Növeli a hős seregének Vérdüh pontjait <value=army_rp> értékkel.

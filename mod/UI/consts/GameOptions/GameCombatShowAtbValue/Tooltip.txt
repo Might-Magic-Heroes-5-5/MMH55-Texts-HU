@@ -1,0 +1,1 @@
+﻿Ha kiválasztod, az egyes egységek tizedes értékű ATB Kezdeményezési Sáv értéke megjelenik. Ha egy egység ATB értéke eléri az 1-et, akkor harcba lép. Az ATB-értékeket a harcban képességekkel lehet manipulálni.

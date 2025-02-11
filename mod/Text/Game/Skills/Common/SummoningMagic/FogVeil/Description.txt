@@ -1,0 +1,1 @@
+﻿A hős felszólítja a természet erőit, hogy befolyásolják az ellenséges távolságból támadó lényeket. Az összes ellenséges távolsági lövész lény Kezdeményező készsége 10%-kal, a Sebzésük pedig 25%-kal csökken.

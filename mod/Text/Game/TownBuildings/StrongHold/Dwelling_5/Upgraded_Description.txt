@@ -1,0 +1,2 @@
+﻿<color_default>A Düh Kamrájának egy fejlesztése.<br>
+<color_bright>A Harag Kamrája lehetővé teszi Hóhérok és Hadurak toborzását.

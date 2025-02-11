@@ -1,0 +1,1 @@
+﻿<color=yellow>Néhány itt lakozó menekült úgy döntött, hogy csatlakozik az ügyedhez(+<value=num> <value=upgtype>)

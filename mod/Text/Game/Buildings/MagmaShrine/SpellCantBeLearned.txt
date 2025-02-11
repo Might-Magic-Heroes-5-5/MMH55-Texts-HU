@@ -1,0 +1,1 @@
+﻿Runás varázslatot <value=spell> nem lehet megtanulni. Szükség van hozzá <value=skill>.

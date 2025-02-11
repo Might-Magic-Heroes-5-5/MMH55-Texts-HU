@@ -1,0 +1,1 @@
+﻿A hős +2 Tudás értéket kap, és egy véletlenszerű további Attributúma 1-vel nő, minden 5. hős szint után, beleértve a már megszerzett szinteket is. A hős 10%-kal több Tapasztalati pontot is szerez minden forrásból.

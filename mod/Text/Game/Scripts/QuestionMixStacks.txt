@@ -1,0 +1,3 @@
+﻿Szeretnél vegyes semleges lénycsoportokat generálni a játék kezdete előtt?
+
+(FIGYELEM: A generálás a térkép méretétől függetlenül folytatódik, és percekre leállíthatja a játékot)

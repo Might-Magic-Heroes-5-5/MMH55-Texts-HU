@@ -1,0 +1,1 @@
+﻿Közelről (a célponttól legfeljebb 5 mezőnyi távolságra) történő lövéskor a nyílpuskás nagyobb sebzést okoz, mivel a célpont védekezése nem annyira hatékony.

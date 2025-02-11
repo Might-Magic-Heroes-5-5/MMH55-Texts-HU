@@ -1,0 +1,1 @@
+﻿Súlyos sebzést okoz a városfalaknak és a tornyoknak az ostrom során, és kis mennyiségű fizikai sérülést okoz minden lénynek (barátnak és ellenségnek), még akkor is, ha az ostromcsatán kívülre vetik. A lények sebzése 20 + (2 * Varázserő), függetlenül az esetlegesen meglévő adott Mágia ág Képesség szintjétől.

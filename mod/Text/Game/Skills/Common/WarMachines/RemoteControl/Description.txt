@@ -1,0 +1,1 @@
+﻿A csaták elején az egyik ellenséges Hadigép az irányításod alá kerül. A Hadigép fajtája véletlenszerűen kerül kiválasztásra, a Katapult kivételével.

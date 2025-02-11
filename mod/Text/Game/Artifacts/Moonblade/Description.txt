@@ -1,0 +1,2 @@
+﻿+5 Támadás<br><br><color=orange>
+Mantikórok<color_default><br>Áldozd fel ezt az ereklyét egy Templomban, ami megidéz egy halomnyi Mantikórt. A csoport mérete egyenlő 2*az eltelt hetek számával.

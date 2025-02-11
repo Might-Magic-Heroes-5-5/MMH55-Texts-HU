@@ -1,0 +1,1 @@
+﻿Minden alkalommal, amikor a Morál valamilyen hatást vált ki a hős seregének bármelyik lényénél, a hős 5%-kal előre mozog az ATB Kezdeményezési Sáv mentén. Ennek megfelelően, amikor egy negatív Morál-hatás váltódik ki, a hős 5%-kal visszalép.

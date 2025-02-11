@@ -1,0 +1,1 @@
+﻿Megduplázza a hős Tudás alapú mana-regenerálását.<br><color_default>A Varázstárgyakból, Képességekből vagy Specializációkból származó mana-regenerálás nem duplázódik meg.

@@ -1,0 +1,1 @@
+﻿A célpont lény Kezdeményezés értékét <value=enchant>% módosult. Varázslat időtartama: <value=duration> harci kör.

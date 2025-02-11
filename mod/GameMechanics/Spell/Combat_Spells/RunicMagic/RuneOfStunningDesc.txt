@@ -1,0 +1,1 @@
+﻿A kiválasztott lénynek lehetősége lesz egyszer elkábítani az ellenséget normál támadása segítségével. Ha a kábítás sikertelen, a rúna aktív marad, amíg sikeres nem lesz. A hatás megegyezik a Kábítás képességgel, de hatótávolságból is működik, és a Katona Szerencséje szakértelem is befolyásolja.

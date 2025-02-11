@@ -1,0 +1,1 @@
+﻿A látnok érdeklődik a birtokodban lévő <color=white><value=qty> <value=type><color_default> iránt. Szeretnéd átadni őket?

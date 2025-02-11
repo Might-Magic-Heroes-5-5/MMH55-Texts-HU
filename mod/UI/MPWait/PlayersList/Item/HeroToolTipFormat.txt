@@ -1,0 +1,1 @@
+﻿<color=green>Név: <value=heroname><color=white><br><value=herospecialisation>

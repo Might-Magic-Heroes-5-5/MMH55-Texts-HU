@@ -1,0 +1,3 @@
+﻿+2 Tudás<br>
++2 Szerencse<br><br><color=orange>
+Misztikus Sasok<color_default><br>Égesd el ezt az ereklyét egy Templomban, amivel megidézel egy halomnyi Misztikus Sast. A csoport mérete egyenlő 2*az eltelt hetek számával.

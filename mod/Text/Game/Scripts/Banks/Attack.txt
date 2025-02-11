@@ -1,0 +1,1 @@
+﻿<color=yellow>Támadés értéked megnőtt +<value=param> tartósan.

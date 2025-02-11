@@ -1,0 +1,1 @@
+﻿Agresszor: A hős +1 Támadással indul, és ezt minden 7. szinten +1-gyel tovább növeli.

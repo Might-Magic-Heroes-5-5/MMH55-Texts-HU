@@ -1,0 +1,1 @@
+﻿Titánok Dékánja: A hősnek +1 Morál értéke van örökre, és minden hét elején további Óriások, Titánok és Kolosszusok állnak majd toborzásra az összes saját tulajdonában lévő Akadémia városában. Az összeg 0,04*hős szintnek felel meg. A 13. hős szint előtt nem állnak rendelkezésre további lények.

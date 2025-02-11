@@ -1,0 +1,6 @@
+﻿+1 Szerencse, ha fel van szerelve<br>
++T/2 Fa hetente<br><color_default>
+(T=A hős tudása, például 10 fa hetente 20 tudásért)<br><br><color=orange>
+Bőségszaru<color_default><br>Gyűjts össze egy ereklyét minden nyersanyagtípusból (kivéve az aranyat), és látogass el egy Misztikus Könyvtárba egyedi jutalomért.<br><br><color=yellow>
+Hátizsák<color_default><br>
+Ha a varázstárgy a hátizsákban van, ugyanúgy lehet nyersanyagokat kapni, de a funkció hősönként ÉS nyersanyagtípusonként csak egy ereklyére korlátozódik.

@@ -1,0 +1,1 @@
+﻿Véletlenszerűen több mágikus robbanóaknát helyez el a csatatér egy kiválasztott területére. Az aknák láthatatlanok az ellenség számára.

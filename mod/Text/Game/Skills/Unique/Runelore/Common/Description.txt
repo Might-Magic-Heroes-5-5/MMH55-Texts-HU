@@ -1,0 +1,1 @@
+﻿Lehetővé teszi Mágikus Rúnák elhelyezését a saját lényeken a csatákban, amelyek átmenetileg új harci képességeket és tulajdonságokat adnak nekik. Ennek a Képességnek a szintje határozza meg a használható Rúnák szintjét.

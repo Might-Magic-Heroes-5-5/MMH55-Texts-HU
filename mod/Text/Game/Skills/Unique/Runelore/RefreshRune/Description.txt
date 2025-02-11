@@ -1,0 +1,1 @@
+﻿A hős megtanulja a Berzerker Rúnáját, és frissíthet egy már korábban elhelyezett Rúnát (ha sok van akkor véletlenszerűen) egy kiválasztott lényen. A hős csak fél kört tölt egy Rúna felfrissítésére. Miután frissült egy lényen, a Rúna újra elérhetővé válik normál áron.

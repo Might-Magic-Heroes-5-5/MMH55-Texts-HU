@@ -1,0 +1,1 @@
+﻿Elfeledteti a megcélzott ellenséges lénycsoport lénnyel, mit is csinál épp a csatatéren. Néhány érintett lény elfelejti használni a távolsági támadásait és a visszatámadásait. Ez a varázslat emellett, az adott Mágia Ág Képesség (1-2-3) szintenként, 20-al csökkenti az Orkok Vérdühét is. (A varázslat Élőhalottakon, Elemi és Szerkezet-béli egységeken nem működik.)

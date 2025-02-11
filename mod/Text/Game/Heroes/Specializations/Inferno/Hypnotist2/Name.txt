@@ -1,0 +1,1 @@
+﻿Osztály: Rúnamágus<br>Specializáció: Elmezavaró<br><br><body_bright>A hős minden 7. szint után +1 Varázserőt nyer, és a Zavartság varázslat további hatása, hogy minden egyes hősi szinten egy ponttal csökkenti a célpont manáját.<br><color_default>Kezdő Szakértelem: Elme Mestere

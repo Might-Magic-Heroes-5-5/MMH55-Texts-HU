@@ -1,0 +1,1 @@
+﻿Kalandtérkép Képesség: A hősből mentor lesz. Amikor egy mentor találkozik egy másik baráti hőssel, az utóbbi annyi további tapasztalati pontot szerez, amennyi szükséges ahhoz, hogy teljes tapasztalata a mentorja tapasztalatának 10%-a legyen.

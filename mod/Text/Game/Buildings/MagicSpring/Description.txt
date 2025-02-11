@@ -1,0 +1,1 @@
+﻿Hetente egyszer megduplázza a hős maximális manáját.

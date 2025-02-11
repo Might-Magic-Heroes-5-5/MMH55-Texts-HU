@@ -1,0 +1,1 @@
+﻿Osztály: Nekromanta<br>Specializáció: Az Ezüst Városok Varázsa<br><br><body_bright>A hős Varázsereje minden 7. szinten +1-gyel nő, és a Gyorsítás varázslat hatása minden hősi szinten 0,15%-kal megnő.<br><color_default>Kezdő Szakértelem: Harag Mestere

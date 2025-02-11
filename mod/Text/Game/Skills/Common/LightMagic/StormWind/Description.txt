@@ -1,0 +1,1 @@
+﻿A hős felszólítja a természet erőit, hogy negatívan hassanak az ellenséges repülő lényekre. Az összes ellenséges repülésre képes lény Kezdeményezés értéke 2-vel, a Sebesség értéke pedig 1-gyel csökken.

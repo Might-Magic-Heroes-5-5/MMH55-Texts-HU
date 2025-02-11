@@ -1,0 +1,1 @@
+﻿Ha ez a lény a baráti egységekkel együtt a Pusztító mágia területi varázslata alatt találja magát, akkor megkapja a sebzés egy részét, amely normál esetben a baráti egységeket érné. Az elnyelt sebzés 2% heti lénytermelődésenként (45 Mágneses Gólem esetén 10 %), és 25%-át a varázslatos páncél gyógyítássá alakítja át. Ez a képesség nem működik Armageddon varázslat esetén.

@@ -1,0 +1,1 @@
+﻿Speciális harci képesség a barátságos csapatok ösztönzésére a csatatéren, gyorsabbá téve a köreiket. A célpont ATB Kezdeményezési Sáv értéke 0,5-tel megnő, maximum 1-re korlátozva. A hős ATB Kezdeményezési Sáv értéke használat után 0,33-ra áll vissza.

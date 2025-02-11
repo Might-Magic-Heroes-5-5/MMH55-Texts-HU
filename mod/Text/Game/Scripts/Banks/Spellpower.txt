@@ -1,0 +1,1 @@
+﻿<color=yellow>A Varázserőd megnövekedett ennyivel, +<value=param> tartósan.

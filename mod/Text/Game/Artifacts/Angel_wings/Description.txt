@@ -1,0 +1,4 @@
+﻿+3 Morál<br>
++3 Szerencse<br>
+Megadja a repülés képességét és a terepbüntetések teljes figyelmen kívül hagyását. A mozgási költség mezőnként 25-tel csökken (kivéve, ha utakon utazik).<br><br><color=red>
+Levitálás<color_default><br>A Logisztika és az Útkeresés képességeknek nincs hatása.

@@ -1,0 +1,1 @@
+﻿A célpont minimális sebzését a maximális sebzés felé növeli. Ha a célpont a Gyengeség varázslat hatása alatt áll, akkor megtisztul attól. A hatás nem haladhatja meg a 100%-ot.

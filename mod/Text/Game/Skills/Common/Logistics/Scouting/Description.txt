@@ -1,0 +1,1 @@
+﻿A hős +8 mezőnyit kap a felderítő tartományára, és meg tudja nézni a semleges lénycsoportban lévő lények, az ellenséges hősök, a városok és helyőrségek pontos számát a felderítő tartományában. 50%-kal csökken annak az esélye, hogy egy 1. szintű lény meghaljon egy Csatahely felderítése közben.<br><color_default>A hősök alap felderítési tartománya 16 mező.

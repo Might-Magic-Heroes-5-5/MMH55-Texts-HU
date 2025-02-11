@@ -1,0 +1,7 @@
+﻿+5% erősítés a Nekromancia képességhez<br>
+-10% Sötét Energia költség<br>
+A barátságos lényeknek immunitást ad a Rothadás varázslat ellen.<br><br><color=purple>
+A Halál Ölelése<color_default><br>
++6 Varázserő (3/6)<br>
++12 Varázserő (6/6)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

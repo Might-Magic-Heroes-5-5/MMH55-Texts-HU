@@ -1,0 +1,1 @@
+﻿Egy speciális harci képesség, amely súlyos sebzést okoz az összes Megidézett vagy Pokolbéli kapuból előhívott lénycsoportban, a sebzés 120 + (40 * hősszint). A hős ATB Kezdeményezési Sáv értéke használat után 0,33-ra áll vissza.

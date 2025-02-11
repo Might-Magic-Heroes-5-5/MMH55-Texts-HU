@@ -1,0 +1,1 @@
+﻿Varázslat Sebzés: <value=damage>.<br>Növeli a hős seregének Vérdühét <value=army_rp> értékkel.

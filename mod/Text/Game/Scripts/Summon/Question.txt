@@ -1,0 +1,1 @@
+﻿Szeretne felajánlani <value=qty> <value=type> ?

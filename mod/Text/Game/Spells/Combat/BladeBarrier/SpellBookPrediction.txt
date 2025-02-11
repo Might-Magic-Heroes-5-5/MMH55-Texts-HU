@@ -1,0 +1,1 @@
+﻿Minden Akadály szakasz életereje:<value=health><br>Élettartam: <value=duration> harci kör.

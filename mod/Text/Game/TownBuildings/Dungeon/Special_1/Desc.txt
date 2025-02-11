@@ -1,0 +1,1 @@
+﻿Támogatja az Elementális Látás Képességet. Elemeket jelenít meg saját lényein, ami lehetővé teszi a nagyobb sebzést okozó támadások tervezését. Az ellentétes elemekkel rendelkező lények több sebzést okoznak az ellenségnek.<br><br><color=0099FF>Kormányzóság<color_default><br>+1 Támadás érték bónuszt biztosít a város Kormányzójának.

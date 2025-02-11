@@ -1,0 +1,3 @@
+﻿+6 Varázserő<br>
++15% sebzés a levegő varázslatokhoz<br><color_default>
+A sebzésnövekedés a Villámcsapásra és a Láncvillámra is hat.

@@ -1,0 +1,1 @@
+﻿A hős seregében lévő összes Erdőmélye-béli lény +1-et kap a maximális sebzéséhez, a hős pedig végleg +1 Szerencse értéket kap.

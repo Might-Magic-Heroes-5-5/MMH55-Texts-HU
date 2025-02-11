@@ -1,0 +1,1 @@
+﻿Növeli a Kezdeményezés értéket <value=initiative_bonus>%-kal és a a Morál, Támadás és Védelem értéket <value=enchant> értékkel, <value=duration> harci körön át.

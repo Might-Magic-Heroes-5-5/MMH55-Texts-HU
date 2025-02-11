@@ -1,0 +1,3 @@
+﻿+2 Tudás<br>
+Megadja a <value=spell_name> varázslatot.
+<br><color_default>A törzsfőnökök nem tudnak varázsolni, de megkapják a tudásbónuszt.

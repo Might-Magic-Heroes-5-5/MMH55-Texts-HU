@@ -1,0 +1,1 @@
+﻿Az összes varázslatkör esetén, az összes ellenséges Sötétség varázslatának Mágia Ág Képesség szintje 2-vel csökken (Szakértőtől Haladóig stb.). A 4. és 5. varázskör esetén 1-el csökken. A Varázserő minden szinten 15%-kal csökken, amikor a varázslat az egyik szint alá kerül.

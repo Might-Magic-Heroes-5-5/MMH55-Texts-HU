@@ -1,0 +1,2 @@
+﻿Kalandtérkép Képesség: A hős minden szárazföldi csata után 50 mozgáspontot kap<br><color_default>
+A hős nem veszíti el mozgáspontját akkor sem, amikor épp harcba száll. A bónusz ezen része nem halmozódik fel az Elragadás Képességekkel vagy Elragadás féle Varázstárgyakkal.

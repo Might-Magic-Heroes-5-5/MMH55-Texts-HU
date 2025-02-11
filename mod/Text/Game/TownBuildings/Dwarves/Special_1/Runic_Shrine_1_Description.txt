@@ -1,0 +1,2 @@
+﻿Mágikus rúnákat tanít az első és második körből, és +1-gyel növeli a Rúnaismeret képességgel rendelkező törp hősök Varázserejét (nem halmozódik több városnál, és meg kell látogatni a várost)
+<color=0099FF>Kormányzóság<color_default><br>+1 Tudás érték bónuszt biztosít a város Kormányzójának. 

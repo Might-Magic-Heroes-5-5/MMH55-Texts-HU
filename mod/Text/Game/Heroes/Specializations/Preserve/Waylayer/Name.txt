@@ -1,0 +1,1 @@
+﻿Osztály: Kósza<br>Specializáció: Gyors Támadó<br><br><body_bright>A hős seregében lévő lények hősi szintenként +0,5%-os bónuszt kapnak a kezdeményezésükre a harc kezdetén.<br><color_default>Kezdő Képesség: Logisztika Haladó szint

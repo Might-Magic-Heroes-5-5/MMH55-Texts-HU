@@ -1,0 +1,1 @@
+﻿Osztály: Rúnamágus<br>Specializáció: A Rúnák Mestere<br><br><body_bright>Minden szintlépéskor a hős spontán megtanulhat egy újabb Rúnát. Az esély 25%.

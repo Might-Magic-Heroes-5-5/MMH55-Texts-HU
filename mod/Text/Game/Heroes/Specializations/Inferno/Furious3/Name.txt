@@ -1,0 +1,1 @@
+﻿Osztály: Renegát<br>Specializáció: Fanatikus<br><br><body_bright>A hős seregében lévő összes lény kezdeményezése 2,5%-kal + 0,25%-kal nő hősi szintenként.<br><color_default>Kezdő Képesség: Támadás Haladó szint

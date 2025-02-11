@@ -1,0 +1,1 @@
+﻿A megtámadott ellenség a normál sebzés mellett mérgezést is kap. A mérgezés sebzése arányos a támadó egységben lévő lények számával (a mérgezés időpontjában). Minden Orgyilkos és Kóborló a következő 3 akció során 1 sebzést okoz. Minden Mantikor 8 sebzést okoz a következő 3 akcióban.

@@ -1,0 +1,1 @@
+﻿A maximális sebzés <value=enchant>%-kal csökken a minimum felé a <value=duration> harci körön át.

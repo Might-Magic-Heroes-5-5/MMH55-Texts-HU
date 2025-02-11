@@ -1,0 +1,1 @@
+﻿Mutassa a Harci feljegyzéseket <hotkey=input_switch_atb_log>.

@@ -1,0 +1,1 @@
+﻿Elteleportál egy megcélzott barátságos lényt egy másik helyre a csatatéren (A lények városfal feletti teleportálásához Szakértői Mágia ág Képesség szint szükséges).

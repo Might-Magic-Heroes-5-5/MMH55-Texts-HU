@@ -1,0 +1,1 @@
+﻿Védelmező: A hős seregében lévő összes Testőr, Pajzsgárdista és Sziklagárdista +1-et kap a Támadásához és a Védelméhez minden két szint után, és +1-et ad az Életerő Pontjaikhoz a hős minden 10. szintje után.

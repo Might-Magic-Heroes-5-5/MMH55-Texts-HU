@@ -1,0 +1,1 @@
+﻿Ez a lény testetlen, így minden ellene irányuló nem mágikus támadás csak 50%-os eséllyel okoz kárt. A képesség nem teljesen véletlenszerű, kétszeri elvétés után a következő fizikai csapás mindig célba ér, míg kétszeri találat után a következő fizikai csapás mindig mellé megy.

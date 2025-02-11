@@ -1,0 +1,3 @@
+﻿<color_default>Egy fejlesztése a Bosszúállók Céhének.<br>
+<color_bright>A Kószák és a Druidák +1 Támadás értéket kapnak, és a Bosszúálló osztályú hősük esélye, hogy kritikus ütést mérjenek kedvenc ellenségeikre, +10%-kal megnő (Több várossal együtt halmozódik, s nem szükséges a városok meglátogatása)<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+1 Tudás érték bónuszt biztosít a város Kormányzójának.

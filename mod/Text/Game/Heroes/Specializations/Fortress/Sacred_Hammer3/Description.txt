@@ -1,0 +1,1 @@
+﻿Csaló: Minden alkalommal, amikor a hős egy barátságos lényre Fénymágia varázslatot alkalmaz, van esély arra, hogy az Igaz hatalom varázslatot szabadon alkalmazza az érintett egységre. Az esély 40%+Szint*1%.

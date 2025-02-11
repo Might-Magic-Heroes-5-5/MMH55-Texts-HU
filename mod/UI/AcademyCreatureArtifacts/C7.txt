@@ -1,0 +1,1 @@
+﻿<center><body_bright>Védelem<br><color_default>Növeli a Védelmet ennyivel: 1+3*T/20.

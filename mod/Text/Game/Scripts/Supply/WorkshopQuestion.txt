@@ -1,0 +1,4 @@
+﻿A Hadigépgyár tulajdonosa szállítási szerződést ajánl fel, <value=num> Aranyért cserébe hetente véletlenszerű mennyiségű (3-7) fát ad.
+
+Rendben = Szerződés aláírása (<value=num> Arany)
+Kilépés = Leltár ellenőrzése

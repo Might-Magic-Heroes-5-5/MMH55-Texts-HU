@@ -1,0 +1,1 @@
+﻿Mivel nagyon szeretne tanulni, a hős véglegesen +2 Tudás értéket szerez és egyszeri tapasztalati bónuszt is kap, ami 1000 pont, + 250 tapasztalati pont minden hős szint után.

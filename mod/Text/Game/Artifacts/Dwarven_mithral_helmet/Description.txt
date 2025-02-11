@@ -1,0 +1,8 @@
+﻿+3 Védekezés<br>
++3 Tudás<br>
+A barátságos lényeknek védettséget ad a Vakítás ellen.<br>
+<br><color=purple>
+Törpe Királyok Páncélja<color_default><br>
++4 Védekezés (2/4)<br>
++8 Védekezés (4/4)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

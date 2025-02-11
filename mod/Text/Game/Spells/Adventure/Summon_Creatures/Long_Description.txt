@@ -1,0 +1,1 @@
+﻿A lényeket a legközelebbi városból a hőshöz teleportálja lényenként 1 mana áron.<color_default><br>Ennek a varázslatnak a megtanulásához 5. szint szükséges. Nem szükséges hozzá valamilyen Mágia iskola képesség megléte.

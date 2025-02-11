@@ -1,0 +1,1 @@
+﻿A megcélzott ellenség annyi sebzést kap, ahány lény a hős seregében van szorozva * 0,8, és a hős seregében lévő összes Erőd-béli lény további Vérdüh pontokat kap. A sebzés Mágikus Védelemmel csökkenthető és ellenállható. A Mágia Tükör varázslat nem tudja visszatükrözni.

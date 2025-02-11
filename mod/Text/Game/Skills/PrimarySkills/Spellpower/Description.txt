@@ -1,0 +1,1 @@
+﻿A Hős Varázserő Attributúma javítja a hős által varázsolt varázslatok hatékonyságát (Időtartamát, Sebzését stb.); a pontos kapcsolat a konkrét varázslattól is függ.

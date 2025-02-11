@@ -1,0 +1,1 @@
+﻿Amikor ellenséges egységeket támad, ez a lény képes elszívni az életerejüket, és azt gyógyításra vagy feltámadásra használni. Az elszívott életpontok mennyisége megegyezik az okozott sebzés 30%-ával.

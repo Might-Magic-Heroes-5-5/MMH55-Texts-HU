@@ -1,0 +1,8 @@
+﻿<color=green>Alkalmi Mód<br><color_default>
+* Az AI nem kap további lényeket vagy aranyat, hogy csökkentse a veszteségeket a 'Gyors csaták' során.
+* Az AI kezdő erőforrásai 10000/5/10-el csökkennek minden nehézségi szinten.
+* Az AI-játékosok nem szövetségesek, de kölcsönös egymás iránti agressziójuk csökken a magasabb nehézségeken.
+* Az AI-hősök menekülhetnek a csatákban.
+* A Csata helyszíneken lévő ellenséges lények -10%-os lénycsökkenést kapnak.
+<br><color=white>Figyelmeztetés!<br><color_default>
+* Ne használd az „Küldetés újraindítás” lehetőséget a térkép betöltése után, különben a mesterséges intelligencia NEM Alkalmi módba áll vissza, hanem akár néha még a nagyon kemény módok egyikére is!

@@ -1,0 +1,1 @@
+﻿<h3_text>Specializáció<br><body_bright><value=spec_desc><br><br><h3_text>Életrajz<br><body_bright><value=biography>

@@ -1,0 +1,1 @@
+﻿Kalandtérkép képesség: A hős seregében lévő összes lény +1 Mozgási sebességet kap, ha a csata Sáros (Dirt) terepen zajlik, és a Nekropolisz hősei hetente egy bizonyos további mennyiségű Kísértetet kapnak. Az összeg megegyezik a Tudás értékükkel, és az Élőhalottak Ura Szakértelemből származó Csontvázak helyett hozzáadják a seregükhöz.

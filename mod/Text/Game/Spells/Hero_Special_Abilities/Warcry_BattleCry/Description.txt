@@ -1,0 +1,1 @@
+﻿A hős, egy baráti lénycsoportnyi Orkot inspirál, hogy előrerohanjanak. Egy harci körre a megcélzott lénycsoportnak +3 Sebessége és megnövekedett Támadása lesz (egyenlő 1 + Szint/4). Egy kis Vérdühöt is ad a hadsereg összes Erőd-béli lényének.

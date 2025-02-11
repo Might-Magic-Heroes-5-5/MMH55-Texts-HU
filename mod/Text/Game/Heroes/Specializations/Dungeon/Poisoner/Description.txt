@@ -1,0 +1,1 @@
+﻿Méregmester: Az ellenséges egységek már megmérgezve léphetnek be a harcba, az esély a hős szintjétől függ. Az esély 10%+Szint*1%, minden ellenséges egységre. A hős manája nem merül le. A célpontok mágikus védelme csökkenti a Rothadás hatását, de a Mágikus Tükör erre nem működik.

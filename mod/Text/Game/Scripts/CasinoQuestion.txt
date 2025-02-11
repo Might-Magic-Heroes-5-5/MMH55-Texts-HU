@@ -1,0 +1,10 @@
+﻿Üdvözöljük kaszinónkban, szeretne fogadni valamelyik Kis Kerék játékunkban?
+
+-------------------------------------------------- -----------------------------
+
+Rendben = Fogadjon <value=bet> Arannyal minden páros számra (47% esély az <value=reward> aranyra)
+Kilépés = Távozás
+
+-------------------------------------------------- -----------------------------
+
+Kaszinónként csak egy fogadást tehet. A Kalandtérképen talált minden következő Kaszinónál nagyobb tétet helyezhet el, függetlenül attól, hogy megnyerte vagy elvesztette az előző fogadást.

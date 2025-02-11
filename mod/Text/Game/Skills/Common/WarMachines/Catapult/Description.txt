@@ -1,0 +1,2 @@
+﻿Lehetővé teszi a Katapult kézi vezérlését, és a Katapult egy plusz lövést kap. A hős emellett megkapja a Lőszerkocsi Támadás érték bónuszait is, amelyeket általában csak a hadsereg távolsági egységei kapnak.<br><color_default>
+Visszaállítja a lőszerkocsit a csata után, ha az megsemmisült. A Katapult és a Lőszerkocsi Életerő pontjainak száma megszorzódik 3-mal.

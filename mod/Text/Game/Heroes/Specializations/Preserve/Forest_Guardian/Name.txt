@@ -1,0 +1,1 @@
+﻿Osztály: Bosszúálló<br>Specializáció: Sylanna Kardja<br><br><body_bright>A hős Idézőmágiával kezd (amit a Bosszúállók normál esetben nem tanulhatnak), és a hős parancsnoksága alatt álló összes Erdőmélye lény minden tapasztalati szinten +0,5%-kal több sebzést okoz a kedvenc ellenségeknek.<br><color_default>Kezdő Képesség: Idéző Mágia Alap szint

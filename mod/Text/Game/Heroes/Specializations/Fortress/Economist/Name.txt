@@ -1,0 +1,1 @@
+﻿Osztály: Rúnamágus<br>Specializáció: Tudós<br><br><body_bright>A hős +1 Tudással indul, és 6 szintenként megtanul egy véletlenszerű elsődleges képességet (attribútumot).<br><color_default>Kezdő Képesség: Idéző Mágia Alap szint

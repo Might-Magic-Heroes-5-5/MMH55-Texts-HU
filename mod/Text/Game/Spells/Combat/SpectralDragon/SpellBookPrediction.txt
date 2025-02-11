@@ -1,0 +1,1 @@
+﻿Szellem Sárkány Életereje: <value=health><br>Sebzés: <value=min_dage> - <value=max_dage>.

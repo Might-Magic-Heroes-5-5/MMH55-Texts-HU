@@ -1,0 +1,1 @@
+﻿A hős napi 250 aranyat ad plusz a Tudás értékének megfelelő plusz összeget*25. A hős egyszeri Fát vagy Ércet is kap, attól függően, hogy melyik készlet fogy jobban. Az összeg megegyezik a hős szintjével.<br><color_default>Ha a fa és az érc készletei egyenlőek, akkor mindkettő a felével nő.

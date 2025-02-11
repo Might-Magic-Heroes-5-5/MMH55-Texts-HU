@@ -1,0 +1,1 @@
+﻿Kalandtérkép Képesség: A hős hajlamos 5-25%-kal több Nyersanyag erőforrást és Aranyat találni a Kalandtérképen. A kincsesládák 25-50%-kal több Aranyat tartalmaznak. Az ellátási hálózatokból származó bevétel heti szállításonként átlagosan +1  Nyersanyag erőforrással vagy +500 Arannyal megnő.

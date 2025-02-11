@@ -1,0 +1,1 @@
+﻿A Fődémon megcélozhat bármelyik lényhalmazt 7 mezőnyi sugarú körben, függetlenül attól, hogy kié, és teleportálhatja őket arra a nem foglalt mezőre, amelyik a lehető legközelebb van hozzá (aktivált képesség).

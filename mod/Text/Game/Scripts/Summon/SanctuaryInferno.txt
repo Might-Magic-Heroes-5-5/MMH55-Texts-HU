@@ -1,0 +1,1 @@
+﻿<color=yellow>Feláldoztatok néhány menekültet, és démonok csatlakoztak örömükben! (+<value=num> <value=upgtype>)

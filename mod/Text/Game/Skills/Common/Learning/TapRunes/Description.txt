@@ -1,0 +1,1 @@
+﻿A hős megtanulja az Anyagtalanság Rúnáját, és minden alkalommal, amikor egy Rúnát használnak, a hős visszaállít néhány Manát, ami megegyezik ezzel a mértékkel: Tudás/2-vel (lefelé kerekítve).

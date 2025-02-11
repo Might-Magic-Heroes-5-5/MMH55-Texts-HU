@@ -1,0 +1,11 @@
+﻿Kedves Játékos!
+
+Üdvözöljük a Might & Magic: Heroes 5.5 kampány új verziójában. Kérjük, ügyeljen a következőkre, hogy ne ütközzen problémákba, ha az összes kampányt végig akarja játszani:
+
+1. Mindig MMH55.exe vagy MMH55_64.exe betöltésével játsszon, ne használjon steam launchert, mert rossz exe-t tölt be, és AI hibákat okoz.
+
+2. Az összes felszerelt Varázstárgyad átvihető a küldetések között, kivéve a mozgási tárgyakat, a Képesség könyveket, az Aranyzsákokat, a Pálcákat, a tekercseket és Asha könnyét. A fel nem szerelt tárgyak elvesznek.
+
+3. A hős szintek maximális korlátja magasabb. Az alapértelmezett csatatér mérete 12x10 helyett 14x12, és a semleges őriző lénycsoportok keverednek minden küldetésben.
+
+4. A Kereskedelmi pontok mana- és mozgási bájitalokat árulhatnak. Az olyan speciális RANDOM generáló-funkciók, mint a Város Átalakítás, Kormányzóság, az Azonnali Utazás és Bányák ellenőrzése le vannak tiltva, mivel ütköznek az eredeti történetmeséléssel és célokkal.

@@ -1,0 +1,8 @@
+﻿+3 Védekezés<br>
++3 Varázserő<br>
+A barátságos lényeknek immunitást ad a Lassítás ellen<br>
+<br><color=purple>
+Törpe Királyok Páncélja<color_default><br>
++4 Védekezés (2/4)<br>
++8 Védekezés (4/4)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

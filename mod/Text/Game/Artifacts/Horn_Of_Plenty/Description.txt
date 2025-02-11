@@ -1,0 +1,5 @@
+﻿+T*75 arany napontabr><color_default>
+(T=A hős tudása, például 1500 arany naponta 20 tudásért)<br><br><color=orange>
+Aranylúd<color_default><br>
+Hozd el mindhárom, végtelen aranyat adó ereklyét egy Misztikus Könyvtárba, hogy egyedi jutalmat kapj.<br><br><color=yellow>
+Hátizsák<color_default><br>Ez a varázstárgy a hátizsákból is működik, de a funkcionalitás hősönként egy ereklyére korlátozódik.

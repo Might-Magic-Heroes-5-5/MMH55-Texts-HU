@@ -1,0 +1,1 @@
+﻿Immunitást ad az 1. szintű <value=enchant> varázslatok ellen <value=duration> harci körön át.

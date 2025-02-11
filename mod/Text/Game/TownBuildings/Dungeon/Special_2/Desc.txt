@@ -1,0 +1,3 @@
+﻿<color_default>Az Elemek Oltárának egy fejlesztése.<br><br>
+<color_bright>Növeli az összes Földmélye-béli hős Támadás értékét 1-gyel, és +5%-kal növeli az Elemi Láncok faji képesség sebzését (Több Oltárral halmozódik, és nem szükséges a város látogatása).<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+2 Támadás érték bónuszt biztosít a város Kormányzójának.

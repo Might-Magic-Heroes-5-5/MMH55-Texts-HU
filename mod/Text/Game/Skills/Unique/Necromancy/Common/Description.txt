@@ -1,0 +1,1 @@
+﻿Lehetővé teszi a hős számára, hogy felélessze a saját seregébe, az elesett ellenséges élőlények egy részét.

@@ -1,0 +1,1 @@
+﻿Különleges harci képesség. Minden következő varázslat hatása, amely a MEGJELÖLT lénycsoportra érkezik, megduplázódik. Ezenkívül minden más lényre érkező varázslat hatással lesz a MEGJELÖLT lénycsoportra is, ha van elég mana az újravarázslásához.

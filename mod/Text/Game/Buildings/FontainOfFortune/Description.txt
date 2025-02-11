@@ -1,0 +1,6 @@
+﻿+33% esély +3 Szerencsére
++33% esély +2 Szerencsére
++33% esély -1 Szerencsére
++100% esély 33 Manára
+
+<color_default>Néhány Varázstárgyat itt lehet feláldozni.

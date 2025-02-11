@@ -1,0 +1,7 @@
+﻿Szeretne néhány felderítőt (őshonos 1. szintű lényeket) küldeni az épületbe, hogy megvizsgálják a kincseket őrző lények erejét? <value=chance>% annak az esélye, hogy egy felderítő nem éli túl ezt a küldetést
+-------------------------------------------------------------------------------
+
+Rendben = Felfedezés
+Kilépés = Támadás
+
+-------------------------------------------------------------------------------

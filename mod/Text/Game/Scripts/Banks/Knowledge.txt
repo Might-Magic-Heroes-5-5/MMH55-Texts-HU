@@ -1,0 +1,1 @@
+﻿<color=yellow>A Tudás értéked megnövekedett ennyivel +<value=param> tartósan.

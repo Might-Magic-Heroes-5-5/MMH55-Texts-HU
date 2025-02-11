@@ -1,0 +1,11 @@
+﻿-----------------------------------------------------------------------------
+KORMÁNYZÓ LEMONDÁSA
+-----------------------------------------------------------------------------
+
+A hős feladja a város kormányzójaként végzett munkáját, elveszíti az összes kapcsolódó bónuszt, és visszaszerzi az összes mozgáspontját a város körzetén kívül.
+
+Bírság a korai lemondásért: <value=fine>
+
+Rendben = Kormányzó lemondatása
+Kilépés = Maradjon Kormányzó
+

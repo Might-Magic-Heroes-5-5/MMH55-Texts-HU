@@ -1,0 +1,1 @@
+﻿Szélszóló: A hős körei gyorsabban jönnek a csatában a szintjétől függően. A hős Kezdeményezés értéke 11,5 + 0,025 * hősszint lesz (11 helyett).

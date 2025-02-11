@@ -1,0 +1,3 @@
+﻿+3 Támadás<br>
++3 Védekezés<br>
+-1 Sebesség

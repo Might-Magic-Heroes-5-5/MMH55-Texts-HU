@@ -1,0 +1,8 @@
+﻿+4 Tudás<br>
++10% kezdeményezés a baráti Harci Gépeknek<br><br><color=purple>
+Sárkányok Ereje<color_default><br>
++2 minden Elsődleges Attribútumhoz (4/8)<br>
++4 minden Elsődleges Attribútumhoz (8/8)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.<br><br><color=orange>
+Küldetés<color_default><br>
+Ajánld fel a Sárkányok Erejének mind a 8 darabját egy áldozati oltáron, hogy egyedi jutalomban részesülj.

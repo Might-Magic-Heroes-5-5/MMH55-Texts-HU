@@ -1,0 +1,3 @@
+﻿+2 Támadás<br>
++2000 Tapasztalati Pont<br><br>
+<color=7F38EC>Képesség Könyv<color_default><br>A hősnek időre van szüksége ahhoz, hogy tanulmányozza ezt a tárgyat, és véglegesen megszerezze a benne rejlő tudást. A következő hét elején a tárgy eltűnik a hátizsákból, és a bónusz véglegesen érvényesül.

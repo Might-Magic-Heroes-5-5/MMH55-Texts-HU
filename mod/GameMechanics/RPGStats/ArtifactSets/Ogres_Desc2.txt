@@ -1,0 +1,1 @@
+﻿+3-mal növeli a hős seregében lévő összes lény Támadását, és +2-vel növeli az Életerő pontjaikat is.

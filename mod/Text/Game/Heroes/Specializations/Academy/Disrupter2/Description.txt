@@ -1,0 +1,1 @@
+﻿Zavaró: A sebezhetőségre specializálódott, így a varázslat nem csak a célpont védelmét csökkenti, hanem sebzést is okoz. Az okozott sebzés a hős szintjétől függ. A sérülés = 30+30*ceil(Level/2), ahol a ceil() a felfelé kerekítő függvény.

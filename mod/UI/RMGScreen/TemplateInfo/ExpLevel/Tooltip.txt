@@ -1,0 +1,1 @@
+﻿Ez szabályozza, hogy hány darab lényfelfejlesztő épület kerüljön a kincses zónába, és közvetve szabályozza a Varázstárgyak értékét is ott. Az RC15 mod verzió óta újra kiegyensúlyozva lett, állítsd az esetben alacsonyabbra, ha szeretnéd megnehezíteni a ritka Varázstárgyak megtalálását, vagy állítsd magasabbra az ellenkező esetben.

@@ -1,0 +1,1 @@
+﻿A hős +1 Védelem értéket kap, és egy véletlenszerű attribútuma (Támadás-Védelem-Varázserő-Tudás) 1-gyel nö minden 6. szintje után, beleértve a már megszerzett szinteket is. A hős 5% bónusszal több Tapasztalati pontot szerez minden forrásból.

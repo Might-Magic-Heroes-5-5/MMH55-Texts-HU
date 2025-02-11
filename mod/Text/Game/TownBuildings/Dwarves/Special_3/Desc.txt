@@ -1,0 +1,1 @@
+﻿Egy lénycsoportnyi további Védelmező törp egységet közvetlenül a csatatérre ad, ami védi a várost az ostrom során, és 1-gyel növeli az összes törp hős Védelem értékét (több várossal együtt, és nem szükséges a város látogatása).<br><color_default>Az összeg a hozzáadott védők száma egyenlő (4 * városi szint) * hónap.

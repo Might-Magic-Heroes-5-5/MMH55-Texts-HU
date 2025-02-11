@@ -1,0 +1,1 @@
+﻿A hős irányítása alatt álló csapatok további +30% bónuszt kapnak a Védelem értékükhöz, amikor végrehajtják a Védekezés parancsot.<br><color_default>A Gyökérnövesztés bónusz a Védekezés parancs esetén szintén megduplázódik, és 100%-kal megnöveli Ősi Treant lények esetén a Védelem értéküket.

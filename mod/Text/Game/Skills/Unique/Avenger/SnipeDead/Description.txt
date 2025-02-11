@@ -1,0 +1,1 @@
+﻿Növeli azt a Sebzést, amelyet a hős okoz a támadó ellenséges lényeknek a csatatéren, és +3 bónuszt kap a szintjükhöz a sebzés kiszámításánál. Ha a megtámadott lény szerepel a hős Kedvenc Ellenségeinek listáján, akkor egy kritikus csapást ad, ami Dupla Sebzést okoz, és legalább egy lényt megöl.

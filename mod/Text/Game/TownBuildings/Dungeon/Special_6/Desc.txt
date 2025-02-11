@@ -1,0 +1,1 @@
+﻿1-gyel növeli az összes Földmélye-béli hős Tudás értékét (Több várossal halmozódik, de azokhoz is meg kell látogatni az adott várost).

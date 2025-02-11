@@ -1,0 +1,2 @@
+﻿A Törzsfőnök típusú hősök +50 Dühpontot adnak a hadseregnek minden harc elején. A Sámán és a Boszorkány osztályú hősök tartósan +1 Tudás értéket szereznek (Több várossal együtt halmozódik)<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+2 Támadás érték bónuszt biztosít a város Kormányzójának.

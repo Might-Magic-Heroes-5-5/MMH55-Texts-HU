@@ -1,0 +1,1 @@
+﻿Megidéz egy Főnixet a csatatérre, hogy az harcoljon a hős oldalán. Egyszerre csak egy Főnixet lehet megidézni. A Főnix Támadás, Védelem, Életerő, Kezdeményező és Sebesség értéke a varázsoló hős Varázserejétől függ. A Főnix immunis a Mágia minden fajtájára.

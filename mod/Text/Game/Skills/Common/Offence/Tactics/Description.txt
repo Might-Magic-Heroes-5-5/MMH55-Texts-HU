@@ -1,0 +1,1 @@
+﻿Növeli azt a területet, ahol a hős átrendezheti a lényeket a harc előtt, így egy harmadik sort is lehetővé tesz. Ha az ellenfélnek is van már Taktika Képessége, akkor mindkét hatás törlődik.

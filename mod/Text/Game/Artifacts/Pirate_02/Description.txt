@@ -1,0 +1,7 @@
+﻿+1 Támadás<br>
++1 Védekezés<br>
++100-300 aranyat zsákmányolsz minden csata után<br><br><color=purple>
+Kalózok Ruházata<color_default><br>
++6 Támadás (3/6)<br>
++12 Támadás (6/6)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

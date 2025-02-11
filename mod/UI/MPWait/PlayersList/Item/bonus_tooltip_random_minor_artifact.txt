@@ -1,0 +1,4 @@
+﻿<color=yellow>Alapértelmezett Mód<color_default><br>
+* Az AI-játékosok nem szövetségesek, de kölcsönös egymás iránti agressziójuk csökken a magasabb nehézségeken.
+* Az AI-hősök elmenekülhetnek a harcokban.
+* A Csatahelyszíneken lévő lények száma 10%-kal nő az AI Játékosok nélküli játékok terén.

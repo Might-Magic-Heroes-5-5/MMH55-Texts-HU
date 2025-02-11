@@ -1,0 +1,1 @@
+﻿<color=yellow>Ezt az obeliszket már megfejtetted, Ennyit találtál <value=amount> ebből <value=total>!

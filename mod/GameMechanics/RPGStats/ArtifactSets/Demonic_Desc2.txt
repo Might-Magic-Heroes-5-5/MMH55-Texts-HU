@@ -1,0 +1,1 @@
+﻿+4-gyel növeli a hős támadását. Az alábbi hős kasztok: Az Eretnekek, a Démon Urak, a Kapuőrök és a Varázserősítők is +1 Morált kapnak.

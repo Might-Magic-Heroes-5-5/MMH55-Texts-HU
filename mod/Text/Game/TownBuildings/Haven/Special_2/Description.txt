@@ -1,0 +1,2 @@
+﻿A Hősök csarnoka támogatja a speciális KÉPZÉS képességet, és további 13 lény képzését teszi lehetővé hetente.
+<color=0099FF>Kormányzóság<color_default><br>+2 Támadás érték bónuszt biztosít a város Kormányzójának.

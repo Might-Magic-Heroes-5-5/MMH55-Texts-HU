@@ -1,0 +1,4 @@
+﻿+1 Tudás<br><br>
+Harc után feltámaszt egy bizonyos mennyiségű őshonos 1. szintű lényt. A mennyiség egyenlő az összes veszteség 30% + 1%*T-vel, vagy alternatívaként 30 + 10*T-vel az összes elvesztett életerő pontból (amelyik több feltámasztott lényt eredményez). A feltámasztáshoz 6 mana szükséges.<color_default> T = A hős tudása és az összeg lefelé kerekítve. Az Élőholt, Mechanikus és Elemi lények nem támaszthatók fel.
+<br><color=purple>A Szent Ruhái<color_default><br>
+-2 Mana költség a feltámasztás költségéből varázstárgyanként (3/7)

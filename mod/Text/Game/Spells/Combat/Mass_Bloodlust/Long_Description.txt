@@ -1,0 +1,1 @@
+﻿A hős Varázserő értékétől függő mértékben megnöveli az összes baráti lény Támadás értékét. Ha a célpontok a Szenvedés varázslat hatása alatt állnak, mindkét hatás aktív marad, és a varázslatokat elővarázslő hősök vagy lények erejének különbsége határozza meg az eredményt.

@@ -1,0 +1,1 @@
+﻿Hűbérúr: A hős seregében lévő összes Gyalogos, Fegyvernök és Védelmező azonnal cselekedhet, amikor a harc elkezdődik. A hős emellett naponta 250 aranyat ad a királyság kincstárába, és a kiképzési költségek 2 hősszintenként 1% + 1%-kal csökkennek.

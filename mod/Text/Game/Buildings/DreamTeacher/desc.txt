@@ -1,0 +1,1 @@
+﻿A hősnek 5000 Tapasztalati Pontot ad, megszorozva a meglátogatott Álomoktatók számával.

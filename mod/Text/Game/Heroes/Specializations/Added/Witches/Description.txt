@@ -1,0 +1,1 @@
+﻿Törvény Őrízője: A harc kezdetén további Mana lesz elérhető az Árnyboszorkák (+7), az Árnymatriarchák (+13) és Vér Úrnők (+6) számára. Továbbá minden hét elején több ilyen lény lesz elérhető toborzásra az összes saját maga birtokolt Földmélye városban. Az összeg 0,08*hős szintnek felel meg. A 7. hős szint előtt nem állnak rendelkezésre extra lények.

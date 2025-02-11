@@ -1,0 +1,1 @@
+﻿A hős összes csapata +3 Sebességet kap egy ellenséges vár ostrománál, a Katapult pedig összesen 4 lövést kap körönként.

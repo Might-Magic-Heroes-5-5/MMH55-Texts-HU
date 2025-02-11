@@ -1,0 +1,1 @@
+﻿Minden alkalommal, amikor az ellenséges hős varázslatot hajt végre, az ATB Kezdeményezési Sáv értéke 0,15-tel csökken.

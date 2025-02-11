@@ -1,0 +1,1 @@
+﻿Osztály: Lovag<br>Specializáció: Íjász Parancsnok<br><br><body_bright>A hős seregében lévő összes Íjász, Mesterlövész és Számszeríjász a hős minden második szintjén +1-et kap a Támadásához és a Védelméhez, az első szinttől kezdve.<br><color_default>Kezdő Képesség: Hadvezetés Alap szint

@@ -1,0 +1,1 @@
+﻿A tulajdonban lévő városokat a hős frakciójává alakítja (Nyersanyag erőforrásokba kerül a város szintje alapján). A hős biztosan a város előtt kell álljon. A Kapitóliummal rendelkező városokat nem lehet átalakítani. A város összes épületét átalakítják, kivéve a speciális épületeket.

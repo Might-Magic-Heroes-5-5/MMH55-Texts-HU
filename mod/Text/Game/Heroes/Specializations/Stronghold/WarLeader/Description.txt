@@ -1,0 +1,1 @@
+﻿Az Új Kán: Minden harci kiáltás költsége 1+Hős Szint/10-el csökken, és a hős szintjének megfelelő mennyiségű dühpontot ad.

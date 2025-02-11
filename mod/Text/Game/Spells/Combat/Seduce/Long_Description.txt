@@ -1,0 +1,1 @@
+﻿Irányítást ad egy olyan ellenséges lénycsoport felett, amely nem immunis az Elmekontrollra. Az időtartam 2 harci kör, ha a lénycsoport ugyanolyan értékes (Tapasztalati pont és mennyiség alapján), de az értékkülönbségtől függően csökkenhet ez az érték vagy növekedhet maximum 4 kör erejéig. A Szukkubusz nem cselekedhet a csábítás során.

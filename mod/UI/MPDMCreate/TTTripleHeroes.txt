@@ -1,0 +1,1 @@
+﻿Sakk mód 3x3 formátumban, ahol minden játékosnak három serege van, és harc közben válthat közöttük.

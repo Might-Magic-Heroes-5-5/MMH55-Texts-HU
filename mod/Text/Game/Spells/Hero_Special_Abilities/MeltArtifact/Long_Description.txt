@@ -1,0 +1,1 @@
+﻿A hős felold egy Varázstárgyat, amely egy barátságos lényen van felszerelve, hogy a benne lévő mágikus energiát a lény gyógyítására és feltámasztására használja fel a harcban.<br><color_default>A gyógyult Életpontok száma 10 * (Hős szint) * (1 + X), ahol az X, a feloldott Varázstárgyakban kialakított hatások száma. A hős a körének 50%-át a Varázstárgy feloldására fordítja.

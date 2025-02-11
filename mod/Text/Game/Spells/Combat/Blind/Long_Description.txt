@@ -1,0 +1,1 @@
+﻿Megvakítja a kiválasztott ellenséges lényt, hogy ne tudjon mozogni, támadni vagy semmilyen képességet használni. A Vakság eltűnik, ha megtámadják a megvakult lényt. A hős Varázserejének mértéke határozza meg a hatás időtartamát.<br><color_default>A varázslat Élőhalottakon, Elemi és Szerkezet-béli egységeken nem működik.

@@ -1,0 +1,3 @@
+﻿+2 Varázserő<br>
++4 Varázserő Elementálok megidézésénél<br><color_default>
+Megadja az Elementálok idézése varázslatot, ha még nem tanultad meg.

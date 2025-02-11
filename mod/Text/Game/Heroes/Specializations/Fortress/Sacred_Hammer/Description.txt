@@ -1,0 +1,1 @@
+﻿Szent Kalapács: Minden alkalommal, amikor a hős egy barátságos lényre Fény Mágia típusú varázslatot alkalmaz, van esély arra, hogy az Igaz Hatalom varázslatot is szabadon alkalmazza az érintett egységre. Az esély egyenlő 40%+Szint*1%-al.

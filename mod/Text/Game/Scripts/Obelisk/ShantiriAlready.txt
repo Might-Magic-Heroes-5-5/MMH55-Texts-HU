@@ -1,0 +1,1 @@
+﻿<color=yellow>Már meglátogattad ezt a Shantiri Lemezkét, Megtaláltál ennyit <value=amount> az ennyiből <value=total>!

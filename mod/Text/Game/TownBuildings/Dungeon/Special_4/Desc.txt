@@ -1,0 +1,1 @@
+﻿Varázstárgyakat ad el, és kis mértékben növeli a napi Arany bevételt minden megvásárolt Varázstárgy után, a növekedés 25, 50 vagy 100 Arany, a kisebb, a nagyobb erejű és az Ereklye típusú varázstárgyak esetén.

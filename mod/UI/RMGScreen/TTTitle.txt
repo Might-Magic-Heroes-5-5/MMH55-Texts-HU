@@ -1,0 +1,1 @@
+﻿FIGYELMEZTETÉS! Véletlenszerű térképek generálásához az MMH55_Utility.exe vagy MMH55_Editor.exe fájlt kell használnod, de a térkép lejátszásához használja az MMH55.exe vagy MMH55_64.exe fájlt. Ha nem tudod használni az Nyersanyag erőforrások/tapasztalati pontok beállításait, akkor ez rossz .exe fájl a térképek generálásához! (de a megfelelő a játékhoz)

@@ -1,0 +1,1 @@
+﻿Csökkenti a hős csapatai által elszenvedett fizikai sérüléseket a csaták során.

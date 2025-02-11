@@ -1,0 +1,1 @@
+﻿Ez a város napi 500 aranyat biztosít a tulajdonosnak, és +2-vel növeli a várost őrző csapatok Morálját és Szerencséjét.

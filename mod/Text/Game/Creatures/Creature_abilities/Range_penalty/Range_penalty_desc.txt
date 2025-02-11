@@ -1,0 +1,1 @@
+﻿Ez a lény hatékonyabb a közelharcban, és csak a sebzés felét okozza a távolsági támadásokban (tartsd lenyomva a Ctrl gombot, hogy közelharcban támadj az ellenséggel).

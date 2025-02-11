@@ -1,0 +1,3 @@
+﻿Lehetővé teszi a látogató hős számára, hogy megtanulja a benne rejlő varázslatokat. Megtartja az első kör 3 varázslatát.<br><br>
+<color=orange>Víz Elementálok<color_default><br>Ez az épület képes megidézni Víz elementálokat, és minden héten hozzáadni őket a város helyőrségéhez. A Víz Elementálok mennyisége a hősök által összegyűjtött Sárkányvér kristályok mennyiségétől (A) és a hősök tapasztalati szintjétől függ (B). Képlet = sqrt(sum(A*B))/8 * (3+guild level), amelyben az összeg(A*B) nem haladhatja meg a 600-at. Az összeg nulla, ha nem gyűlik össze kristály.<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+1 Varázserő érték bónuszt biztosít a város Kormányzójának.

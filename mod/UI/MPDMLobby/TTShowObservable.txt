@@ -1,0 +1,1 @@
+﻿Megtelt, de megfigyelhető sakk módú játékok megjelenítése.

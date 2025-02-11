@@ -1,0 +1,1 @@
+﻿Lehetővé teszi, hogy korlátozott számú napig kedvezményt adjon az AI-nak, azaz a Gépi ellenfélnek, minden vásárlása esetén. Ez nincs letiltva az alkalmi játék beállításánál.

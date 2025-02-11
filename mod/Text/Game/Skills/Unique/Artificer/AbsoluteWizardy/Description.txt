@@ -1,0 +1,1 @@
+﻿Az összes létező varázslat be lesz írva a hős varázskönyvébe, és a hős képes lesz arra, hogy ezeket Szakértő szinten el is varázsolhassa.

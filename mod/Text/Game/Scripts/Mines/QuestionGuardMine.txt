@@ -1,0 +1,3 @@
+﻿Még nem őriztetted csapatokkal ezt a bányát, szeretnéd-e őriztetni egy egyszeri összegért cserébe? <value=num> Arany?
+
+(Az ennél a bányánál állomásozó csapatok létszáma automatikusan növekedni fog, de lehetetlen kapcsolatba lépni a bánya helyőrséggel. Ha a bányát megtámadják, az őröket a tulajdonos irányítja a harci térképen.)

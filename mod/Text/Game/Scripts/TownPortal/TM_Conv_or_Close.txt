@@ -1,0 +1,29 @@
+﻿-------------------------------------------------------------------------------
+KÖVETKEZŐ CSELEKVÉS
+-------------------------------------------------------------------------------
+
+Rendben = E város átalakítása
+Kilépés = Zárd be a számítógépes ablakot
+
+-------------------------------------------------------------------------------
+HŐS INFÓK
+-------------------------------------------------------------------------------
+
+Hősszerep: <value=occupation>
+Mozgáspontok: <value=movement>
+Napi mana regeneráció: <value=mana>
+Napi extra aranybevétel: <value=estates>
+Sárkányvér kristályok: <value=dragonblood>
+Heti megerősítések Varázstárgyakból: T<value=artifactsummons_tier>:<value=artifactsummons>
+Heti megidézett lények: <value=summons>
+Heti toborzások (irányítás): T1:<value=tier1> T2:<value=tier2> T3:<value=tier3> T4:<value=tier4> T5:<value=tier5> T6:<value=tier6> T7:<value=tier7>
+
+-------------------------------------------------- -----------------------------
+TÉRKÉPBEÁLLÍTÁSOK
+-------------------------------------------------- -----------------------------
+
+Irányítás: <value=governance>
+Település átalakítása: <value=conversion>
+Max. városok frakciónként: <value=maxtowns>
+Max. lakások frakciónként: T1:<value=t1d> T2:<value=t2d> T3:<value=t3d>
+Katonai posztok maximális száma frakciónként: <value=t4d>

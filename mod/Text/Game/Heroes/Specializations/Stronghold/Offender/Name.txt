@@ -1,0 +1,1 @@
+﻿Osztály: Törzsfőnök<br>Specializáció: Zúzó<br><br><body_bright>A hős véletlenszerűen megtámad egy ellenséges lényt közvetlenül a harc elején. Ezenkívül a hős minden támadása +1% sebzést okoz a hős minden szintjén.<br><color_default>Kezdő Szakértelem: Harcművészetek

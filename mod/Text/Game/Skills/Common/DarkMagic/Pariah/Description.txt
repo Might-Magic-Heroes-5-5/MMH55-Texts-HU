@@ -1,0 +1,1 @@
+﻿Egy élő hős elnyeri a Vámpírizmus varázslatot, egy Nekropolisz hős esetén pedig az Újraélesztés varázslatot. A hős +5 Varázserőt is szerez, amikor Sötétség Mágia Varázslatokat varázsol, de ez az elhivatottsága páriává teszi őt saját fajtái között, ami -1 Morál büntetést eredményez.<color_default><br>A Morál büntetés végleges, még egy emlékmentor sem tudja azt eltávolítani róla.

@@ -1,0 +1,1 @@
+﻿A hős +4 Védelem értékre tesz szert, és a hős irányítása alatt álló összes lény csak 50%-os sebzést kap minden Tűz varázslatból, és immunisak lesznek a Tűz Mestere képesség páncélkárosító hatásaira.

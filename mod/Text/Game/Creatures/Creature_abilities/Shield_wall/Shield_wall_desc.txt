@@ -1,0 +1,1 @@
+﻿Az ellenséges támadás által e lény által elszenvedett sebzés 10%-kal csökken minden egyes mezőért, amelyet a támadó a találatig gyalogolt. A sebzéscsökkentés felső határa 80%.

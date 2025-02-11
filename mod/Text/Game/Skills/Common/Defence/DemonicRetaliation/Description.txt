@@ -1,0 +1,1 @@
+﻿A hős +2 Támadás értéket kap, és a Pokoltűz képesség hatékonyabbá válik. A visszatámadások során további Tűz sebzést is okoznak az ellenséges lényeknek a hős seregében lévő egységek.

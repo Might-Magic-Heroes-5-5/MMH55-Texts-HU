@@ -1,0 +1,1 @@
+﻿A hős a Tömeges hatású Lövedék eltérítés és a Mágia Immunitás varázslatokat Szakértő szinten szerzi meg<br><color_default>A hős ATB Kezdeményezési Sáv értéke 0,24-re áll vissza, miután bármilyen Tömeges hatású varázslatot végrehajtott, függetlenül a varázslat szintjétől.

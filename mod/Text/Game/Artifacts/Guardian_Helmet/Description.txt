@@ -1,0 +1,7 @@
+﻿+2 minden Elsődleges Attribútumhoz<br><br><color=purple>
+Az Elfeledett Hős Páncélja<color_default><br>
++1 minden Elsődleges Attribútumhoz (2/4)<br>
++2 minden Elsődleges Attribútumhoz (4/4)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.<br><br><color=orange>
+Küldetés<color_default><br>
+Hozd el az Elfelejtett Hős Páncéljának mind a 4 darabját egy Műtárgykereskedőnek, és kapsz egy egyedi jutalmat.

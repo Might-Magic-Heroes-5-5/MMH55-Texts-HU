@@ -1,0 +1,1 @@
+﻿Amikor ez a lény sebzést szenved, a Kezdeményezése +2-vel, a Támadása pedig +8-cal nő. A hatás 2 fordulóig tart.

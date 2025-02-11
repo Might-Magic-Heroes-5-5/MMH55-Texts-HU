@@ -1,0 +1,1 @@
+﻿Ez a lény harconként egyszer javíthat baráti mechanikus lényeket (gólemeket) és harci gépeket (aktivált képesség). A megjavított életerő pontok mennyisége gremlinenként 2 életerővel egyenlő. Ehhez a képességhez legalább 20 gremlinnek kell jelen lennie a csoportban a harc kezdetén.

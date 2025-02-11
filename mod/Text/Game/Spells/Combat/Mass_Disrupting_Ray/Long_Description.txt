@@ -1,0 +1,1 @@
+﻿Elpusztítja az összes ellenséges lénycsoport páncélját, csökkentve azok Védelem értékét és kis mágikus, de nem Elemi típusú sebzést okoz nekik. A sebzés egyenlő 10 * Varázserő értékkel. Az egymást követő varázslások tovább csökkentik a Védelmet, de nulla alá nem.

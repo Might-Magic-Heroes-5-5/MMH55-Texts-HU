@@ -1,0 +1,1 @@
+﻿A hős +2 Tudás értéket szerez, és 1-gyel tovább növeli azt, minden 10. hős szint után. A hős ezenkívül szerez egy véletlenszerű, 1-3. varázskörből származó sebző varázslatot, amely még nincs meg a varázskönyvében.

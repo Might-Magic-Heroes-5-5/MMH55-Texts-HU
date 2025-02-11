@@ -1,0 +1,1 @@
+﻿Növeli a megcélzott baráti egység Védelem értékét. A hős Varázserő értéke meghatározza a hatás időtartamát.

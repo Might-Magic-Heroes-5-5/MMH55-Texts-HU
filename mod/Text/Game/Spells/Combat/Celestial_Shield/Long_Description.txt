@@ -1,0 +1,1 @@
+﻿Mágikus energiapajzsal fedi be a célpont lénycsoportot, amely részben elszívja a lénycsoportnak okozott összes féle sebzést, amíg a pajzs meg nem semmisül. A hatékonysága a hős Varázserejének értékétől függ, és teljes sebezhetetlenség érhető el, ha a varázsló hősnek 60-as Varázsereje van.

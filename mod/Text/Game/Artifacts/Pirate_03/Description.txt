@@ -1,0 +1,5 @@
+﻿-1 Morál az ellenséges lényeknek<br><br><color=purple>
+Kalózok Ruházata<color_default><br>
++6 Támadás (3/6)<br>
++12 Támadás (6/6)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

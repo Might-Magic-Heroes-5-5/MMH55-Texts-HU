@@ -1,0 +1,1 @@
+﻿A hős +2 Védelem értéket kap, és 1-gyel tovább növeli azt minden 10. szintje után. A hős egyszeri +10% Életerő bónuszt is kap a seregében lévő összes lény után a következő csatára.

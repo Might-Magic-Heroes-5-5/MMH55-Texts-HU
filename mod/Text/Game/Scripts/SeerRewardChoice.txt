@@ -1,0 +1,4 @@
+﻿Válasszd ki jutalmadat
+
+Rendben = value=qty_a> <value=type_a>
+Kilépés = <value=qty_b> <value=type_b>

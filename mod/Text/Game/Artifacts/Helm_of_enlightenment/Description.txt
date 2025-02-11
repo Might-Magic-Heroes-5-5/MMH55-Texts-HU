@@ -1,0 +1,4 @@
+﻿+3 Tudás<br>
++10% Tapasztalati Pont<br><br><color=purple>
+A Megvilágosodás Miseruhája<color_default><br>
+A hős minden nap kap egy bizonyos mennyiségű tapasztalatot a Turbán és a Megvilágosodás Pikkelypáncélja viseléséért. Az összeg megegyezik az eltelt napok számával * 10.

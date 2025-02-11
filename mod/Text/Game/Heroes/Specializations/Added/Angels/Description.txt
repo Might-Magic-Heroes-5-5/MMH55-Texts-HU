@@ -1,0 +1,1 @@
+﻿Elrath Kiválasztottja: A hősnek állandóan +1 es Morál értéke van, és minden hét elején további Angyalok, Arkangyalok és Szeráfok lesznek elérhetők toborzásra minden birtokában lévő Szent Birodalom városban. Az összeg 0,04* hős szint. A hős 13. szintje előtt nem állnak rendelkezésre extra lények.

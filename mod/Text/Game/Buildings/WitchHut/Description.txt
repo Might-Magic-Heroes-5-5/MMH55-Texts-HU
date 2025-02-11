@@ -1,0 +1,1 @@
+﻿Lehetővé teszi a hős számára egy új képesség elsajátítását vagy egy ismert készség fejlesztését.

@@ -1,0 +1,1 @@
+﻿Kalandtérkép Képesség: Ha van Lőszerkocsi a hős seregében, minden nap 1 Goblin csatlakozik a seregéhez, és a hős naponta 0,5 Aranyat kap a seregében lévő minden Goblin után.<br><color_default>A továbbfejlesztett goblinok csak akkor csatlakozhatnak ha jelen vannak a hadseregben; viszont mindenképp Goblin Vadászok akkor, ha mindkét továbbfejlesztett változat jelen van.

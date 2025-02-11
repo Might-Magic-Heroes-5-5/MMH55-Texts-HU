@@ -1,0 +1,1 @@
+﻿Minden egyes játékmező után, amelyet ez a lény támadás közben megy, a célpont védekezése 7,5%-kal csökken (egészen nulláig).

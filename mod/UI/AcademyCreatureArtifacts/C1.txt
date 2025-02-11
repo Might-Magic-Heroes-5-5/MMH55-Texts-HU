@@ -1,0 +1,1 @@
+﻿<center><body_bright>Morál<br><color_default>Növeli a Morált ennyivel: 1+T/20.

@@ -1,0 +1,5 @@
+﻿Feléleszthetsz <body_bright><value=allowed_count> ebből <value=count> <value=name><body><br>
+
+Ennek költsége <body_bright><value=energy_needed> pont<body> a Sötét Energiából.
+
+<body_bright>Felélesszük őket?

@@ -1,0 +1,1 @@
+﻿Speciális harci képesség, amely minden barátságos lényre hatással van, ami 2-vel növeli Támadás, Védelem és Morál értéküket, valamint 10%-kal a Kezdeményezés értéküket. Az effektus időtartama 2+0.1*(Hős szintje) harci kör (Nem működik Élőhalottakon vagy Szerkezet-béli lényeken). A hős ATB Kezdeményezési Sáv értéke használat után 0,15-re áll vissza.

@@ -1,0 +1,1 @@
+﻿Egy mágikus kristályt hoz létre a csatatéren a kiválasztott mezőn, megakadályozza, hogy a szomszédos lövészek tüzeljenek, vagy akadályozza a mozgást a harc végéig, vagy amíg a kristályt meg nem támadják és meg nem megsemmisítik.

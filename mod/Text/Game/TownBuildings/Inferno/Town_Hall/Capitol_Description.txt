@@ -1,0 +1,3 @@
+﻿<color_default>A Városháza egy fejlesztése.<br>
+<color_bright>A Kapitólium naponta 4000 Aranyat biztosít a királyságodnak.<br><br>
+<color=0099FF>Kormányzóság<color_default><br>A Kapitólium Kormányzója további 100 tapasztalati pontot szerez naponta.

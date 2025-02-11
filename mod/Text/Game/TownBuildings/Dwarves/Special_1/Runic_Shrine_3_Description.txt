@@ -1,0 +1,3 @@
+﻿<color_default>A Rúna Szentély 2. szint egyik fejlesztése.<br>
+<color_bright>Mágikus rúnákat tanít az ötödik körből, és +3-al növeli a Rúnaismeret képességgel rendelkező törp hősök Varázserejét (nem halmozódik több városnál, és meg kell látogatni a várost)<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+3 Tudás érték bónuszt biztosít a város Kormányzójának.

@@ -1,0 +1,3 @@
+﻿<color_default>Az Erődítmény egy fejlesztése.<br>
+<color_bright>A Citadella 50%-kal növeli az alap lények növekedését, és védőárokszerű terepakadályokat ad a város védelméhez.<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+2 Védelem érték bónuszt biztosít a város Kormányzójának. 

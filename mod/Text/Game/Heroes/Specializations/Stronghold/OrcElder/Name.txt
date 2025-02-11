@@ -1,0 +1,1 @@
+﻿Osztály: Törzsfőnök<br>Specializáció: A Kán Pengéje<br><br><body_bright>A hős seregében lévő Gyilkosok, Hóhérok és Hadurak +1-et kapnak a Támadásukra és a Védelmükre a hős minden második szintjén, az első szinttől kezdve.<br><color_default>Kezdő Képesség: Támadás Alap szint

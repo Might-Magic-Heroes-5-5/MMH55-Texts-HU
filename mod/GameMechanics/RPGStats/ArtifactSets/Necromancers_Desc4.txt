@@ -1,0 +1,1 @@
+﻿-1-gyel csökkenti az összes ellenséges lény Sebességét. Azok az ellenséges lények, akik nem teljesítik a Morál ellenőrzést, -20%-os büntetést kapnak a Támadásukra és a Védelmükre a következő kör kezdetéig. A Halállovag, a Mélységbéli Varázsló és Nekromanta kasztú hősök Varázsereje +4-gyel megnő.

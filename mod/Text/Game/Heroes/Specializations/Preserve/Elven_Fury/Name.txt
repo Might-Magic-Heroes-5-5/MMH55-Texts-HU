@@ -1,0 +1,1 @@
+﻿Osztály: Bosszúálló<br>Specializáció: Agresszor<br><br><body_bright>A hős +1 Támadással indul, és ezt minden 7. szinten +1-gyel tovább növeli.<br><color_default>Kezdő Képesség: Sötét Mágia Alap szint

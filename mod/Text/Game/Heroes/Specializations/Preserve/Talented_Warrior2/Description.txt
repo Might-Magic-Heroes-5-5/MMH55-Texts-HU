@@ -1,0 +1,1 @@
+﻿Kutató: A hős tudása 7 szintenként +1-gyel nő, és a harcok után szerzett tapasztalata hős szintenként 2%-kal nő.

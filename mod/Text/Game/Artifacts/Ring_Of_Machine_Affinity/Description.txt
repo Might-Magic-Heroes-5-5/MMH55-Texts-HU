@@ -1,0 +1,4 @@
+﻿+1 Lövés a Ballisztának<br>
++1 Lövés a Katapultnak<br>
++50% Gyógyítás az Elsősegély Sátornak<br>
++4 támadás minden baráti lövöldöző lényre, ha a lőszeres kocsi jelen van

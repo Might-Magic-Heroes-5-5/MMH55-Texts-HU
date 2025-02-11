@@ -1,0 +1,1 @@
+﻿A hős megtanulja a Vérhívás Harci Kiáltás képességet, és minden alkalommal, amikor a hős seregében lévő lény Vérdühöt kap, a szokásosnál 33%-kal nagyobb vérdüh pontot kap. Ha azonban egy lény veszít a Vérdühéből, akkor 33%-kal több Vérdüh pontot is veszít, mint a szokásos mennyiség.

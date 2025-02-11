@@ -1,0 +1,1 @@
+﻿A Kapunyitás Mestere: A kapun keresztül hívott lények száma hősi szintenként 0,33%-kal nő, és a hős seregében lévő összes Szarvas Démon, Szarvas Felvigyázó és Szarvas Rém azonnal cselekedni kezd, amikor a harc elkezdődik.

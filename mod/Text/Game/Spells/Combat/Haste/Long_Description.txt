@@ -1,0 +1,1 @@
+﻿Arra készteti a kiválasztott barátságos egységet, hogy gyakrabban léphessenek a csatában. Ha a célpont lény a Lassítás varázslat hatása alatt áll, mindkét hatás aktív marad, és a varázsló hősök vagy varázsló lények erejének különbsége határozza meg az eredményt.

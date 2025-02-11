@@ -1,0 +1,1 @@
+﻿Lehetővé teszi az Elsősegély Sátor kézi vezérlését, és lehetővé teszi az elesett lények felélesztését.<color_default><br>A csata után helyreállítja az Elsősegély Sátort, ha az megsemmisült, s az Elsősegély Sátor Életerő pontjainak száma megszorzódik 3-mal.

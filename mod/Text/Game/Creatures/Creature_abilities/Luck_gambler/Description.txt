@@ -1,0 +1,1 @@
+﻿Harconként háromszor ez a lény növelheti egy kiválasztott baráti egység szerencseértékét, vagy csökkentheti egy kiválasztott ellenséges szerencséjét 1 és 3 közötti véletlenszerű értékkel (aktivált képesség).

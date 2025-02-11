@@ -1,0 +1,1 @@
+﻿Osztály: Mérnök<br>Specializáció: Háború Kovácsa<br><br><body_bright>A hős +1 Védelem Attribútum ponttal kezd, és minden 7. hős szint után +1-gyel tovább növeli e bónuszt.<br><color_default>Kezdő Szakértelem : Vitalitás Szakértelem

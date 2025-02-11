@@ -1,0 +1,1 @@
+﻿A hős +2 Varázserő értéket és egy speciális harci képességet kap, amely súlyos sebzést okoz az összes megidézett és Pokolból kapuhívással előhozott lénycsoportban, a sebzés 120 + (40 * hősszint). A képesség 20 Manába kerül, és használat után visszaállítja a hős ATB Kezdeményezési Sáv értékét 0,24-re.

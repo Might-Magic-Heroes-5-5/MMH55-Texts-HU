@@ -1,0 +1,1 @@
+﻿Megfélemlítés: Az ellenséges egységeknek a hős szintjétől függően büntetés jár a kezdeményezésre. Az ellenséges kezdeményezés 2% + 0,2%-kal csökken a hős szintje szerint.

@@ -1,0 +1,1 @@
+﻿Szeretnéd ezt a Lényépületet a frakciójának átalakítani?<br><br>Költségek:<br>Arany: <value=gold>, Fa: <value=wood>, Érc: <value=ore>

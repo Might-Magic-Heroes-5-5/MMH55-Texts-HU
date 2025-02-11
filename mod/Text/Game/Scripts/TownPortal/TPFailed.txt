@@ -1,0 +1,1 @@
+﻿<color=red>A Várportál használata nem sikerült! Győződj meg róla, hogy van hely a város helyőrségében.

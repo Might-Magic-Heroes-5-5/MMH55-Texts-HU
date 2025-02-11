@@ -1,0 +1,1 @@
+﻿Megidéz egy Darázsrajt, amely mágikus sebzést okoz a kiválasztott ellenséges lényen. A lény figyelmét elvonják, és az ATB Kezdeményezési Sáv értéke 0,2, 0,25, 0,3 vagy 0,4-gyel csökken, a Mágia Ág Képesség szinttől függően<br><color_default>A varázslat nem működik Élőhalottakon, Elemi és Szerkezet-béli egységeken.

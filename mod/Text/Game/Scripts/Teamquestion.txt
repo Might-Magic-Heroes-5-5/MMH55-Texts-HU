@@ -1,0 +1,1 @@
+﻿Több emberi játékos van a térképen. Szeretnél összeállni velük az AI Gépi játékosok ellen? (Mindig nyomd meg a Mégse gombot, ha ennek a térképnek saját csapatbeállításai vannak!)

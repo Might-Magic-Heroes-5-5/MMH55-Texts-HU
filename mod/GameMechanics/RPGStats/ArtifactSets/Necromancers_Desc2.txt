@@ -1,0 +1,1 @@
+﻿-1-gyel csökkenti az összes ellenséges lény Sebességét.

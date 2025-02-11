@@ -1,0 +1,5 @@
+﻿<color=orange>Vad Mód<color_default><br>
+* Minden AI Gépi játékos összeáll az emberi játékossal szemben, az AI számítási ideje lecsökken a több AI-játékost tartalmazó térképeken.
+* Ha több emberi játékos van, akkor összeállnak az AI-játékosok ellen.
+* Az AI-hősök soha nem menekülnek a harcok elől, és halálig harcolnak.
+* A Csata helyszíneken lévő ellenséges lények +5%-os lénynövekedést kapnak.

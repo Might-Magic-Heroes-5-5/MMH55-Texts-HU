@@ -1,0 +1,1 @@
+﻿Támadás értéket emel <value=enchant> értékkel <value=duration> harci körön át.

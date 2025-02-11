@@ -1,0 +1,1 @@
+﻿A hős a seregében lévő összes lénycsoport fegyverét feljavítja, hogy további Jég sebzéssel csapjon le (Nem csak az Élőholt lények kapják meg ezeket a felerősítéseket). A célpont az elsődleges sebzés 10%-ának megfelelő Elemi alapú Víz sebzést is el szenved.

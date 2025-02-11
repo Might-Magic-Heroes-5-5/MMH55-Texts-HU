@@ -1,0 +1,1 @@
+﻿Osztály: Bűvmágus<br>Specializáció: Felderítő<br><br><body_bright>A hős mozgási pontjai minden második hősi szint után 1%-kal nőnek. A hős minden csata után +250 tapasztalatot is szerez.<br><color_default>Kezdő Képesség: Fény Mágia Haladó szint

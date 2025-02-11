@@ -1,0 +1,1 @@
+﻿Osztály: Vajákos Mester<br>Specializáció: Árnyéktáncos<br><br><body_bright>A hős serege kevesebb kárt szenved a távoli támadásoktól, a távolsági sebzés csökkentése 15% + 0,5% hős szintenként.<br><color_default>Kezdő Képesség: Pusztító Mágia Alap szint

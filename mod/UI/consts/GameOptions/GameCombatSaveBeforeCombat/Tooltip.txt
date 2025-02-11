@@ -1,0 +1,1 @@
+﻿A játék automatikusan mentésre kerül minden csata előtt

@@ -1,0 +1,1 @@
+﻿<left>Az ellenséges hős szerzett <value=exp> Tapasztalati pontot.

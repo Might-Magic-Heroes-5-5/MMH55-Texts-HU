@@ -1,0 +1,1 @@
+﻿Csökkenti a célpont lény maximális sebzését a minimális sebzés felé. Ha a célpont lény az Isteni Erő varázslat hatása alatt áll, megtisztul attól. A hatás nem haladhatja meg a 100%-ot.

@@ -1,0 +1,1 @@
+﻿A hős átokkal sújtja a célpont lényeket, ami csökkenti a Támadás értékeiket.<br><color_default>A hatás ugyanaz, mint a Szenvedés varázslat nulla Mágia szinttel varázsolt mértékben, így csökkenti a Támadás értéket, -4 + -0,15-tel Varázserő értékként.

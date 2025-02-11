@@ -1,0 +1,1 @@
+﻿Elteleportálja a hőst és az egész seregét egy másik helyre a Kalandtérképen. A teleportálás tartománya 8 mezőnyiból áll, és a hős maximális mozgáspontjainak 20%-ába kerül.<color_default><br>Ennek a varázslatnak a megtanulásához 20-as szint szükséges. Nem szükséges hozzá valamilyen Mágia iskola képesség megléte.

@@ -1,0 +1,1 @@
+﻿Misztikus: A hős fokozatosan képes visszaállítani a Mana pontjait a csatákban. A helyreállítás sebessége a hős szintjétől függ. A hős minden cselekedet előtt visszaszerez a a Hős Szint/Mana (felfelé kerekített) mennyiségű Manapontot.

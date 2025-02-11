@@ -1,0 +1,27 @@
+﻿-------------------------------------------------------------------------------
+FEJLETT RMG PÁRBAJ TÉRKÉP
+-------------------------------------------------------------------------------
+
+1. Látogass meg egy Elhagyott bányát, hogy véletlenszerű varázstárgyakat szerezz.
+2. Látogass el egy Boszorkánykunyhóba, hogy hatalmas mennyiségű Tapasztalati pontot szerezhess.
+3. Sétálj vissza a városodba, hogy megbizonyosodj arról, hogy minden varázslatot megtanultál e, vásárolj meg minden csapatot, és ne felejtsd el a hadi gépeket!
+4. Menj a középső zónába, hogy legyőzd az ellenfelet, ellenfelednek bele kell egyeznie, hogy egy véletlenszerűen generált tereptípuson harcol.
+-------------------------------------------------------------------------------
+SZABÁLYOK
+-------------------------------------------------------------------------------
+
+-Ha a hősöd meghal, elveszted a játékot, nem vehetsz meg másikat.
+-A játékosok elakadásának megakadályozása érdekében a városokat a 8. napon megsemmisítjük, ezt követően maximum 7 napunk van az ellenség megölésére.
+-A Vörösfa Obszervatóriumok ezen a térképen visszaállíthaják a Manát, más ideiglenes hatás növelők nem használhatók.
+-A térképen szereplő csatahelyek az alapbeállítás szerint túl veszélyesek, és ha meglátogatod őket, veszíthetsz.
+-------------------------------------------------------------------------------
+BALANSZ INFÓ
+-------------------------------------------------------------------------------
+
+-A városi lényépületnek van némi plusz növekedése, ha létezik egy speciális frakcióépület, és a Földmélye 1-3. szintű lényeinek száma, hetente nagyobb növekedést kap a Toborzási tér/Rituális Gödör helyett.
+- Azok a hősök, akiknek lény növekedéses Képessége vagy sárkányvérű specializációja van, egy plusz lénycsoportnyit kapnak ezekből a lényekből.
+-A Logisztika specializációval rendelkező hősök egy extra lénycsoportnyi Elementált kapnak.
+- A Nekropolisz hősei osztálytól függően extra lénycsoport Csontvázat, Szellemet vagy Kísértetet kapnak.
+- A Varázsbűvészek +4 Támadás értéket és +4 Védelem értéket kapnak, de nem használhatják az Misztikus Kohó képességet.
+- A Bosszúálló és a Kósza típusú hősök egy extra lénycsoportnyi Pengetáncost kapnak, de a Bosszúállók-céh nem használható.
+-A sereg mérete, a varázstárgyak és a tapasztalati pont a felhasználó által konfigurálható beállítások a data/MMH55-settings.pak fájlban, ha szükséges, a játékban megváltoztatható a Csatahelyszínek esetére, csökkentve az ott szerezhető varázstárgyak számát és a semleges őrök mennyiségét.

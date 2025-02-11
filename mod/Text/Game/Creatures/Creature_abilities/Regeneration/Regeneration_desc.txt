@@ -1,0 +1,1 @@
+﻿Ez a lény a csoport méretének 15%-ával megegyező mennyiségű életerőpontnak megfelelő mennyiségű egészséget állít vissza. Az összeg csatánként értendő, nem fordulónként. A teljes mennyiség felhasználása után a lény nem regenerálódik tovább.

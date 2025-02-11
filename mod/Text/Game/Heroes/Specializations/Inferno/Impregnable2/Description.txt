@@ -1,0 +1,1 @@
+﻿Varázstörő: 5% mágiaellenállást ad a hős csapatának, +1 %-ot hősi szintenként.

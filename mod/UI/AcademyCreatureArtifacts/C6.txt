@@ -1,0 +1,1 @@
+﻿<center><body_bright>Mágikus Védelem<br><color_default>Növeli a Mágikus Védelmet +%-al. A Maximum 40%.

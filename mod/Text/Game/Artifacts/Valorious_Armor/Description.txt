@@ -1,0 +1,4 @@
+﻿+1 Védekezés<br>
++5 Tudás kiszámítva minden aktív Varázstárgyra<br>
++5 Védekezés kiszámítva minden aktív Varázstárgyra<br><color_default>
+(Hatással van minden, ezen a hősön aktív Varázstárgyra, amely erőforrásokat, csapatokat ad vagy lényeket támaszt fel.A Tudás/Védekezés bónusz nem adódik hozzá a hős statjaihoz, hanem csak az említett tárgyak kiszámítási módjához. Pl: Ha a hősnek 10 tudása van, akkor úgy számítja ki az erősítéseket, mintha 15 tudással rendelkeznél.)

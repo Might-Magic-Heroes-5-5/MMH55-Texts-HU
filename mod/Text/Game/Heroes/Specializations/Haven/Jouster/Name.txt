@@ -1,0 +1,1 @@
+﻿Osztály: Lovag<br>Specializáció: Lovassági Parancsnok<br><br><body_bright>A hős seregében lévő Kóbor Lovag, Paplovag és Bajnok minden hősi szint után +1%-os további lovagi sebzésbónuszt kap (Roham képesség). A hős Megtorló Csapás szakértelme is +1%-kal több sebzést okoz minden hősi szint után.<br><color_default>Kezdő Szakértelem: Harcművészetek

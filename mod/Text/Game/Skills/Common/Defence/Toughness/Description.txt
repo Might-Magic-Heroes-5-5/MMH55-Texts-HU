@@ -1,0 +1,1 @@
+﻿A hős megszerzi a Csatatéri Elsősegély Csomag Varázstárgyat, és ezenkívül a hős seregében lévő összes lény Életerőpontja állandóan 2-vel megnő.<color_default><br>A Nekropolisz frakció hősei esetén, csak a +2 Életerő bónuszt kapják.

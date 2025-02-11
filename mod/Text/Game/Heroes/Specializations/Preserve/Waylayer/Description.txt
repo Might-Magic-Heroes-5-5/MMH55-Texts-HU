@@ -1,0 +1,1 @@
+﻿Gyors Támadó: A hős seregében lévő lények hősi szintenként +0,5%-os bónuszt kapnak a kezdeményezésükre a harc kezdetén.

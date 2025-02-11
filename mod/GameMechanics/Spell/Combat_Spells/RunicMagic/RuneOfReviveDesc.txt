@@ -1,0 +1,1 @@
+﻿Feltámasztja a lénycsoportban lévő megölt lények 30%-át.

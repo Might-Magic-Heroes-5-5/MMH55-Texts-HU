@@ -1,0 +1,1 @@
+﻿+2-vel növeli a hős Védelem értékét, és 10. hős szint elérése után, minden nap egy Harcos, Taglózó vagy Uszító Harcos csatlakozik a hős seregéhez, feltéve, hogy a hősnek már van néhány ilyen lény a seregében.

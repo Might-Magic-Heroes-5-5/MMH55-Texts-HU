@@ -1,0 +1,1 @@
+﻿Vasszűz: A Balliszta lövései a hős parancsnoksága alatt tűzlabda hatásúak. A Tűzlabda sebzése 24*Teljesítmény, ahol az erő egyenlő -2,33 + hős szintje/3-al. A hős képességei (mint például a Tűz Mestere) nem kerülnek figyelembe vételre.

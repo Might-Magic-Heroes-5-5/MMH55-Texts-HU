@@ -1,0 +1,1 @@
+﻿Várakozás - Késlelteti ennek a a lénynek az aktuális körét 50%-kal. <hotkey=input_Combat_Wait>

@@ -1,0 +1,1 @@
+﻿Lehetővé teszi az AI Előretekintési mélységének beállítását. A „Lehetetlen” a „legokosabb” beállítás, de az erősítés mértéke kicsi, és súlyosan lelassíthatja a nagy térképeket, ha egy adott kör túl sokáig tart, ekkor csökkentsük le. XL-es térképeknél nem ajánlott túllépni a „Nehéz” fokozaton.

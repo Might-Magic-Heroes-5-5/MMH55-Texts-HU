@@ -1,0 +1,1 @@
+﻿Felejtse el a kiválasztott Képességeket vagy alképességeket<hotkey=hero_unlearn_skill>

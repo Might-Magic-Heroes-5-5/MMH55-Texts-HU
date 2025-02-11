@@ -1,0 +1,1 @@
+﻿Növeli a hős seregében lévő egységek által okozott sebzést a visszatámadásaik során. Lehetővé teszi Lovag típusú hősök számára, hogy az emberi egységeket a következő legmagasabb szintre emelhesse. Csak azokban a Szent Birodalom-béli városokban működik, ahol a Gyakorlótér 'épület' már megépült.

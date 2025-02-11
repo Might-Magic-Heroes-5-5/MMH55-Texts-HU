@@ -1,0 +1,1 @@
+﻿Amint egy ellenséges lény, amely 1 mezőnyi hatótávolságán belül van ettől a lénytől, a csoportban lévő lények számával arányos tűzsebzést szenved el. Fordulója kezdetén minden szomszédos ellenséges lény tűzsebzést szenved a lények száma * 6 tűzsebzéssel.

@@ -1,0 +1,8 @@
+﻿1. nap: +3 Támadás
+2. nap: +1 Morál
+3. nap: +3 Védekezés
+4. nap: +1 Szerencse
+5. nap: +1 Kezdeményezés
+6. nap: +2 Támadás és Védekezés
+7. nap: +1 Sebesség
+Minden nap: +400 Mozgáspont

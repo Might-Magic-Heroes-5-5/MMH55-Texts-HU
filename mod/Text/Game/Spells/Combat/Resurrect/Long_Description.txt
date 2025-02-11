@@ -1,0 +1,1 @@
+﻿Véglegesen feltámasztja a lényeket célpont baráti lénycsoportban. Ennek a varázslatnak minden használata csökkenti a célpont lénycsoport Életerőpontjait, kivéve, ha a varázslónak nagy értékű Varázsereje van.

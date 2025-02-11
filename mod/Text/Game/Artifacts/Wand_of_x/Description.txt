@@ -1,0 +1,3 @@
+﻿+2 Varázserő<br>
+Megadja a varázslás képességét <value=spell_name> ebből a pálcából haladó szinten (kivéve, ha a hős szintje magasabb). A pálca korlátozott számú használatra alkalmas, és egy Mágikus Céhben tölthető fel újra. (uses <value=charges_cur>/<value=charges_max>)
+<br><color_default>A Törzsfőnökök nem tudnak varázsolni, de megkapják a varázserő bónuszt.

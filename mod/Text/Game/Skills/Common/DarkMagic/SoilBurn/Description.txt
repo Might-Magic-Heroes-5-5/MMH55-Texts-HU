@@ -1,0 +1,1 @@
+﻿A hős felszólítja a természet erőit, hogy befolyásolják azt a talajtípust, amelyen az ellenséges lények járnak. Bármikor, amikor egy nem repülő ellenséges lény mozog, a hős szint * 8-nak megfelelő sebzést kap.<br><color_default>A sebzés nem mezőnként értendő, és nem működik, ha a lény csak várakozik vagy átadja körét.

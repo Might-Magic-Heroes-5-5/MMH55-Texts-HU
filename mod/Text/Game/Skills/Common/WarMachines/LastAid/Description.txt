@@ -1,0 +1,1 @@
+﻿Az Elsősegély Sátor képessé válik az ellenséges lények megsebzésére is. Az okozott sebzés mértéke megegyezik a Sátor gyógyító erejével. A Pestist okozó sebző hatások nem nyelik el a gyógyító hatásokat, de kimerülnek, ha már nem maradnak gyógyító hatások sem a Sátorban.

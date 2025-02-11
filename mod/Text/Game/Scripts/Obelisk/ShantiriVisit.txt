@@ -1,0 +1,1 @@
+﻿<color=yellow>Megfejtettél ennyit: <value=amount> db-ot az összes <value=total> Shantiri Lemezke mennyiségéből!

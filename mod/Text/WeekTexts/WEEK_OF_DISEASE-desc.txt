@@ -1,0 +1,1 @@
+﻿Az összes lény egyharmada az összes lényépületben el fog pusztulni (a minimális fennmaradó mennyiség egy darab). A heti lényszám növekedésnek csak egyharmada él minden lény esetén.

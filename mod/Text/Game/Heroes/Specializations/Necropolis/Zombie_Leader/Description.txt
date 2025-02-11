@@ -1,0 +1,1 @@
+﻿Zombi Nagyúr: A harc kezdetén az ATB-érték visszaáll minden baráti Zombi, Fertőző Zombi és Rothadó Zombi esetében, ami azonnali cselekvésre készteti őket. A hős seregében lévő minden Zombi és fejlesztésük +1-et kap a támadásához és a védelméhez a hős minden második szintjénél, az első szinttől kezdve.

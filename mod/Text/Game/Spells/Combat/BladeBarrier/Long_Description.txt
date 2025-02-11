@@ -1,0 +1,1 @@
+﻿Ideiglenesen három mező hosszúságú akadályt hoz létre a csatatér kiválasztott részén. Az akadály 75%-kal csökkenti a sebzést a távolsági és mágikus támadások esetén, és az elvesztett Életpontok számával megegyező sebzést ad vissza a közelharci támadóknak. Az akadály megakadályozza, hogy a szomszédos lövészek tüzeljenek, ha melléjük rakják őket.

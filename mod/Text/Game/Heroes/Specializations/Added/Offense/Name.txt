@@ -1,0 +1,1 @@
+﻿Osztály: Törzsfőnök<br>Specializáció: Aggresszor<br><br><body_bright>A hős +1 Támadás értékkel kezd, és minden 7. hős szint után +1-gyel megnöveli.<br><br><color=orange>Veterán<color_default><br>Kezdő Képesség: Tanulás Képesség Alap szint.

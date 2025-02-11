@@ -1,0 +1,5 @@
+﻿+1 Támadás<br>
++1 Morál<br><br><color=purple>
+Oroszlánszellem<color_default><br>
++6 Támadás (3/3)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

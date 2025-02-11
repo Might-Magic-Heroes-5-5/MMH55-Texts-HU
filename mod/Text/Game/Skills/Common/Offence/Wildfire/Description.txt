@@ -1,0 +1,1 @@
+﻿A hős parancsnoksága alatt álló Balliszta figyelmen kívül hagyja az ellenséges célpontok Védelem értékének 50%-át, és további Tűz Sebzést okoz. A lövésenkénti összeg megegyezik a hős szintjével. A megsemmisült Balliszta a harc után visszakerül a hős hadseregébe.

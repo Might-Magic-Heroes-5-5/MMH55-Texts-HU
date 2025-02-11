@@ -1,0 +1,15 @@
+﻿-------------------------------------------------------------------------------
+KERESKEDELMI PONT
+-------------------------------------------------------------------------------
+
+Szeretne bájitalokat vásárolni, vagy Nyersanyag erőforrásokat cserélni?
+
+Rendben = Vásároljon bájitalokat
+Kilépés = Kereskedelmi Nyersanyag erőforrások
+
+-------------------------------------------------- -----------------------------
+BÁJTAL ÁRAK
+-------------------------------------------------- -----------------------------
+
+Mana ital - 5000 Arany
+Mozgáspont bájital - 10000 Arany

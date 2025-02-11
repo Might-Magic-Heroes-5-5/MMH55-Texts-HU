@@ -1,0 +1,1 @@
+﻿Független: A hős +1 Támadással és -1 Védelemmel indul, és a hős seregében lévő összes lény kezdeményezése 2,5%-kal + 0,25%-kal nő hősi szintenként.

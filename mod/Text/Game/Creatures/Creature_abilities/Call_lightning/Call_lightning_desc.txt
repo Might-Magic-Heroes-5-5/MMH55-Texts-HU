@@ -1,0 +1,1 @@
+﻿A lény egy villámot lő ki, amely 40 * az egység nagyságának megfelelő mágikus sebzést okoz. Távolsági támadásként akkor is használható, ha az közelharcban van.

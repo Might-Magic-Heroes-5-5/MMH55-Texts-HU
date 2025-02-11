@@ -1,0 +1,1 @@
+﻿Átalakítod ezt a várost?<br>Költség = Arany: <value=gold>, Fa: <value=wood>, Érc: <value=ore>, Higany: <value=mercury>, Kristály: <value=crystal>, Kén: <value=sulphur>, Drágakövek: <value=gem><br><br>FIGYELMEZTETÉS: Távolítsd el a hadseregeket a helyőrségből, különben meghalnak!

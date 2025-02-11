@@ -1,0 +1,3 @@
+﻿<h4> A Erőd nép hősei itt fejleszthetik talizmánjaikat, hogy azokkal új Kalandtérkép varázslatokat szerezhessenek.<br>
+
+<body_bright>A hős <value=hero_name> most már <value=talisman_level>.

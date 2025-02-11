@@ -1,0 +1,1 @@
+﻿A Káosz Kiválasztottja: A hős összes csapatának Szerencséje minden csata kezdetén 1 %-kal nő, és a 20. szinten a hős további +1 szerencsét kap állandóan. Emellett az ellenséges hősök nem használhatják a Taktika képességet a harcban.

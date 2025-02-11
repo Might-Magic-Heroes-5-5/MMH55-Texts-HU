@@ -1,0 +1,1 @@
+﻿Szellemi kapcsolatot ad, a célpont lénnyel, s ha a kapcsolt lények bármilyen sebzést kapnak, a hős némi manát kap, táplálkozva így manapontokkal, a lények szenvedéséből.

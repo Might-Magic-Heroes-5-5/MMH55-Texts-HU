@@ -1,0 +1,1 @@
+﻿Éles Penge: A hős seregében lévő összes Dárdás, Előcsatározó és Szigonyos +1-et kap a támadásához és a védelméhez a hős minden 2. szintjén, az első szinttől kezdve.

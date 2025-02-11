@@ -1,0 +1,1 @@
+﻿40%-kal megnöveli Maximális Manát (normal) mértékét. A mana regenerációs sebessége nem nő.

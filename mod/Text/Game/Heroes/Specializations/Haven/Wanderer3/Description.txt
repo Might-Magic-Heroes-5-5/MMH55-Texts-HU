@@ -1,0 +1,1 @@
+﻿Járőr: A hős mozgási pontjai minden második hősi szint után 1%-kal nőnek. A hős minden csata után +250 tapasztalatot is szerez.

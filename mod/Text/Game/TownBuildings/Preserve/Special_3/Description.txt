@@ -1,0 +1,1 @@
+﻿+1 Varázserőt ad a Druida típusú hősöknek (Több várossal együtt halmozódik, s nem szükséges a városok meglátogatása), és +2 Szerencse bónuszt biztosít a várost védő bármely hadseregnek.

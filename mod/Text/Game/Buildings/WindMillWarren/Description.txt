@@ -1,0 +1,1 @@
+﻿Hetente egyszer kis mennyiségű véletlenszerű erőforrást biztosít.

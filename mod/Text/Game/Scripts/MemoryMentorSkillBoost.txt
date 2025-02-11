@@ -1,0 +1,4 @@
+﻿Az Emlék Mentorálás gyakorlata jelenleg tilos ezeken a vidékeken, de a Mágus továbbra is hajlandó néhány alapvető Mágia alapú kiképzést adni.
+ 
+Rendben = +2 Varázserő
+Kilépés = +2 Tudás

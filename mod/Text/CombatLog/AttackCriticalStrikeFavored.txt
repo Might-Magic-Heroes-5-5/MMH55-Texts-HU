@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> Csapás Kedvenc ellenségre <value=target> Kritikus csapás esetén<value=font> <value=damage> sebzés okozása (<value=dead> meghalt).

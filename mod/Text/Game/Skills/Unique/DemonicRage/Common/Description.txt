@@ -1,0 +1,1 @@
+﻿Lehetővé teszi, hogy a hős seregében lévő Erőd-béli lények dühbe guruljanak a csaták közben. Az így létrejövő Vérdüh megfelelő harci bónuszokat ad nekik.

@@ -1,0 +1,7 @@
+﻿+1 Varázserő<br>
++1 Tudás<br>
+Megadja a képességet, hogy megtanuljon bármilyen 4. szintű varázslatot, ha a hős rendelkezik az Misztikus Mindentudás szakértelemmel.<color_default><br>
++2 Varázserő, ha a hősnek Fejlett Felvilágosodása van.<br>
++2 Tudás, ha a hősnek Fejlett Felvilágosodása van.<br>
++3 Varázserő, ha a hősnek Felvilágosodása szakértő szinten van.<br>
++3 Tudás, ha a hősnek Felvilágosodása szakértő szinten van.

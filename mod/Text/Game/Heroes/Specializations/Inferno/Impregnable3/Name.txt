@@ -1,0 +1,1 @@
+﻿Osztály: Eretnek<br>Specializáció: Varázstörő<br><br><body_bright>5% mágiaellenállást ad a hős csapatának, +1 %-ot hősi szintenként.<br><color_default>Kezdő Képesség: Sötét Mágia Haladó szint

@@ -1,0 +1,1 @@
+﻿Hatalmas villámsebzést okoz több szomszédos lénynek (legfeljebb 4-nek), kezdve a kiválasztottal. A lánc minden következő lénye megkapja az előzőnek okozott sebzés felét (A lánc eltalálhatja a barátságos lényeket).

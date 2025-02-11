@@ -1,0 +1,1 @@
+﻿Osztály: Nekromanta<br>Specializáció: Fürge<br><br><body_bright>A hős mozgási pontjai azonnal 5%-kal, majd négy szintenként 1%-kal nőnek. A Teleportáció varázslat költsége a felére csökken.<br><color_default>Kezdő Szakértelem: Elme Mestere

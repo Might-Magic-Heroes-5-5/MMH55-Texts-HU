@@ -1,0 +1,1 @@
+﻿Osztály: Lángőr<br>Specializáció: Misztikus<br><br><body_bright>A hős +1 Szerencsével indul, és kevesebb mozgáspontot veszít, amikor a Misztikus Rituálé képességet használja. A mozgási költség minden visszanyert manapontonként 2-vel csökken.<br><color_default>Kezdő Szakértelem: Misztikus Rituálé

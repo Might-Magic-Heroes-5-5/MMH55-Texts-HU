@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> okoz <value=damage> sebzést <value=target>-nak és lelassítja a körét.

@@ -1,0 +1,2 @@
+﻿Lehetővé teszi a Bosszúállók számára, hogy kiválasszák kedvenc ellenségeiket, és 1-gyel növeli az összes Bosszúálló típusú hős Tudás értékét (Több várossal halmozódik, és nem szükséges meglátogatni a várost)<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+1 Tudás érték bónuszt biztosít a város Kormányzójának.

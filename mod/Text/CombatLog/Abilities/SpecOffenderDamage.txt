@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> megtámadja <value=target>-t Specializációját használva: <value=font> <value=damage> sebzést okozott (<value=dead> meghalt).

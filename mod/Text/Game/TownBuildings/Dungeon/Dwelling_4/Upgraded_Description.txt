@@ -1,0 +1,2 @@
+﻿<color_default>A Sötét Karámok egy fejlesztése.<br>
+<color_bright>A Zord Karámok lehetővé teszik a zord Lovasok és portyázók toborzását.

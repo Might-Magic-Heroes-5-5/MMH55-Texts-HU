@@ -1,0 +1,9 @@
+﻿Gyors tippek:
+
+-Csak az MMH55_Utility.exe és MMH55_Editor.exe fájlokat használd térképek generálásához.
+-Ragaszkodj a megadott térképmérethez és a megadott Játékos számokhoz a Sablon (Template) térképek esetén.
+-Az MMH55_utility.exe nagyobb méretet tesz lehetővé a Vizes területekkel elátott térképekhez, ez jól is működik.
+-Az ARMG-térképek nem működnek a LAN-ban vagy a Hot-seat-ben, ha a szkriptek nincsenek aktiválva.
+-A szkriptek aktiválásához használd a Mapmixer segédprogramot.
+-A Vizes területekkel elátott térképeket a Mapmixer segédprogrammal dolgozd fel, különben a vizes területek létrehozásakor azok nagyon egysíkuak lesznek.
+-Az összes Sablon térképlehetőség (Templatek) vizualizációja a .pdf kézikönyvben található.

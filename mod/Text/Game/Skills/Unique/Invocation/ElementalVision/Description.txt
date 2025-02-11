@@ -1,0 +1,1 @@
+﻿A hős képes lesz látni az ellenséges lényekhez kapcsolódó elemeket, így az ellenkező elem Pusztító Mágia ág-béli varázslatok további sebzést okozhatnak ezen lényeknek. A további sebzés +5% az Okkultizmus Képesség minden elsajátított szinte után és +5% minden Elemek Oltára építmény megléte után.

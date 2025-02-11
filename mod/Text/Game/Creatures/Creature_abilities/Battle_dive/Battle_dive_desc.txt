@@ -1,0 +1,1 @@
+﻿A lény késleltetett légitámadást hajt végre a csatamező egy kiválasztott mezején, 50%-kal több sebzést okozva a szokásosnál, még akkor is, ha a mezőt egy baráti egység foglalja el. A támadást követően a lény visszatér a játéktér egy véletlenszerűen kiválasztott helyére (aktivált képesség).

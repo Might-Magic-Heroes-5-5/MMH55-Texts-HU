@@ -1,0 +1,1 @@
+﻿<body_bright><center>Képesség Kerék<br><br><color_default>Részletes vázlatot jelenít meg az egyes hősosztályokhoz elérhető készségekről és szakértelmekről, valamint a hősosztály attribútumait és az MMH5.5 összes Képességének és szakértelmének magyarázatát.

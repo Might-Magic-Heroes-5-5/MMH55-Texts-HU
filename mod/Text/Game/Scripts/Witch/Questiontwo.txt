@@ -1,0 +1,1 @@
+﻿A csalódott Boszorkány tétovázik egy ideig, de végül úgy dönt, hogy újabb ajánlatot tesz neked. Ezúttal azonban <value=gold> Aranyat kér a szolgáltatásaiért cserébe. Szeretnéd megtanulni ezt: <value=mastery> <value=skill>?

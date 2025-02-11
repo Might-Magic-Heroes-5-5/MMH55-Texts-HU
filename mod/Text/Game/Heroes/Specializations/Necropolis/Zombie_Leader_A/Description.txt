@@ -1,0 +1,1 @@
+﻿Zombi Nagyúr: A hős seregében lévő összes Zombi, Fertőző Zombi és Rothadó Zombi mindig közvetlenül azután fog cselekedni, hogy a hős sorra kerül, így a kezdeményezésük gyakorlatilag a hősével azonos szintre emelkedik (10), és immunisak lesznek a Lassításra.

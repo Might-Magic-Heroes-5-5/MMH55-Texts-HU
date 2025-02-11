@@ -1,0 +1,1 @@
+﻿<center><body_bright>Gyorsítás<br><color_default>Növeli a Kezdeményezést ennyivel: (1+T/2)%.

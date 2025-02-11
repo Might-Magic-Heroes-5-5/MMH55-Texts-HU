@@ -1,0 +1,1 @@
+﻿A hős seregének minden lénye további 40%-os Mágia Biztonságot kap, de csak addig, amíg a hős Szerencse értéke pozitív.

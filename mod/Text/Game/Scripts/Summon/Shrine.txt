@@ -1,0 +1,1 @@
+﻿<color=green>Ahogy a Drágakő feloldódik <value=num> <value=upgtype> idéződik!

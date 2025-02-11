@@ -1,0 +1,1 @@
+﻿Itt feláldozhatsz lényeket, hogy mindezzel megnövelhesd a Vérleányok és a Minotauruszok heti számának növekedését. A +1 növekedés eléréséhez szükséges küszöbök: 30 Életerő, 90 Életerő, 270 Életerő, 810 Életerő, 2430 Életerő, 7290 Életerő, 21870 Életerő... (90 Életerőtől kezdődően Minotauruszoknál).

@@ -1,0 +1,1 @@
+﻿Lehetővé teszi a hősnek, hogy egyszerre megtámadja az összes ellenséges lényt, amely a Kedvenc Ellenség listáján szerepel. Az egyes célpontoknak okozott Sebzés alacsonyabb, mint a hős normál közvetlen sebzése, és -3 büntetés jár a saját szintjéhez a Sebzés kiszámításánál.

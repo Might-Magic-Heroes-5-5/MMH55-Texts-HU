@@ -1,0 +1,1 @@
+﻿Csökkenti az ellenség Varázserő értékét a csatákban, a Törzsfőnök típusú hősök Varázserő értékének a felével.

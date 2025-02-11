@@ -1,0 +1,2 @@
+﻿<color_default>A Vadászkunyhók egy fejlesztése.<br>
+<color_bright>A Vadászlakok lehetővé teszik Mestervadászok és Mesterlövészek toborzását.

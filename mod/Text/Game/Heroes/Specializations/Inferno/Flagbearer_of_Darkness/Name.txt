@@ -1,0 +1,1 @@
+﻿Osztály: Varázserősítő<br>Specializáció: A Káosz Kiválasztottja<br><br><body_bright>A hős összes csapatának Szerencséje minden csata kezdetén 1 %-kal nő, és a 20. szinten a hős további +1 szerencsét kap állandóan. Emellett az ellenséges hősök nem használhatják a Taktika képességet a harcban.<br><color_default>Kezdő Képesség: Pusztító Mágia Alap szint

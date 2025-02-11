@@ -1,0 +1,1 @@
+﻿A hős +2 Varázserő értéket szerez, és 5 hős szintenként tovább növeli a Varázserő értéket 1-gyel. A hős emellett +4 Mana regenerációt és +100 Manapontnyi gyszeri bónuszt is kap.

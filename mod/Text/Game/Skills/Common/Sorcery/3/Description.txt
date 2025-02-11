@@ -1,0 +1,1 @@
+﻿A két egymást követő varázslás közötti intervallum a hő esetén 24%-kal csökken. A Tömeges hatású varázslatokat ez nem érinti.<br><color_default>A hős alap Kezdeményezés értéke 11, és 14.5-re nő, akkor mindig, amikor éppen varázslatokat varázsol el.

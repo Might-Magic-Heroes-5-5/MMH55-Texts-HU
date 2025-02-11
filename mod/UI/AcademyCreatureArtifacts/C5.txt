@@ -1,0 +1,1 @@
+﻿<center><body_bright>Életerő<br><color_default>Növeli az Életerőt ennyivel: 1+T/6.

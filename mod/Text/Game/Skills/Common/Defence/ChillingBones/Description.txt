@@ -1,0 +1,1 @@
+﻿A hős +2 Védelem értékre tesz szert, és a hős irányítása alatt álló összes Élőhalott lénycsoport Jég Mágia általi felerősítést kap, amely által az összes közelharci sebzés 10%-át visszatükrözik az őket épp támadóknak.

@@ -1,0 +1,1 @@
+﻿Lehetővé teszi a hős számára, hogy megtanulja az ellenséges hős vagy lény által a harcban használt ismeretlen varázslatokat, feltéve, hogy a varázslat elsajátításának minden előfeltétele teljesül, és hogy ezzel a szakértelemmel, láthassa az ellenséges hős leltárának tartalmát is.

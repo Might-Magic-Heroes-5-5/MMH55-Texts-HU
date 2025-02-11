@@ -1,0 +1,1 @@
+﻿A hős hatalmas üvöltése nagymértékben növeli a seregében lévő összes Ork Vérdühét, és esélye van arra, hogy a megcélzott ellenség pánikszerűen elfusson, és az ATB Kezdeményezési Sáv értékét nullára állítsa. A cél megijesztésének esélye 50% + 5% * (Hős szint – Lényszint). Ez a Harci Kiáltás nem működik azokon a lényeken, amelyek immunisak az elmekontroll hatásokra.

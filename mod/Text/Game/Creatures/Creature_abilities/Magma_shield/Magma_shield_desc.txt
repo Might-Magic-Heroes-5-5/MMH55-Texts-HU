@@ -1,0 +1,1 @@
+﻿Amikor ezt a lényt közelharci támadás éri, a tűzpajzsa a kapott sebzés 40%-át visszaveri a támadónak, függetlenül attól, hogy vissza tud-e támadni.

@@ -1,0 +1,1 @@
+﻿A hős +2 Tudás értéket szerez, és képes Harci Kiáltásokat tanulni más barátságos hősöktől, amikor találkozik velük, vagy ellenséges hősöktől a csatákban, még akkor is, ha nincsenek megfelelő előfeltételei. A hős más hősöket is megtaníthatja az általa ismert Harci Kiáltásokra, de csak akkor, ha rendelkeznek megfelelő előfeltételekkel.

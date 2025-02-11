@@ -1,0 +1,1 @@
+﻿Minden közvetlenül Sebző varázslatot a hős nagyobb erővel tud elvarázsolni. A további Sebzés hős szintenként 30% + 1%, de a mana költsége e varázslatoknak így megduplázódik.

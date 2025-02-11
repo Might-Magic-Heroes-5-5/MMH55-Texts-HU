@@ -1,0 +1,1 @@
+﻿A baráti lények kapnak egy második esélyt, hogy ellenálljanak az ellenséges varázslatoknak. A Harcos Szerencséje úgy működik, mint a Katona Szerencséje, mivel 2 esélyt ad a lénycsoport mágikus ellenállásának az aktiválódásra.

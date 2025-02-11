@@ -1,0 +1,1 @@
+﻿Osztály: Hadúr<br>Specializáció: Véres Úrnő<br><br><body_bright>A hős seregében lévő összes Vérleány, Vérfúria és Vérnővér +1-et kap a Támadásához és a Védelméhez a hős minden két szintjén, az első szinttől kezdve.<br><color_default>Kezdő Képesség: Hadvezetés Haladó szint

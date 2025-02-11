@@ -1,0 +1,5 @@
+﻿-1 Szerencse<br>
+Semlegesíti a távolsági büntetéseket minden barátságos, lövöldöző lény esetében.<br><br><color=purple>
+Íjászok Álma<color_default><br>
++1 Szerencse (2/2)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

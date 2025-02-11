@@ -1,0 +1,1 @@
+﻿Mentor: A csaták kezdetén további Mana lesz elérhető minden baráti Mágus (+1), Ősmágus (+12) és Csatamágus (+7) számára. A hős seregének minden Mágusa és fejlesztései +1-et kap a Támadás értékére és a Védelem értékére a hős minden két szintjéért, az első szinttől kezdve.

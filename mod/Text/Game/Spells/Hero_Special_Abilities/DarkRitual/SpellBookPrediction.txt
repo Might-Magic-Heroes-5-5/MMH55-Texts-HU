@@ -1,0 +1,1 @@
+﻿E Misztikus specializáció lehetővé teszi, hogy a normál maximális mana felső határon túl <value=extra_mana> manát szerezzen a hős.

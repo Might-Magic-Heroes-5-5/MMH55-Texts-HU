@@ -1,0 +1,1 @@
+﻿Időváltó: Az épp varázsoló hős átalakítja a helyi időkontinuumot, megváltoztatva a lények cselekvéseinek sorrendjét a csaták kezdetén. Az átalakulás intenzitása a hős szintjétől függ.

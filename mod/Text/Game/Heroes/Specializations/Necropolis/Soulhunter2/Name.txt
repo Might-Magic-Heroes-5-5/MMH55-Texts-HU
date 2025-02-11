@@ -1,0 +1,1 @@
+﻿Osztály: Törzsfőnök<br>Specializáció: Szellemjáró<br><br><body_bright>Minden alkalommal, amikor egy ellenséges lénycsoport meghal, a harc időtartamára egy csoport barátságos szellem lép a helyére. A Szellemek száma megegyezik a hős szintjével.<br><color_default>Kezdő Képesség: Vérdüh Haladó szint

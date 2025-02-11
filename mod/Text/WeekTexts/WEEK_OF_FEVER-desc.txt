@@ -1,0 +1,1 @@
+﻿Az összes lény fele az összes lényépületben el fog pusztulni (a minimális fennmaradó mennyiség egy darab). A heti lényszám növekedésnek csak a fele él, minden lény esetén.

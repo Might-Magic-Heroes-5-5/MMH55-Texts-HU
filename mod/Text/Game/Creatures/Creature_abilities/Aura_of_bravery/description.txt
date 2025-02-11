@@ -1,0 +1,1 @@
+﻿Minden olyan baráti egység, amely e lény szomszédos mezőin áll, soha nem lesz negatív morálja.

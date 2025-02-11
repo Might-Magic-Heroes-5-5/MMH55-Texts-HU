@@ -1,0 +1,7 @@
+﻿Jelenleg nincs bennszülött 1. szintű lény a hadseregedben, amely lehetővé tenné ennek az objektumnak a felderítését. Szeretnél felderítés nélkül megtámadni az őröket?
+-------------------------------------------------------------------------------
+
+Rendben = Támadás
+Kilépés = Elhagyás
+
+-------------------------------------------------------------------------------

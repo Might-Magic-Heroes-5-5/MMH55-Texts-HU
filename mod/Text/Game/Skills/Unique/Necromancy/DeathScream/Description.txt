@@ -1,0 +1,1 @@
+﻿Speciális harci képesség arra, hogy magát a halált idézze meg csata közben. Minden ellenséges élőlény -1-et kap az Morál és a Szerencse értékeire, valamint -10%-ot a Kezdeményezés értékére. A hatás időtartama 2 + 0,05*(Hősszint) harci kör. A hős ATB Kezdeményezési Sáv értéke használat után 0,1-re áll vissza.

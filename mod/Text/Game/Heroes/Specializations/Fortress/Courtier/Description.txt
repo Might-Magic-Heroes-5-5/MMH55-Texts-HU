@@ -1,0 +1,1 @@
+﻿Arany Nyelv: A semleges lények nagyobb valószínűséggel csatlakoznak ehhez a hőshöz. A hősnek szintenként +5% bónusz jár a hadsereg erejének értékeléséhez a diplomáciai számításoknál. Továbbá a győzelmek aranyat és nyersanyagokat biztosítanak ennek a hősnek.

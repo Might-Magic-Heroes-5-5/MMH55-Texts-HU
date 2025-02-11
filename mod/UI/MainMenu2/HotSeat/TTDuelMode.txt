@@ -1,0 +1,1 @@
+﻿Játssz párharcot két hős között, teljesen egyenlő feltételek mellett. Az AI elleni játékhoz aktiváld az automatikus harcot egy játékos esetén.

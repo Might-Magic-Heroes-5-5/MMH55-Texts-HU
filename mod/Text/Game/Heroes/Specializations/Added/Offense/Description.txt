@@ -1,0 +1,1 @@
+﻿Aggresszor: A hős +1 Támadás értékkel kezd, és minden 7. hős szint után +1-gyel megnöveli.

@@ -1,0 +1,1 @@
+﻿A hős által elvarázsolt minden varázslat (beleértve a Kalandtérképes varázslatokat is) Manaköltsége véletlenszerűen lecsökkenhet. A csökkentett érték -10% és -30% közé esik.

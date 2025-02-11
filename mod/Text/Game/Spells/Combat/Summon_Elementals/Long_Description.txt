@@ -1,0 +1,1 @@
+﻿Megidéz egy lénycsoportnyi Elementált, hogy az harcoljon a hős ügyéért. A megidézett Elementálok típusa a hős által a Idéző Mágia ágban elsajátított szakértelmektől függ, és alapértelmezés szerint Föld elementálok idéződnek, ha nem tanultak még semmilyen szakértelmet az Idéző Mágia ágból.

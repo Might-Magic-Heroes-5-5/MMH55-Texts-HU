@@ -1,0 +1,1 @@
+﻿Minden héten véletlenszerű mennyiségű (3-7) véletlenszerű Nyersanyag erőforrást biztosít a játékosnak. Az Nyersanyag erőforrás típusa soha nem Fa vagy Arany.

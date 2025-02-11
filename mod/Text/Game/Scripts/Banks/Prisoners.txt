@@ -1,0 +1,1 @@
+﻿<color=yellow>Kiszabadítottad a foglyokat: <value=num> (<value=upgtype>) csatlakozik hozzád.

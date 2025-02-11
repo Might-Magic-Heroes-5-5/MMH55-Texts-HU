@@ -1,0 +1,1 @@
+﻿A látogató hősnek +500 mozgáspontot ad egy napra és +250 mozgáspontot a hét végéig.

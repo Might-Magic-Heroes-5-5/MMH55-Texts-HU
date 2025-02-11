@@ -1,0 +1,1 @@
+﻿<center><body_bright>Átütés<br><color_default>Növeli a Támadást ennyivel: 1+3*T/20.

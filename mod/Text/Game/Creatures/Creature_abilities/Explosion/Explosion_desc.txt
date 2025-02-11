@@ -1,0 +1,1 @@
+﻿A lény a Tűzlabda varázslatot lövi maga köré, amely minden szomszédos lényt megrongál, de saját magát nem. A tűzgolyó által okozott sebzés egyenlő az egység varázsereje*24-gyel.

@@ -1,0 +1,1 @@
+﻿Osztály: Bűvmágus<br>Specializáció: Gremlin Mester<br><br><body_bright>Minden Gremlin, Gremlin Mester és Gremlin Szabotőr a hős seregében +1-et kap a Támadás értékére és Védelem értékére a hős minden két szintjéért, az első szinttől kezdve..<br><color_default>Kezdő képesség - Támadás Alap szint.

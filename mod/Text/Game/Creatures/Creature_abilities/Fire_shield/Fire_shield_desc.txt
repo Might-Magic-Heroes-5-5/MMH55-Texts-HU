@@ -1,0 +1,1 @@
+﻿Amikor ezt a lényt közelharci támadás éri, Tűzpajzsa a kapott sebzés 20%-át visszaveri a támadónak, függetlenül attól, hogy vissza tud-e vágni.

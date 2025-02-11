@@ -1,0 +1,5 @@
+﻿+5 Támadás a 'Jó' fajoknak<br>
+-1 Védekezés a 'Jó' fajoknak<br>
++5 Védekezés a 'Gonosz' frakcióknak<br>
+-1 Támadás a 'Gonosz' frakcióknak<br><color_default>
+A Mágus Céh megmutatja az igazodást, az orkok "Gonosznak" számítanak.

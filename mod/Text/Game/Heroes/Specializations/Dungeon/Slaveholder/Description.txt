@@ -1,0 +1,1 @@
+﻿Minotaurusz Tábornok: A hős seregében lévő összes Minotaurusz, Minotaurusz Gárdista és Minotaurusz Kapitány azonnal cselekedni kezd, amikor a harc elkezdődik. A hős seregében lévő összes Minotaurusz és Fejlesztéseik is +1-et kapnak a Támadáshoz és a Védelemhez a hős minden második szintjénél, az első szinttől kezdve.

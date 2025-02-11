@@ -1,0 +1,1 @@
+﻿A Démoni hősök irányítása alatt álló lények 66% Esélyt kapnak arra, hogy támadásaik során további Tűz Sebzést okozzanak. Minden alkalommal, amikor hat ez a képesség, a Pokoltűz által 7 + 7 * Varázserő értékben egyenlő Tűz Sebzést okoz, és 2 Manapontot szív el.

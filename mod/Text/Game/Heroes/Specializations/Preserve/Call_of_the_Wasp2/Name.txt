@@ -1,0 +1,1 @@
+﻿Osztály: Nekromanta<br>Specializáció: Rajkirálynő<br><br><body_bright>A Darázsraj varázslat hatékonyabb, és a hős megtanulja a Kaptár megidézése varázslatot 15. szinten. A sebzés hős szintenként 5%-kal nő. Az ATB-érték alapcsökkentését is megszorozzuk (1+0,02*Szint/3).<br><color_default>Kezdő Képesség: Idéző Mágia Alap szint

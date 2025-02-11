@@ -1,0 +1,8 @@
+﻿+3 Támadás<br>
++3 Védekezés<br>
+A barátságos lényeknek immunitást biztosít a Berobbanással szemben.<br>
+<br><color=purple>
+Törpe Királyok Páncélja<color_default><br>
++4 Védekezés (2/4)<br>
++8 Védekezés (4/4)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

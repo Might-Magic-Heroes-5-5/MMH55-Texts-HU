@@ -1,0 +1,1 @@
+﻿Osztály: Vajákos Mester<br>Specializáció: Katalizátor<br><br><body_bright>20%-kal + 0,25%-kal csökken a Felerősített Varázslatok manaköltsége hősi szintenként.<br><color_default>Kezdő Képesség: Pusztító Mágia Alap szint

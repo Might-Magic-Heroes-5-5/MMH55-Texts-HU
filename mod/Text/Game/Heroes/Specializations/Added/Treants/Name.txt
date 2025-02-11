@@ -1,0 +1,1 @@
+﻿Osztály: Kósza<br>Specializáció: Erdő Védelmezője<br><br><body_bright>A hős +2 Védelemmel kezd, és a hős seregében lévő összes Treant, Ősi Treants és Örjöngő Treant azonnal cselekedni fog, amikor a csata elkezdődik.<br><color_default>Kezdő Képesség Védelem Alap szint.

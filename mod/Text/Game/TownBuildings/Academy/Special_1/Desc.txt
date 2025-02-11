@@ -1,0 +1,2 @@
+﻿Felfed 1 extra varázslatot a Mágia Céh minden szintjén	.<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+2 Tudás érték bónuszt biztosít a város Kormányzójának. 

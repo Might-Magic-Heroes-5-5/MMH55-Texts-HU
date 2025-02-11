@@ -1,0 +1,1 @@
+﻿Arra készteti az összes barátságos egységet, hogy gyakrabban léphessenek a csatában. Ha az összes baráti lény a Lassítás varázslat hatása alatt áll, mindkét hatás aktív marad, és a varázsló hősök vagy varázsló lények erejének különbsége határozza meg az eredményt.

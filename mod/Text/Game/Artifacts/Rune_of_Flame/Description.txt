@@ -1,0 +1,3 @@
+﻿+2 Támadás<br>
++2 Mana minden csata után<br><br>
+Törpe hősöknek adományoz <value=spell_name>.

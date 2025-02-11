@@ -1,0 +1,1 @@
+﻿A hős osztálya által meghatározott Képességei és Szakértelmei, amelyeket a hős a játék során tanult meg.

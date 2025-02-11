@@ -1,0 +1,1 @@
+﻿Az összes baráti lény esetén a minimális sebzést a maximális sebzés felé növeli. Ha a célpontok a Gyengeség varázslat hatása alatt állnak, akkor megtisztulnak attól. A hatás nem haladhatja meg a 100%-ot.

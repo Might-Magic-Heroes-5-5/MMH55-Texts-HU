@@ -1,0 +1,1 @@
+﻿Felbőszűlés<br><color_default>+1 Támadás érték minden szövetséges lénycsoportonként<br>melyek elestek a csatában.

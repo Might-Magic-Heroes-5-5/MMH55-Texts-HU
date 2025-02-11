@@ -1,0 +1,2 @@
+﻿Lehetővé teszi a Balliszta kézi vezérlését, és a Balliszta egy plusz lövést kap.<br><color_default>
+Visszaállítja a Ballisztát a csata után, ha az megsemmisült. A Balliszta Életerő pontjainak száma megszorzódik 3-mal.

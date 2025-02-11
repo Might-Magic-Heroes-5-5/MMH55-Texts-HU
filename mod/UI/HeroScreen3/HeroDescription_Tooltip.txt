@@ -1,0 +1,1 @@
+﻿A hős osztálya határozza meg képességeiket és induló Attribútum pontjaikat is. A hős szintje befolyásolja attribútum pontjaikat. Az új szint elérése lehetővé teszi új Képességek és alképességek megszerzését, valamint a hős attribútumpontjainak megemelését és fejlesztését.

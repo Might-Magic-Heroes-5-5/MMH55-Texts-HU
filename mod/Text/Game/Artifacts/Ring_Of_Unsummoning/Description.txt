@@ -1,0 +1,5 @@
+﻿+2 varázserő<br>
++2 Tudás<br>
+-50% az ellenséges hősök által megidézett elementálok mennyiségéből<br>
+-50% az ellenséges megidézett Darázskaptár, Főnix és Pengefal Életerejére<br>
+Megadja az Elűzés képességét.

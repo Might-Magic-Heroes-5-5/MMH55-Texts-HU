@@ -1,0 +1,1 @@
+﻿Ha ezt az opciót választod, állandó, végtelen s egyidőben játszódó köröket tesz lehetővé, az egyidejű körök nem szakadnak meg, ha a hősök egymás közelében vannak. Más játékosok megtámadása, miközben a város képernyőjét használják, mozgási pontok elvesztését eredményezi.

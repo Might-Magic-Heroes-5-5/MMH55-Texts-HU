@@ -1,0 +1,1 @@
+﻿Hit Védelmezője: A csaták kezdetén további Mana válik elérhetővé minden baráti Pap (+6), Inkvizítor (+14) és Fanatikus (+7) számára. Továbbá minden hét elején több ilyen lény lesz elérhető toborzásra az összes tulajdonban lévő Szent Birodalom városban. Az összeg 0,13*hős szintnek felel meg. A 4. hős szint előtt nem állnak rendelkezésre extra lények.

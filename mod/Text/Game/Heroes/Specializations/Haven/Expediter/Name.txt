@@ -1,0 +1,1 @@
+﻿Osztály: Lovag<br>Specializáció: Eszménykép<br><br><body_bright>A hős +2 Tudással indul, és a Gyorsítás varázslat hatása minden egyes hősi szinten 0,15%-kal nő.<br><color_default>Kezdő Képesség: Fény Mágia Alap szint

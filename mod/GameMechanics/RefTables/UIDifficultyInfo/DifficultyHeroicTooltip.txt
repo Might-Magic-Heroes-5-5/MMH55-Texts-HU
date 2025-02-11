@@ -1,0 +1,4 @@
+﻿Emberi Játékos Nyersanyagok:10000/5/10
+AI Gépi Nyersanyagok:30000/15/30
+Semlegesek: 1.3 + (*1.15 hetente)
+Tapasztalati pont: x/1.3

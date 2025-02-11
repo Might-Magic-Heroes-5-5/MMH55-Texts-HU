@@ -1,0 +1,1 @@
+﻿Kincsestár Őre: A hősnek +2 Támadás értéke lesz örökre, és minden hét elején további Csontsárkány, Szellemsárkány és Kísértetsárkány toborozható lesz az összes saját tulajdonban lévő Nekropolisz városban. Az összeg 0,06*hős szintnek felel meg. A 9. hős szint előtt nem állnak rendelkezésre extra lények.

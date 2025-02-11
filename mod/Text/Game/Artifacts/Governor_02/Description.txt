@@ -1,0 +1,7 @@
+﻿+6 Tudás, ha fel van szerelve<br>
++T/2 Véletlenszerű Nyersanyag naponta<br><color_default>
+(T=A hős tudása, ha a véletlenszerű nyersanyag arany, akkor az összeget megszorozzuk 1000-rel)<br><br><color=orange>
+Főnixek<color_default><br>
+Dobd ezt az ereklyét a Szerencsekútba, és egy halom Főnixet fog megidézni. A halom mérete egyenlő 2*az eltelt hetek számával.<br><br><color=yellow>
+Hátizsák<color_default><br>
+Ha a lelet a hátizsákban van, akkor is nyersanyagokat nyerhetsz, de a funkció hősönként csak egy leletre korlátozódik. 

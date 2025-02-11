@@ -1,0 +1,1 @@
+﻿A Balliszta két extra lövést szerez, 4 egymás utáni lövést leadva egy körben.

@@ -1,0 +1,1 @@
+﻿Árnyéktáncos: A hős serege kevesebb kárt szenved a távoli támadásoktól, a távolsági sebzés csökkentése 15% + 0,5% hős szintenként.

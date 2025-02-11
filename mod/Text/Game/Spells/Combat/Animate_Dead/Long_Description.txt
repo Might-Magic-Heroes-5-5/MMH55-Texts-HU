@@ -1,0 +1,1 @@
+﻿Véglegesen feltámasztja az Élőholtakat és az Elemi lényeket, míg más lények csak a csata idejére támaszthatók fel. Szerkezet-béli lényeken nem működik.

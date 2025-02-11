@@ -1,0 +1,1 @@
+﻿Osztály: Törzsfőnök<br>Specializáció: Az Új Kán<br><br><body_bright>Minden harci kiáltás költsége 1+Hős Szint/10-el csökken, és a hős szintjének megfelelő mennyiségű dühpontot ad.<br><br><color=yellow>Kán<color_default><br>Kezdő Képesség: Kiáltás Alap szint

@@ -1,0 +1,1 @@
+﻿<center><body_bright>Hős Tudása (T)<br><color_default>Meghatározza a lények Mini-varázstárgyainak erősségét.

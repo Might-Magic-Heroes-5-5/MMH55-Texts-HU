@@ -1,0 +1,1 @@
+﻿<value=target_color>Szellemi Kapcsolat:<body_bright> <value=source> fájdalma hozzáad <value=damage> manát <value=target>

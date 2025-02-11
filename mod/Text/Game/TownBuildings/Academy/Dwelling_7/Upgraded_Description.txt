@@ -1,0 +1,2 @@
+﻿<color_default>A Felhő Kolosszeum fejlesztése.<br>
+<color_bright>A Viharfelhő Kolosszeum lehetővé teszi Titánok és Kolosszusok toborzását.

@@ -1,0 +1,1 @@
+﻿Kristály életereje:<value=health><br>Sérülés megsemmisülésekor: <value=damage>

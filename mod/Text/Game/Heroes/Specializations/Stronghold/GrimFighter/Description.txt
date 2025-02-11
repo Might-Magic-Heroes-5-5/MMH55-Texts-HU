@@ -1,0 +1,1 @@
+﻿A Kán Ökle: A harc kezdetén egy csoportnyi harcos csatlakozik a hős seregéhez, a mennyiség megegyezik a hős seregében már meglévő Harcosok, Taglózók és Uszító harcosok 25%-ával. A hős seregében lévő harcosok és fejlesztéseik a hős minden második szintjén +1-et kapnak a Támadásukhoz és a Védelmükhöz, az első szinttől kezdve.

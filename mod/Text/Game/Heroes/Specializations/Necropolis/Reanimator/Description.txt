@@ -1,0 +1,1 @@
+﻿Reanimátor: Az Újraélesztés varázslat hatása megnövekszik. A varázslat varázsereje a hős minden 3. szintjén +1-gyel nő, az első szinttől kezdve.

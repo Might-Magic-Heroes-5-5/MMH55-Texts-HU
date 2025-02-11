@@ -1,0 +1,3 @@
+﻿Talizmánnal látja el a Törzsfőnök típusú hősöket, amivel a Kalandtérkép varázslatokat használhatnak. A Sámán típusú és Boszorkány típusú hősük azonnali módon megtanulhatják a Kalandtérkép varázslatokat, és +2 Védelem értéket szereznek (Nem halmozódik több várossal.)<br><br>
+<color=green>Várportál<color_default><br>Lehetővé teszi, hogy minden hős, a térkép bármely helyéről, elteleportálhasson ebbe a városba. (Az Erő Csarnokának meglétét igényli.)<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+2 Varázserő érték bónuszt biztosít a város Kormányzójának.

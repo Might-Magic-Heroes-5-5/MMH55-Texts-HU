@@ -1,0 +1,2 @@
+﻿Az Erődítmény védőfalakkal látja el városát.<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+1 Védelem érték bónuszt biztosít a város Kormányzójának. 

@@ -1,0 +1,1 @@
+﻿A hős +0,2 bónuszt kap a kezdő ATB Kezdeményezési Sáv értékhez minden harc elején, lehetővé téve számára, hogy korábban cselekedjen.

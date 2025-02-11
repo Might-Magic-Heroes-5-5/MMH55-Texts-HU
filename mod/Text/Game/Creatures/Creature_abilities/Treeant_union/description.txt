@@ -1,0 +1,1 @@
+﻿Harconként egyszer ez a lény gyógyíthatja és feltámaszthatja önmagát és egy célpont Treant egységet is (aktivált képesség). A célegység Tündérenként 5 életerőpontot kap, míg cserébe a Tündérek 30 életerőponttal gyógyulnak Treant-enként.

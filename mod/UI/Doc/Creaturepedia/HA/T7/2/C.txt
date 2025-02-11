@@ -1,0 +1,1 @@
+﻿Ez a lény a hősök varázslataihoz hasonló mágikus varázslatokat tud használni. A mana tartalék korlátozott, de mindig maximálisra van állítva a csaták elején. A Varázsereje a lények számától függ. (Aktivált képesség)<br><br><color_bright>~Varázslatok~<br>﻿Regeneráció (Haladó szinten)<br>﻿Isteni Bosszú (Haladó szinten)

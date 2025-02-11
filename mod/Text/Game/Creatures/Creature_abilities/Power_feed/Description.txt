@@ -1,0 +1,1 @@
+﻿Ez a lény növelheti a hős varázserejét a saját varázsereje értékével, de legfeljebb a hős tudásának 2/3-ával. A nagy manaköltség kielégítéséhez egy másik Manaszívás képességgel rendelkező lényre van szükség a csatatéren (Driád). A hatás a harc végéig vagy a lény haláláig tart, és nem kumulatív (aktivált képesség).

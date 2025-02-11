@@ -1,0 +1,4 @@
+﻿-1 Morál<br>
+-2 Morál, ha nincs felvéve<br><br><color=red>
+Átkozott Ereklye<br><color_default>
+Ez az ereklye szorosan a hősön marad.

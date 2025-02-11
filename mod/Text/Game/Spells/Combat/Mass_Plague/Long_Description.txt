@@ -1,0 +1,1 @@
+﻿Pestissel sújt minden ellenséges lénycsoportot, így minden alkalommal, amikor a léncsoportok valamilyen cselekvést hajtanának végre, Föld sebzést kapnak. Ennek a varázslatnak területi hatása van.<br><color_default>A varázslat Élőhalottakon, Elemi és Szerkezet-béli egységeken nem működik.

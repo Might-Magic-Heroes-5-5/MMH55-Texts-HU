@@ -1,0 +1,1 @@
+﻿Fekete Kéz: Egy csoportnyi Felderítő csatlakozik a hős seregéhez a harc kezdetén, az összeg megegyezik a hős seregében már meglévő Felderítők, Orgyilkosok és Kóborlók 25%-ával. Továbbá, a hős seregében lévő összes Felderítő és fejlesztéseik +1-et kapnak a Támadásukhoz és a Védelmükhöz a hős minden 2. szintjénél, az első szinttől kezdve.

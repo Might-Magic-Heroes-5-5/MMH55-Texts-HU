@@ -1,0 +1,1 @@
+﻿A hős által vezetett lénycsoportok további Közelharci és Távolsági Sebzést okoznak, ha a Morál érték nulla felett van (+3% minden Morál pontért). A bónusz 15%-ra korlátozódik. A Nekropolisz hősöknél a képesség 3-mal növeli a Támadás értéket.

@@ -1,0 +1,5 @@
+﻿+3 Szerencse, ha fel van szerelve<br>
++T*200 arany naponta<br><color_default>
+(T=A hős tudása, például 4000 arany naponta 20 tudásért)<br><br><color=yellow>
+Hátizsák<color_default><br>
+Ha a varázstárgy a hátizsákban van, akkor is nyersanyagokat nyerhetsz, de a funkció hősönként csak egy ereklyére korlátozódik.

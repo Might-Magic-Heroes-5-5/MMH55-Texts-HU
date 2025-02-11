@@ -1,0 +1,1 @@
+﻿Osztály: Vajákos Mester<br>Specializáció: A Hét Város Varázsa<br><br><body_bright>A hős Idézőmágiával indul, és a tudása minden 7. szinten +1-gyel nő, továbbá a harcok után szerzett tapasztalata hős-szintenként 2%-kal nő.<br><color_default>Kezdő szakértelem: Bűvölet Mestere

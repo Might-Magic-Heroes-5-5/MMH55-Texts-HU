@@ -1,0 +1,1 @@
+﻿Osztály: Lovag<br>Specializáció: Ostrommérnök<br><br><body_bright>A Balliszta minden egyes szintjén +1-et kap a Támadásához. A Katapult esélye a falba találásra 2%-kal nő minden hősi szint után.<br><color_default>Kezdő Szakértelem: Balliszta

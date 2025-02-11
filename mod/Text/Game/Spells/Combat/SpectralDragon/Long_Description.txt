@@ -1,0 +1,1 @@
+﻿Megidéz egy Szellem Sárkányt a csatatérre, hogy az harcoljon a hős oldalán. Egyszerre csak egy sárkányt lehet megidézni. A Támadása, a Védelme, az Életereje, a Kezdeményezése és a sárkány Sebessége a hős vagy lény Varázserejének értékétől és a a varázsló hős vagy lény szintjétől függ. A hős ATB Kezdeményezési Sáv értéke a használat után 0,33-ra áll vissza.

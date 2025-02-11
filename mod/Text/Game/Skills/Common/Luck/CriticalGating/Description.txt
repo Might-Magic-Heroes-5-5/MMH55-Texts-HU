@@ -1,0 +1,1 @@
+﻿A hős most már Ördögöket, Főördögöket és Fődémonokat is kapuzhat, és fennáll annak az esélye, hogy bármely kapuzott lénycsoport 10%-kal több erősítéssel jön elő. Az esély egyenlő a hős Szerencséjével * 20%, és nulla, ha a Szerencse értéke nem pozitív.

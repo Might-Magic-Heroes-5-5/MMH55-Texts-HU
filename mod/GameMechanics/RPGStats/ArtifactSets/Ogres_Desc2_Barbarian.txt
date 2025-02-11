@@ -1,0 +1,1 @@
+﻿A Barbár hős, támadása közben, a szokásosnál 30%-kal kevesebbet mozog hátrafelé az ATB Kezdeményezési Sáv mentén.

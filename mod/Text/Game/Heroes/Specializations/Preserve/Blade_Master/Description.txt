@@ -1,0 +1,1 @@
+﻿Pengemester: A hős seregéhez a harc kezdetén egy csoportnyi pengetáncos csatlakozik, a mennyiség megegyezik a hős seregében lévő összes Pengetáncos, Harci táncos és Széltáncos 25%-ával. Továbbá a hős seregében lévő összes Pengetáncos és fejlesztés +1-et kap a támadásához és a védelméhez a hős minden két szintjénél, az első szinttől kezdve.

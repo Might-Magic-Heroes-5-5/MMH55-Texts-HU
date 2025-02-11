@@ -1,0 +1,5 @@
+﻿+1 Védekezés<br>
++1 Varázserő<br><br>
+Harc után feltámaszt egy bizonyos mennyiségű 5. szintű őshonos lényt. A mennyiség megegyezik az összes veszteség 30% + 1%*T-vel, vagy alternatívaként az összes elvesztett találatpont 130 + 10*T-vel (amelyik több feltámasztott lényt eredményez). A feltámasztáshoz 12 mana szükséges.<color_default> T = A hős tudása és az összeg lefelé kerekítve. Az élőholt, mechanikus és elemi lények nem támaszthatók fel.
+<br><color=purple>A Szent Ruhái<color_default><br>
+-2 Mana költség a feltámasztás költségéből varázstárgyanként (3/7)

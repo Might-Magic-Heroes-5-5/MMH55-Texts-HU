@@ -1,0 +1,1 @@
+﻿Ideiglenes irányítást ad a hősnek a kiválasztott ellenséges egység felett. Az ebben a varázslatban lévő egység nem tud visszatámadni (Szakértői szintű Idéző Mágia Képességszint szükséges ahhoz, hogy irányítást szerezhess egy 7. szintű lény felett).<br><color_default>A varázslat nem működik Élőhalottakon, Elemi és Szerkezet-béli egységeken.

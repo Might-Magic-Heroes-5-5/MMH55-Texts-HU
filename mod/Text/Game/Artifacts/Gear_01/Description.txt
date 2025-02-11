@@ -1,0 +1,2 @@
+﻿+4 minden Elsődleges Attribútumhoz<br>
+Minden Városkapu varázslat költségét figyelmen kívül hagyja, ha fel van szerelve

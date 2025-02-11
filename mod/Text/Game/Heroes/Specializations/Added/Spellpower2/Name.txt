@@ -1,0 +1,1 @@
+﻿Osztály: Mélységbéli Varázsló<br>Specializáció: Boszorkány Király<br><br><body_bright>A hős Varázsereje minden 6. hős szintenként +1-gyel nő.<br><color_default>Kezdő Szakértelem: Misztikus Rituálé Szakértelem

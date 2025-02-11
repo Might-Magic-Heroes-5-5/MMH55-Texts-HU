@@ -1,0 +1,1 @@
+﻿<color=yellow>Már beállítottad az ellátó hálózatot ehhez az épülethez.

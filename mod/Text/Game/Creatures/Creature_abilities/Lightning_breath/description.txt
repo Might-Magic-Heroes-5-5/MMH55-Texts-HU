@@ -1,0 +1,1 @@
+﻿Ez a lény sebzést okoz minden ellenségnek, aki a célpontja közelében áll, az ilyen támadás által okozott sebzés egyenlően oszlik meg a célpontok között. A hatás nem hat a megtorló csapásokra.

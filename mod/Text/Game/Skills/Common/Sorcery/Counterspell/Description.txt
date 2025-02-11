@@ -1,0 +1,1 @@
+﻿A hős egy speciális harci képességet kap, amely semmissé teszi az ellenség által leadott következő varázslat minden hatását, de az adott varázslat Manaköltségének dupláját szívja el tőle.

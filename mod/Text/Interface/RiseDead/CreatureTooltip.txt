@@ -1,0 +1,1 @@
+﻿<h4>E lény felélesztésének költsége: <body_bright><value=needed_energy> pont<h4> a Sötét Energiából.

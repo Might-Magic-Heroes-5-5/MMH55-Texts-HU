@@ -1,0 +1,3 @@
+﻿<color_default>A Citadella egy fejlesztése.<br>
+<color_bright>A Kastély két lövész tornyot ad a városfalhoz, megerősíti a város védelmét, és megduplázza az alaplények heti növekedését.<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+3 Védelem érték bónuszt biztosít a város Kormányzójának. 

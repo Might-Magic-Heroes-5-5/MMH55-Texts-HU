@@ -1,0 +1,1 @@
+﻿Sajnálom, de úgy látom nincs elég <value=price> aranyad hogy kifizesd az adott képesség eltörlését <value=skill_name> az emlékeidből!

@@ -1,0 +1,1 @@
+﻿Határőrség<br><br><body_bright>A hősnek bónusz van a védelmére (+1 védelem minden 2 hősi szint után), ha a harcok egy napra vannak a birtokolt várostól.

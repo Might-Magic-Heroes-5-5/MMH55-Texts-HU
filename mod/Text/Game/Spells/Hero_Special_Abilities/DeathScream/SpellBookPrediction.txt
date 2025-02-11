@@ -1,0 +1,1 @@
+﻿Csökkenti a Kezdeményezés értéket <value=initiative_bonus> %-al, a Morált és a Szerencsét <value=enchant>-val <value=duration> harci körön át.

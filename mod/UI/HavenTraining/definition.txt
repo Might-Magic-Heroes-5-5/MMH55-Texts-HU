@@ -1,0 +1,1 @@
+﻿<body>A Kiképzőterek lehetővé teszik, hogy minden héten korlátozott számú alacsonyabb szintű Szent Birodalmi lénycsoportokat képezhess ki, magasabb szintű Szent Birodalmi lénycsoportokká.

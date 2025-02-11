@@ -1,0 +1,1 @@
+﻿A Hős Tudás Attribútuma növeli a hős maximális Manapont mennyiségét: maximális Mana = 10 * Tudás. Számos Varázstárgy, néhány Másodlagos Képesség vagy Szakértelem és a Balliszta hatékonyságát is javítja.

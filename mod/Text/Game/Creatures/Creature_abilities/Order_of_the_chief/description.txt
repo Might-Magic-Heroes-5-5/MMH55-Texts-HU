@@ -1,0 +1,1 @@
+﻿Ez a lény meggyorsíthatja a kiválasztott baráti egység fordulóját azáltal, hogy növeli az ATB-jét 0,01 * SZ (= Ez a lény csoportmérete), de legfeljebb 0,6-tal. Ezzel egyidejűleg SZ-nek (aktivált képesség) megfelelő sebzést kap.

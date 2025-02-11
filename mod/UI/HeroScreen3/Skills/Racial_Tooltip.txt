@@ -1,0 +1,1 @@
+﻿A hős kezdeti Képességei és specializációi, az osztályonként meghatározottak szerint.

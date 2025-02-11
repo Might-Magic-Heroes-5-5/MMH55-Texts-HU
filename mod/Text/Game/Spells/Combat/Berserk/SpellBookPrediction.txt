@@ -1,0 +1,1 @@
+﻿Varázslat időtartama: <value=duration> cselekedet. A sebzés <value=enchant>% mértékben módosul.

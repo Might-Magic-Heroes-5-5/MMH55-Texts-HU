@@ -1,0 +1,1 @@
+﻿A hős megtanulja a Elementálok Idézése varázslatot, és minden alkalommal, amikor az ellenség megidézi az elementálokat, a hős azonnal megidéz ugyanannyi ellentétes igazodást. Ha egy Főnixet megidéznek, a hős megidézi annak egy tökéletes klónját.

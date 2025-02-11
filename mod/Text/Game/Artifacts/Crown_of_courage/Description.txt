@@ -1,0 +1,7 @@
+﻿+2 Morál<br>
++10 tudás kiszámítva minden aktív Varázstárgyra<br>
++10 védekezés kiszámítva minden aktív Varázstárgyra<br><color_default>
+(Hatással van minden, ezen a hősön aktív ereklyére, amely erőforrásokat, csapatokat ad vagy lényeket támaszt fel. A Tudás/Védekezés bónusz nem adódik hozzá a hős statjaihoz, hanem csak az említett tárgyak kiszámítási módjához. Pl: Ha a hősnek 10 tudása van, akkor úgy számítja ki az erősítéseket, mintha 20 tudással rendelkeznél.)<br><br><color=purple>
+Oroszlánszellem<color_default><br>
++6 Támadás (3/3)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.

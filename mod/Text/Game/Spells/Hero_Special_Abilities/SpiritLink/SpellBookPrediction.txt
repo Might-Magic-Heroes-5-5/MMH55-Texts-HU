@@ -1,0 +1,1 @@
+﻿A megszerzett Mana pont egyenlő (sqrt(dmg+6))/12

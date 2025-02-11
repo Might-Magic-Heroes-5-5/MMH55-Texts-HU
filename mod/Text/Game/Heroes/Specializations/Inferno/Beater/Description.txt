@@ -1,0 +1,1 @@
+﻿Gyorsító: A hős mozgási pontjai azonnal 5%-kal, majd négy szintenként 1%-kal nőnek. A Teleportáció varázslat költsége a felére csökken.

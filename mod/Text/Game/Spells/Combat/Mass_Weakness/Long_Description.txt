@@ -1,0 +1,1 @@
+﻿A hős Varázserejétől függő mértékben gyengíti az összes ellenséges lény Támadás értékét. Ha a célpont lények az Igazságos Hatalom nevű varázslat hatása alatt állnak, mindkét hatás aktív marad, és a varázsló hős vagy lény erejének különbsége határozza meg az eredményt.

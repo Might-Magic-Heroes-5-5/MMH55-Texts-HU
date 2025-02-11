@@ -1,0 +1,1 @@
+﻿A hős seregében lévő összes egység Sebesség értéke 1-gyel megnő.

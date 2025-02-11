@@ -1,0 +1,1 @@
+﻿A Rabszolgapiac lehetővé teszi, hogy eladd a hadseregedből származó lényeket, hogy pénzt szerezz. Az Eladási ár a királyságodban található Piacterek számától függ. A Logisztika képességgel rendelkező Erőd-béli hősök hetente 50%-kal több erősítést kapnak (Nem halmozódik fel több város esetén).

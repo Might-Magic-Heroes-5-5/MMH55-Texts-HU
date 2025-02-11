@@ -1,0 +1,1 @@
+﻿<center><body_bright>Páncéltörés<br><color_default>Csökkenti az ellenséges védelmet minden csapásnál ennyivel: 1+T/10.

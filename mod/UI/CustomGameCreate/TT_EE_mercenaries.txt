@@ -1,0 +1,9 @@
+﻿Lehetővé teszi annak beállítását, hogy a semleges hősök milyen gyakran támogassák a semleges lénycsoportokat. A semleges hősök ugyanolyan szintűek lesznek, mint a hős. Nem ajánlott MMH5.5 térképekhez, mivel a semleges ellenállás már fel van méretezve.
+
+Normál: Kikapcsolva
+
+Nehéz: ~25% a lénycsoportokból
+
+Hősies: ~50% a lénycsoportokból
+
+Lehetetlen: ~90% a lénycsoportokból

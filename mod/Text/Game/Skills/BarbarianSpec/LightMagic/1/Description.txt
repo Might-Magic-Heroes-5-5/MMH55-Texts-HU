@@ -1,0 +1,1 @@
+﻿Az 1. és 4. varázslatkör összes ellenséges Fény varázslatának Mágia Ág Képesség szintje 1-gyel csökken (Szakértőtől Haladóig stb.). A Varázserő minden szinten 15%-kal csökken, amikor a varázslat az egyik szint alá kerül.

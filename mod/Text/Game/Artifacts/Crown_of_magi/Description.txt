@@ -1,0 +1,8 @@
+﻿+6 Tudás<br>
++6 Mana naponta, ha megszakítás nélkül van felszerelve<br><br><color=purple>
+Sar-Issus Regália<color_default><br>
++50% Varázserő és Mana a barátságos lényeknek (2/4)<br>
++100% Varázserő és Mana a barátságos lényeknek (4/4)<br>
+*A beállított bónusz a Leltár képernyő bezárása után kerül alkalmazásra.<br><br><color=orange>
+Küldetés<color_default><br>
+Ha mind a 4 Sar-Issus regáliát elhozod egy asztrológusnak, egyedi jutalmat kapsz.

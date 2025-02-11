@@ -1,0 +1,1 @@
+﻿<center><body_bright>Sebesség<br><color_default>Növeli a Sebességet ennyivel: 1+T/40.

@@ -1,0 +1,1 @@
+﻿Lánghordozó: A hős hatékonyabb Varázsereje megnövekszik a Tűzlabda vagy Felerősített Tűzlabda varázslatok használatakor. A növekedés megegyezik a hős szinttel/3 . A Mágia Céh a Farkasok helyett a Tűzelementálokat is megidéz, de viszont akkor nem, ha a hős nem volt jelen a térképen az első napon, vagy egy kocsmából bérelték fel.

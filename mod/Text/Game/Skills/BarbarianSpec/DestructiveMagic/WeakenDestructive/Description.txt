@@ -1,0 +1,1 @@
+﻿A hős Varázsereje 2-vel megnő, és ha valaki Pusztítás Mágia Varázslatot varázsol, az ő Varázsereje 15%-kal alacsonyabb lesz a normál meglévőhez képest.

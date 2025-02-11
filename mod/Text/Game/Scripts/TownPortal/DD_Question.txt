@@ -1,0 +1,8 @@
+﻿Az Azonnal Utazás lehetővé teszi, hogy bármelyik városodat meglátogasd anélkül, hogy megváltoztatnád a hős helyét. Ha a városnak van Mágia Céh-e, a Manája azonnal visszatöltődik.
+-------------------------------------------------------------------------------
+
+Rendben = Látogasd meg a várost és állítsd vissza a Manádat
+Kilépés = Csak Mana visszaállítás
+
+-------------------------------------------------------------------------------
+A látogatás befejezéséhez menj el egy mezőnyit arrébb az ajtótól, vagy látogasd meg újra az objektumot. A látogatás véget ér, ha a hős megpróbál bemenni a város helyőrségébe, vagy egy ellenséges hős a meglátogatott város 8 mezőnyi sugarú körzetébe kerül.

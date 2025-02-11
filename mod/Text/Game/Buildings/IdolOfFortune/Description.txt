@@ -1,0 +1,8 @@
+﻿1. nap: +1 Szerencse
+2. nap: +1 Morál
+3. nap: +1 Szerencse
+4. nap: +1 Morál
+5. nap: +1 Szerencse
+6. nap: +1 Morál
+7. nap: +1 Szerencse és Morál
+Minden nap: +30 Mana

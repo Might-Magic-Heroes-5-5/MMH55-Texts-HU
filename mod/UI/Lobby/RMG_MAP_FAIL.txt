@@ -1,0 +1,2 @@
+﻿Az RANDOM Map betöltése nem sikerült, ez a hiba azért történt, mert az 'RMGmap' igazra van állítva az 'sRMGProps' alatt a térképtulajdonságok listájában, miközben a térkép nem létezik e teljesen módosítatlan módon.
+A probléma megoldásához állítsd hamis értékre a térképszerkesztőben, és küld egy térképmásolatot a többi játékosnak.

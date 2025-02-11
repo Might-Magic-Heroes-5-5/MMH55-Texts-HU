@@ -1,0 +1,6 @@
+﻿+1 Szerencse, ha fel van szerelve<br><br>
+Minden hét elején megerősíti a hős seregét őshonos 1.szintű lényekkel, feltéve, hogy már van belőlük néhány. A mennyiség megegyezik a hős tudásával.
+<br><color=orange>A Légió Regáliái<br><color_default>
+Ajánld fel a légió mind a 7 regáliáját egy Áldozati Oltáron, hogy egyedi jutalmat kapj.
+<br><color=yellow>Hátizsák<color_default><br>
+Erősítésre akkor is sor kerül, ha az ereklye nincs felszerelve, de akkor nem, ha egy magasabb szintű regália van felszerelve rajtad vagy a hátizsákodban.

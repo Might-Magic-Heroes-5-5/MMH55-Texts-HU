@@ -1,0 +1,1 @@
+﻿A hős +2 Támadás értéket kap, és a hős seregében lévő összes lény Támadása megnövekszik, ha egymás mellett állnak a Csatatéren.<br><color_default>A bónusz erőssége a lények szintjétől (1-2-3-4-5-6-7) függ  (gyenge lények esetén nagyobb hatású, nagyobb erejű lényeknél kisebb hatású) és de maximum a  +10 -es értéket érheti el.

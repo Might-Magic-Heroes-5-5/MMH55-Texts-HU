@@ -1,0 +1,1 @@
+﻿Minden szokásos hősi csapás egy kicsit visszamozgatja a célpontot az ATB Kezdeményezési sáv mentén. A cél ATB Kezdeményezési Sáv értéke 0,2-vel csökken.

@@ -1,0 +1,8 @@
+﻿<br><color=white>Fontos: <color_default>
+Ez csak egy súgó szöveg, ne ezen a beállításon indítsd el a térképet, különben a nehézség véletlenszerű lesz!
+<br><color=white>Kezdő Bónusz: <color_default>
+Függetlenül attól, hogy melyik módot választod itt, a kezdő hősök mindig kapnak egy véletlenszerű kisebb tárgyat és egy személyes lény bónuszt. A kocsmahősöknek gyengébb a serege.
+<br><color=white>Hadjáratok: <color_default>
+A Hadjáratok csak Alkalmi vagy Alapértelmezett módban játszhatók, ha a Vad vagy Rémálóm mód lehetőséget választod, a játék visszaáll az Alapértelmezett módba. A Városátalakítás lehetősége, a Kormányzói lehetőség és az Aknák irányítása varázslat mindig le van tiltva ezeken a térképeken.
+<br><color=white>Többjátékos Mód: <color_default>
+Az AI azaz Gépi játékosok nélküli játékokban a játék visszaáll az Alapértelmezett módba. Az újonnan generált ARMG térképek nem működnek Hot-seatben vagy LAN-módban script aktiválás nélkül (ehhez használd a mellékelt mapmixer alkalmazást, annak a start menü parancsikonját).

@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> Ütése <value=target>-nak Kritikus Csapás esetén:<value=font> <value=damage> sebzés okozása (<value=dead> meghalt).

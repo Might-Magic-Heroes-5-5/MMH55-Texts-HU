@@ -1,0 +1,1 @@
+﻿Minden Távolsági lövész lény a szokásosnál 30%-kal kevesebbet mozog hátrafelé az ATB Kezdeményezési Sáv mentén lövésük közben. Az alábbi hős kasztok esetén: Az Erdő Őrök, a Bosszúállók és a Druida Vezetők Szerencse értéke +1-gyel megnő.

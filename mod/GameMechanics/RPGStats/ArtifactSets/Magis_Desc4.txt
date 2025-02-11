@@ -1,0 +1,1 @@
+﻿Megduplázza a Manát és a Varázserőt, a hős seregében lévő összes varázsló képes lénynél. A hős a szokásosnál 10%-kal kevesebbet mozog hátrafelé az ATB Kezdeményezési Sáv mentén, miközben bármilyen varázslatot hajt végre. A Látnokok, a Varázsbűvészek és az Elementalisták Varázsereje +4-gyel megnő.

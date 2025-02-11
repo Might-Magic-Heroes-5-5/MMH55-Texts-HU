@@ -1,0 +1,1 @@
+﻿Balzsamozó: Az Elsősegély Sátor a hős védekezési statisztikájánként 4 életerőponttal többet gyógyít, de a hős -1 Védekezéssel indul.

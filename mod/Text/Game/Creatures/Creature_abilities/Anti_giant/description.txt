@@ -1,0 +1,1 @@
+﻿Ennek a lénynek a támadása és védekezése átmenetileg +6-tal nő, ha a célpont egy Nagy Lény.

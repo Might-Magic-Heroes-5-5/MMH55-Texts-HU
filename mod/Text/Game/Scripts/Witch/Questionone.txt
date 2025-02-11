@@ -1,0 +1,1 @@
+﻿Egy idegen kunyhóban élő öreg Boszorkány üdvözöl téged, és érdeklődik a küldetéseid iránt, saját kifürkészhetetlen céljai érdekében azt javasolja, hogy megtaníthatna erre: <value=mastery> <value=skill>. Elfogadod?

@@ -1,0 +1,5 @@
+﻿A Látnok lelkes gyűjtője az ősi Varázstárgyaknak, de gyanítja, hogy az ezeken a vidékeken keringő tárgyak egy része elvarázsolt hamisítvány lehetett. Ezért arra kéri, hogy hozzon neki megfelelő mennyiségű hasonló tárgyat a kutatásához.
+
+Jelenleg a következőt keresi: <color=white><value=qty> <value=type><color_default>
+
+A látnok különféle jutalmakat kínál majd, amikor visszatérsz.

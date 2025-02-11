@@ -1,0 +1,1 @@
+﻿<body_bright>Mágia Ellenállás: <value=target_color><value=target> részben ellenállt <value=spell>.

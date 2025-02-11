@@ -1,0 +1,1 @@
+﻿Csatánként egyszer ez a lény felrobbanhat egy tűzgömbnyi formában, Tűz sebzést okozva a szomszédos mezőkön lévő összes lénynek anélkül, hogy ő maga is megsérülne.

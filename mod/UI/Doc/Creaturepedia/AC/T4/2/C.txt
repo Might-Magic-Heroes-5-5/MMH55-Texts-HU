@@ -1,0 +1,1 @@
+﻿Ez a lény a hősök varázslataihoz hasonló mágikus varázslatokat tud használni. A mana tartalék korlátozott, de mindig maximálisra állítva a harc elején. A varázserő a lények számától függ (aktivált képesség).<br><br><color_bright>~Varázslatok~<br>﻿Harag Ökle (Haladó szinten)<br>﻿Igaz Hatalom (Haladó szinten)<br>﻿Lassítás (Haladó szinten)

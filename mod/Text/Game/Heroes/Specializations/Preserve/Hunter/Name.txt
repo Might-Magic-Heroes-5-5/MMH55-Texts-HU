@@ -1,0 +1,1 @@
+﻿Osztály: Kósza<br>Specializáció: A Vadászat Mestere<br><br><body_bright>A hős seregében lévő összes Vadász, Mestervadász és Íjászmester +1-et kap a támadásához és a védelméhez a hős minden második szintjén, az első szinttől kezdve.<br><color_default>Kezdő Szakértelem: Katona Szerencséje

@@ -1,0 +1,21 @@
+﻿Az Feljavított AI viselkedése módosul. A frakcióválasztó képernyőn az AI-t egy bizonyos nehézségi módba kényszerítheted, ha minden játékos számára ugyanazt a módot választod.
+<br><color=white>Normál<color_default><br>
+Emberi Játékos Nyersanyagok:25000/12/25
+Gépi AI Nyersanyagok:20000/10/20
+Semlegesek: 1 + (*1.11 hetente)
+Tapasztalati pont: x/1
+<br><color=white>Nehéz<color_default><br>
+Emberi Játékos Nyersanyagok:20000/10/20
+Gépi AI Nyersanyagok:20000/10/20
+Semlegesek: 1.1 + (*1.13 hetente)
+Tapasztalati pont: x/1.1
+<br><color=white>Hősies<color_default><br>
+Emberi Játékos Nyersanyagok:15000/7/15
+Gépi AI Nyersanyagok:30000/15/30
+Semlegesek: 1.2 + (*1.14 hetente)
+Tapasztalati pont: x/1.2
+<br><color=white>Lehetetlen<color_default><br>
+Emberi Játékos Nyersanyagok:10000/5/10
+Gépi AI Nyersanyagok:30000/15/30
+Semlegesek: 1.3 + (*1.15 hetente)
+Tapasztalati pont: x/1.3

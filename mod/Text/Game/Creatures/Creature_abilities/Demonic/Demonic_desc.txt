@@ -1,0 +1,1 @@
+﻿Erre a lényre nem hat a Lánclövés képesség (Szukkubusz), és sebezhető a Fény szava varázslattal szemben.

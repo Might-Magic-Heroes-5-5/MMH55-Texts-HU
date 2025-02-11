@@ -1,0 +1,6 @@
+﻿<color=red>Rémálom Mód<color_default><br>
+* Az AI-hősöket nem lehet kifosztani.
+* Minden AI-játékos összeáll az emberi játékossal szemben, az AI számítási ideje lecsökken a több AI-játékost tartalmazó térképeken.
+* Ha több emberi játékos van, akkor összeállnak az AI-játékosok ellen.
+* Az AI-hősök soha nem menekülnek a harcok elől, és halálig harcolnak.
+* A Csata helyszíneken lévő ellenséges lények +10%-os lénynövekedést kapnak.

@@ -1,0 +1,1 @@
+﻿Hit Védelmezője: A csaták kezdetén további Mana válik elérhetővé minden baráti Pap (+6), Inkvizítor (+14) és Fanatikus (+7) számára. Az összes ilyen lény azonnal cselekedni fog, amikor a csata elkezdődik.

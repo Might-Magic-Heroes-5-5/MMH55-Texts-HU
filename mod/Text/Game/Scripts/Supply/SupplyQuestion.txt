@@ -1,0 +1,4 @@
+﻿Ennek az épületnek a tulajdonosa szállítási szerződést ajánl neked <value=num> Aranyért cserébe, ha elfogadod, királyságod minden hét elején automatikusan megkapja az általa termelt Nyersanyag erőforrásokat.
+
+Rendben = Írja alá a Szerződést (<value=num> Arany)
+Kilépés = Csak egyszer látogatható.

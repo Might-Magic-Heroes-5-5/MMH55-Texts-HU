@@ -1,0 +1,1 @@
+﻿Ez az ablak információkat jelenít meg a hős osztályalapú Képességeiről és a játék során elsajátított Másodlagos Képességekről.

@@ -1,0 +1,1 @@
+﻿A Pokol-béli egységek lehetőséget kapnak arra, hogy kapunyitással hívjanak újabb velük azonos fajta Pokol-béli lényeket, és erősítést hozzanak így a csatatérre. Minden egység csatánként csak egyszer nyithat kaput. Az újonnan érkező lények csak a Kapunyitásos lények részét képezik, és a csaták végén eltűnnek.

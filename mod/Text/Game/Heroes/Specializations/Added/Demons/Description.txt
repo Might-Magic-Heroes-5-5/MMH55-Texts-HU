@@ -1,0 +1,1 @@
+﻿Démonológus: A hős +2 Tudás értékkel indul, és minden hét elején további Szarvas démonok, Szarvas felvigyázók vagy Szarvas rémek csatlakoznak a hős seregéhez (feltéve, hogy ezek a lények jelen vannak). Az összeg megegyezik a hős szinttel. Az összeget 75%-kal megnövelik minden további város után, amelyet ugyanabból a frakcióból származónak mint a hős és már el is foglalta a hős.

@@ -1,0 +1,1 @@
+﻿A sebzés mértéke <value=damage>%-kal csökkent.<br>Pajzs kapacitása: <value=enchant> Életerőpont.

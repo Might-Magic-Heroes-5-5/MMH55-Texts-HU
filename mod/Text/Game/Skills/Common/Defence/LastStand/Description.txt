@@ -1,0 +1,1 @@
+﻿A hős +2 Védelem értéket kap, megtanulja a Regeneráció varázslatot, és a hős serege a végsőkig fog harcolni. Ha az ellenség megöl egy teljes lénycsoportot, az utolsó lény 1 Életerő ponttal túléli a támadást. A lénycsoportban legalább 5 lénynek kell lennie az utolsó megtámadásakor, hogy ez a képesség aktiválódjon.

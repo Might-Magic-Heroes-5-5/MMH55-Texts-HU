@@ -1,0 +1,1 @@
+﻿Hatalmas Tűz sebzést okoz a csatatéren lévő összes lénynek és harci gépnek, és helyi fizikai sebzést okoz a becsapódás helyén.<br><color_default>A további fizikai sebzés sebzési képlete ugyanaz, mint egy Felerősített Villámcsapás esetében.

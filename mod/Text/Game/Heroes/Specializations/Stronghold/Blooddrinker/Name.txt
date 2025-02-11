@@ -1,0 +1,1 @@
+﻿Osztály: Törzsfőnök<br>Specializáció: Vérivó<br><br><body_bright>A hős véglegesen +1 Támadást kap, és minden egyes megölt ellenséges csapat (a megidézett csapatokat is figyelembe véve) a hős minden 9. szintjén +1-gyel növeli a seregében lévő összes lény támadását.<br><br><color=yellow>Kán<color=white><br><body_bright>Kezdő Képesség: Kiáltás Alap szint

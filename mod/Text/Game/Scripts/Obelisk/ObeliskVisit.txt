@@ -1,0 +1,1 @@
+﻿<color=yellow>Megfejtettél <value=amount> ennyit, a térképen lévő <value=total> Obeliszkből!

@@ -1,0 +1,1 @@
+﻿Elhivatott: A hős a Kapunyitás (alap szint) képességgel kezd (ezt a képességet a Varázserősítők általában nem tanulhatják meg), és a hős seregében lévő összes lény kezdeményezése 2,5%-kal + 0,25%-kal nő hősszintenként.

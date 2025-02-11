@@ -1,0 +1,1 @@
+﻿Lehetővé teszi a hős seregében lévő Erőd-béli lények számára, hogy harc közben elérjék a Vérdüh harmadik szintjét, ami harci bónuszokat eredményez. A megszerzett Vérdüh elnyeli a lények által elszenvedett összes Sebzés 25%-át, amíg minden düh ki nem merül.

@@ -1,0 +1,1 @@
+﻿Tudós: A hős +1 Tudással indul, és 6 szintenként megtanul egy véletlenszerű elsődleges képességet (attribútumot).

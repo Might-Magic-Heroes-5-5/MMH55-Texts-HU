@@ -1,0 +1,1 @@
+﻿A katapult két extra lövést kap, és 3 egymás utáni lövést ad le egy körben. A hős emellett megkapja a Lőszerkocsi Támadás érték bónuszait is, amelyeket általában a hadsereg távolsági egységei kapnak.

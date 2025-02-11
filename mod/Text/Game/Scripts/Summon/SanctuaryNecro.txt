@@ -1,0 +1,1 @@
+﻿<color=yellow>Holttesteket találtál a Szentély alatti kriptában! (+<value=num> <value=upgtype>)

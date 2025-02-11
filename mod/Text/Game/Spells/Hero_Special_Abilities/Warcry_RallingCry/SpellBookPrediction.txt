@@ -1,0 +1,1 @@
+﻿Növeli a Morált a következővel: <value=enchant>-el.<br> Továbbá <value=army_rp>-al növeli a hős seregének Vérdühét.

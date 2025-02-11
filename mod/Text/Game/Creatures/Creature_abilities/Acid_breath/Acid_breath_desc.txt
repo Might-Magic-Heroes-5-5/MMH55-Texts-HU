@@ -1,0 +1,1 @@
+﻿Támadás közben ez a lény nem csak a célpontot, hanem minden más, közvetlenül mögötte elhelyezkedő egységet is megsebez. A másodlagos célpontok 50%-kal kevesebb sebzést szenvednek.

@@ -1,0 +1,1 @@
+﻿A hős által a játék során megszerzett Képességek és Szakértelmek listája.

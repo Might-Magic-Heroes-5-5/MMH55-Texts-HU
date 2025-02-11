@@ -1,0 +1,1 @@
+﻿Osztály: Hadúr<br>Specializáció: Gyíktenyésztő<br><br><body_bright>Egy csoportnyi Sötét Lovas csatlakozik a hős seregéhez a harc kezdetén, a mennyiség megegyezik a hős seregében már meglévő Sötét Lovasok, Zord Lovasok és Portyázók 25%-ával. Továbbá a Gyíkharapás képesség sebzése 1,20 + 0,01 * hősi szintre nő (0,5 helyett).<br><color_default>Kezdő Képesség: Logisztika Alap szint

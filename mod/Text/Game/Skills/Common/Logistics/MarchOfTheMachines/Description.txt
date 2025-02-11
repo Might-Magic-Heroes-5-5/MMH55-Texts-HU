@@ -1,0 +1,1 @@
+﻿A hős parancsnoksága alatt álló összes Gólem Sebessége 2-vel megnő. A Vas- és Acélgólemek Kezdeményezezés értéke szintén 2-vel megnő. Továbbá 10. hős szinten minden nap egy Vasgólem, Acélgólem vagy Mágneses gólem csatlakozik a hős seregéhez, feltéve, hogy a hősnek már van néhány ilyen lény a seregében.

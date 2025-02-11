@@ -1,0 +1,1 @@
+﻿A hős fő attribútum adatai és serege. Itt átrendezheted a lényeket a hős hadseregében, és megismerheted tulajdonságaikat.

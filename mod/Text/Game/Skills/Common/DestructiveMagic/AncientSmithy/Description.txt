@@ -1,0 +1,1 @@
+﻿A hős +2 Támadás értéket kap, és a hős által vezetett összes lény további Tűz sebzést okoz az ellenséges lényeknek, a támadásaik által okozott sebzés 10%-ának megfelelő mértékben. Azok az ellenségek, akik immunisak a Tűz sebzésre, nem szenvednek további sebzést.

@@ -1,0 +1,1 @@
+﻿Osztály: Lovag<br>Specializáció: Sakklovag<br><br><body_bright>A hős a támadás, a védekezés és az összes mágikus iskola alapszintű ismeretével indul.

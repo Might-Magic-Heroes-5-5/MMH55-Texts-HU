@@ -1,0 +1,1 @@
+﻿A Kapuőrök esetében a pokolkapukkal előhozott lények számát 5%-kal megnövelik. (Több várossal halmozódik)<br><br>A Démonurak +1 Védelem értéket, a Varázserősítők +1 Tudás értéket szereznek (Több várossal halmozódik, és nem kell felkeresni a várost).<br><br>A várost ostromló ellenséges hősök -2 a Szerencsét kapnak.

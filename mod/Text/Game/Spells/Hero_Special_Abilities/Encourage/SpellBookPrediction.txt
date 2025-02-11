@@ -1,0 +1,1 @@
+﻿A harci körök gyorsabban jönnek <value=enchant>%-al.

@@ -1,0 +1,3 @@
+﻿Lehetővé teszi a látogató hős számára, hogy megtanulja a benne rejlő varázslatokat. Megtartja a negyedik kör 2 varázslatát.<br><br>
+<color=orange>Farkasok<color_default><br>Ez az épület képes megidézni Farkasokat, és minden héten hozzáadja őket a város helyőrségéhez. A Farkasok száma a hősök által összegyűjtött Sárkányvér kristályok mennyiségétől (A) és a hősök tapasztalati szintjétől (B) függ. Képlet = sqrt(sum(A*B))/12 * (3+guild level), amelyben az összeg(A*B) nem haladhatja meg a 600-at. Az összeg nulla, ha nem gyűjtenek kristályt.<br><br>
+<color=0099FF>Kormányzóság<color_default><br>+4 Varázserő érték bónuszt biztosít a város Kormányzójának.

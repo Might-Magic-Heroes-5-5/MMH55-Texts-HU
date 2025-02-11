@@ -1,0 +1,1 @@
+﻿A hős +2 Varázserő értéket szerez, és 1-gyel tovább növeli minden 10. hős szint után. A hős egy új, 1-3 szintű véletlen varázslatot is elsajátít, feltéve ha megvannak hozzá az előfeltételei.

@@ -1,0 +1,1 @@
+﻿Goblin Király: A harc kezdetén minden Goblin, Goblin Vadász és Goblin Ördögűző azonnal cselekedhet. Továbbá minden hét elején több ilyen lény csatlakozik a hős seregéhez (feltéve, hogy néhány ilyen lény jelen van). A mennyiség megegyezik 1,6*hős szintjével. A mennyiség 75%-kal nő minden további elfoglalt város után, amely a hőssel azonos frakcióhoz tartozik.
