@@ -1,0 +1,12 @@
+Frakció osztályok
+Balra/jobbra kattintással 1/10-zel növelhető. Középső kattintással visszaállítható.
+Balra/jobbra kattintás a szint 1/10-zel való növeléséhez. Középső kattintás a visszaállításhoz.
+2.5%*(Támadás-Védelem)+Támadási_képesség[10%/15%/20%] sebzésnövelés
+2.5%*(Védelem-Támadás)+Védelmi_képesség[5%/10%/15%] sebzéscsökkentés.
+Hős Manája
+Varázslatok:
+Hős betöltése
+Válasszon egy előbeállítást
+Vissza
+Törlés
+Biztos vagy benne?

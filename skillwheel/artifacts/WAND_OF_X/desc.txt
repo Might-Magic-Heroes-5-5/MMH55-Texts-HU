@@ -1,0 +1,5 @@
++2 Varázserő
+
+Megadja a képességet, hogy ezzel a pálcával Haladó szinten varázsoljon (kivéve, ha a hős mesteri szintje magasabb). A pálca korlátozott számú használatra alkalmas, és egy Mágikus Céhben újratölthető. A megadott varázslat a következők egyike lehet: „Darázsraj” (6), »Tűzlabda« (4), »Jégcsapás« (6), »Zavartság« (6), »Misztikus kristály« (5), »Teleportáció« (3), »Elűzés« (3), »Földrengés« (5), »Lövedékek Eltérítése« (6), »Szomorúság« (5).
+
+A Törzsfőnökök nem tudnak varázsolni, de megkapják a Varázserő bónuszt.

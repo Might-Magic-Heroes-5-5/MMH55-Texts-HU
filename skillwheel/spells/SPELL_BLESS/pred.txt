@@ -1,0 +1,2 @@
+Lény min. sebzése = min sebzés + (max sebzés - min sebzés)*<value=damage>.
+Varázslat időtartama: <value=duration> kör.

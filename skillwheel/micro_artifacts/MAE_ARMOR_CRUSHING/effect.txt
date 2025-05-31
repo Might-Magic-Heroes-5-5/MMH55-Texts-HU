@@ -1,0 +1,1 @@
+Minden találat csökkenti az ellenséges lények védelmét <value> értékkel.

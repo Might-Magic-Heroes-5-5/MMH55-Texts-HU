@@ -1,0 +1,6 @@
+Megidézés
+Balra/jobbra kattintással 1/10-zel növelhető. Középső kattintással visszaállítható.
+Balra/jobbra kattintással növelhető 1-re. Középső kattintással visszaállítható.
+Hős szint, balra/jobbra kattintás 1/10-zel való növeléshez. Középső kattintás a visszaállításhoz.
+Sárkányvér kristályok mennyisége
+Mágikus céh szintje

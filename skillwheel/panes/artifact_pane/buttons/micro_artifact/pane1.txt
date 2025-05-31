@@ -1,0 +1,11 @@
+Leírás
+Tudás
+Balra/jobbra kattintás a tudás 1/10-zel való növeléséhez. Középső kattintással visszaállítható.
+Tétel
+Hatások
+Költség szorzó
+Kovácsolás
+Nincs kiválasztott tárgy vagy hatás
+Leltár
+Tiszta leltár
+Költség

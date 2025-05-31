@@ -1,0 +1,2 @@
+,
+Felerősített Sebzés: <value=damage2>

@@ -1,0 +1,15 @@
+Tulajdonságok
+Szint
+Nincs
+Alapvető
+Haladó
+Szakértő
+Képzettségi szint
+Manaköltség
+Varázserő
+Balra/jobbra kattintás a varázserő 1/10-zel való növeléséhez. Középső kattintással visszaállítható.
+Követelmények
+Tömeges verzió
+Erősített verzió
+Hősi szint a Megerősített Varázslatok sebzésszámításhoz. Balra/jobbra kattintás +1/+10. Középső kattintás a visszaállításhoz.
+Őshonos mágiaiskolák

@@ -1,0 +1,1 @@
+A lények sebzése megnövekedett <value>-al.
