@@ -1,0 +1,13 @@
+Statisztikák
+Támadás
+Védekezés
+Sebzés
+Kezdeményezés
+Sebesség
+Életerő pontok
+Mana-állomány
+Lövések
+Heti növekedés
+Költség
+Szint
+Képességek:

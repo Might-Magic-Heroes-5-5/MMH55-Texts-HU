@@ -1,0 +1,2 @@
+A képlet a következő: <koef>*F*(Varázserő+<flat>)
+F egyenlő az elpusztított lények négyzetgyöke szorozva a szintjükkel. Példák: A paladin 6-os, az ördög 7, a gremlin 1, stb.

@@ -1,0 +1,1 @@
+A hatékony varázserő egyenlő 1/<value=damage> a hős varázsererejével.

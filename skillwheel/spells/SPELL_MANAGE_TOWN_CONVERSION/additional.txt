@@ -1,0 +1,1 @@
+A fővárossal rendelkező városok nem alakíthatók át. Minden épületet újjáépítenek, kivéve a különleges épületeket, a lakónépességet egy hétre csökkentik. A T1,T2 és T3 lakások maximális száma 2 minden típusnál. A T4-7 katonai állások maximális száma 4.

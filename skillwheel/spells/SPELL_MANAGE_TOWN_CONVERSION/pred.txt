@@ -1,0 +1,3 @@
+Város költsége: (Town_level+1)*(3000 arany + 3 fa + 3 érc + 1 higany + 1 kristály + 1 kén + 1 drágakő)
+
+Lakásköltség (arany, fa, érc): T1 - 2000, 5, 5; T2 - 4000, 5, 5; T3 - 6000, 5, 5; T4-7 - 8000, 10, 10

@@ -1,0 +1,2 @@
+A Sebzés a következőkkel can módosítva <value=enchant>%.
+Varázslat időtartama: <value=duration> akció.

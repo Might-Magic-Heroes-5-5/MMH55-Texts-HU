@@ -1,0 +1,1 @@
+A lények sebessége megnövekedett <value> értékkel.

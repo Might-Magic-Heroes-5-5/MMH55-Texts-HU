@@ -1,0 +1,2 @@
+Lény maximális sebzése = min sebzés + (max sebzés - min sebzés)*<value=damage>.
+Időtartam: <value=duration> kör.
