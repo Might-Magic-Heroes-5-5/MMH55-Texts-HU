@@ -1,0 +1,1 @@
+﻿A nem mágikus lövedékek által okozott sebzés csökken <damage> %-al.

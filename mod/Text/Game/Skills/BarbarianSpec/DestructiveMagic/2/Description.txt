@@ -1,1 +1,1 @@
-﻿Az 1. és 3. varázslatkör összes ellenséges Pusztító varázslatának Mágia Ág Képesség szintje 2-vel csökken (Szakértőtől Haladóig stb.). A 4. és 5. varázskör esetén 1-el csökken. A Varázserő minden szinten 15%-kal csökken, amikor a varázslat az egyik szint alá kerül.
+﻿Az ellenség 1–3. körös Pusztító Mágia varázslatainak mesteri szintje 1-gyel csökken, a 4. és 5. körös varázslatoké pedig 2-vel. A varázserő is 15%-kal csökken minden olyan szintnél, amely a minimális szint alatt marad.

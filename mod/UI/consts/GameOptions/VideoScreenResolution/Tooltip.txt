@@ -1,0 +1,2 @@
+﻿Válassza ki a videokártyája és a monitorja által támogatott képernyőfelbontást (minél magasabb ez az érték, annál jobb képminőséget kap, de ez a teljesítmény rovására megy).
+Ez az opció nem használható, ha a játék ablakos módban fut. Ha a legördülő menü üres, térjen vissza a főmenübe (ahol kiválaszthatja az „Opciók” menüpontot), majd térjen vissza ide.

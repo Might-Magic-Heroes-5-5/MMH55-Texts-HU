@@ -1,1 +1,1 @@
-﻿A hős +2 Varázserő értéket szerez, és minden hét elején további Dzsinnek, Dzsinn Szultánok vagy Dzsinn Vezírek csatlakoznak a hős seregéhez, az összeg 0,2 * hős szint.
+﻿A hős +2 Varázserő értéket szerez, és minden hét elején további Dzsinnek, Dzsinn Szultánok vagy Dzsinn Vezírek csatlakoznak a hős seregéhez feltéve, hogy már vannak ilyenek a seregükben. Az összeg egyenlő 0,33* a hős szintjével.

@@ -1,0 +1,1 @@
+﻿Az összes szomszédos mezőn található barátságos lény kevesebb kárt kap a nem mágikus lövéses támadásoktól. A kárcsökkentés minden egység után 2%, de legfeljebb 50%.

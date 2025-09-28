@@ -1,3 +1,3 @@
-﻿5%-ot ad a játékos irányítása alatt álló összes hős Nekromanta képességéhez, és további 100 Sötét Energia pontot ad nekik (Több várossal együtt halmozódik).<br><br>
+﻿2%-ot ad a játékos irányítása alatt álló összes hős Nekromanta képességéhez, és további 100 Sötét Energia pontot ad nekik (Több várossal együtt halmozódik).<br><br>
 A Necromancia képesség nélküli Halállovagok és Mélységbéli Varázslók +2 Mana regenerációt kapnak naponta (Több várossal együtt halmozódik).<br><br>
 <color=0099FF>Kormányzóság<color_default><br>+2 Varázserő érték bónuszt biztosít a város Kormányzójának.

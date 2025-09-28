@@ -1,5 +1,5 @@
-﻿-2 Morál az ellenséges lényeknek<br>
--2 Szerencse az ellenséges lényeknek<br><br>
+﻿-2 Szerencse az ellenséges lényeknek<br>
+-2 Védelem<br><br>
 <color=purple>A Halál Ölelése<color_default><br>
 +6 Varázserő (3/6)<br>
 +12 Varázserő (6/6)<br>

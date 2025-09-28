@@ -1,1 +1,2 @@
-﻿Eltávolítja a keretet a játékablakból ablak módban.
+﻿Ablak módban: eltávolítja a szegélyt, de a méretváltoztatás nem lesz elérhető.
+Teljes képernyős módban: az ablak módot kényszeríti a fő monitor aktuális felbontási értékével.

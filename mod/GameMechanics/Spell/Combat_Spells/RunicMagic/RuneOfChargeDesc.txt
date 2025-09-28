@@ -1,0 +1,1 @@
+﻿A lény sebessége 3-mal nő a kör végéig.

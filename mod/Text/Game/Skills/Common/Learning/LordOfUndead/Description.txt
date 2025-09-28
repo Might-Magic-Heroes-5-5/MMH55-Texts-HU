@@ -1,1 +1,1 @@
-﻿A hős +2 Tudás értéket szerez, és naponta 0,5 aranyat szerez, seregének minden Csontvázáért. A Nekropolisz hősei hetente további mennyiségű Csontvázat is kaphatnak. A mennyiségük összege megegyezik a Tudás értékükkel.
+﻿A hős +2 Tudás értéket szerez,+5%-al nő a nekromanciával feltámasztott lények száma és bónuszként naponta 0,5 arany üti a markát, seregének minden Csontvázáért. A Nekropolisz hősei hetente további mennyiségű Csontvázat is kaphatnak. A mennyiségük összege megegyezik a Tudás értékükkel.

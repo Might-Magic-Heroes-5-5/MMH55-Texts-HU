@@ -1,1 +1,1 @@
-﻿A lénynek lehetősége lesz közelharci támadást végrehajtani, amely sebzésének 50%-át okozza az összes közeli ellenség ellen egyszer (Nincs visszatámadás).
+﻿A lénynek lehetősége lesz egyszer egy közelharci támadást végrehajtani, amely a közelében lévő összes ellenségnek a sebzésének 50%-át okozza (nincs visszatámadás).
