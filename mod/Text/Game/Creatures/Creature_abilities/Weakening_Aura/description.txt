@@ -1,1 +1,1 @@
-﻿Ez a lény csökkenti az összes szomszédja támadását -4-el és védelmét -4-el, valamint morálját -2-vel, függetlenül attól, hogy kié. A halhatatlan lények immunisak erre a hatásra.
+﻿Ez a lény csökkenti az összes szomszédja támadását -4-el és védelmét -4-el, valamint morálját -1-gyel, függetlenül attól, hogy kié. Az élőhalott lények immunisak erre a hatásra.

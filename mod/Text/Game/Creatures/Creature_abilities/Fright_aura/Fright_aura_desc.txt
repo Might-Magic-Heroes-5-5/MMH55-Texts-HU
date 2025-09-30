@@ -1,0 +1,1 @@
+﻿Az e lényhez szomszédos mezőkön álló összes ellenség morálja 2-vel csökken (ez nem érinti azokat a lényeket, amelyek morálja mindig semleges).

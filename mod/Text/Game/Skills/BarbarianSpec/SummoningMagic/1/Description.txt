@@ -1,1 +1,1 @@
-﻿Az 1. és 4. varázslatkör összes ellenséges Idéző varázslatának Mágia Ág Képesség szintje 1-gyel csökken (Szakértőtől Haladóig stb.). A Varázserő minden szinten 15%-kal csökken, amikor a varázslat az egyik szint alá kerül.
+﻿Az ellenséges 4. és 5. körös Idéző Mágia varázslatok mesteri szintje 1-gyel csökken. A varázserő is 15%-kal csökken minden olyan szintnél, amely a minimális szint alatt marad.

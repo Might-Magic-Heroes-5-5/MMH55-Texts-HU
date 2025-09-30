@@ -1,0 +1,1 @@
+﻿<value=target_color>Félelemhatás:<body_bright> <value=target> elmenekül és késlelteti a fordulatot <value=damage>% ATB.

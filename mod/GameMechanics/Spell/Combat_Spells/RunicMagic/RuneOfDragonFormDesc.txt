@@ -1,1 +1,1 @@
-﻿Egy körre megduplázza a lény támadását és védelmét. A hőstől kapott támadási és védelmi bónuszokat nem duplázza meg, és a varázslat nem működik a sárkányokon.
+﻿Egy körre 10-zel növeli a lény támadását és védelmét.

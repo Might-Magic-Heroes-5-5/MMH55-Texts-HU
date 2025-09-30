@@ -1,0 +1,1 @@
+﻿Játssza a játékot teljes képernyős módban. Ha ez le van tiltva, akkor ablakos módban fog futni. Ablakos módban a játék ablakának mérete az egérrel a képernyő szélének húzásával állítható be.

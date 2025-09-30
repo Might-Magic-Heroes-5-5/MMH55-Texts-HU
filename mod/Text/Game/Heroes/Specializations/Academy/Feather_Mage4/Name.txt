@@ -1,1 +1,1 @@
-﻿Osztály: Mélységbéli Varázsló<br>Specializáció: Szelek Szólója <br><br><br><br>A hős körei gyorsabban következnek a csatákban a hős szintjétől függően. A hős Kezdeményezése 11,5 + 0,025 * hős szint lesz (11 helyett).<br><color_default>Kezdő Szakértelem : Misztikus Rituálé
+﻿Osztály: Lángőr<br>Specializáció: Szelek Szólója <br><br><br><br>A hős körei gyorsabban következnek a csatákban a hős szintjétől függően. A hős Kezdeményezése 11,5 + 0,025 * hős szint lesz (11 helyett).<br><color_default>Kezdő Szakértelem : Misztikus Rituálé

@@ -1,6 +1,6 @@
 ﻿+3 Támadás<br>
 +3 Védekezés<br>
-A barátságos lényeknek immunitást biztosít a Berobbanással szemben.<br>
+A barátságos lényeknek immunitást biztosít az Összeomlással szemben.<br>
 <br><color=purple>
 Törpe Királyok Páncélja<color_default><br>
 +4 Védekezés (2/4)<br>
