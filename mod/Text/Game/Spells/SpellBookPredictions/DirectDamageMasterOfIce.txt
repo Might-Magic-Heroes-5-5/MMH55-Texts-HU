@@ -1,0 +1,1 @@
+﻿Varázslat Sebzése: <value=damage>, megfagyasztja az ellenséget.

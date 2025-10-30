@@ -1,1 +1,1 @@
-﻿<br><color_default>suffer <value=damage> sebzés harci körönként
+﻿<br><color_default>Elszenved <value=damage> sebzést harci körönként
